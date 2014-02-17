@@ -26,6 +26,6 @@ module Hack
     # config.i18n.default_locale = :de
     config.app_generators.stylesheet_engine :less
 
-    config.assets.precompile += %w(cyborg.js cyborg.css)
+    config.assets.precompile += %w(lumen.js lumen.css)
   end
 end

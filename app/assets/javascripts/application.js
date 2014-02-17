@@ -12,6 +12,6 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require cyborg/loader
-//= require cyborg/bootswatch
+//= require lumen/loader
+//= require lumen/bootswatch
 
