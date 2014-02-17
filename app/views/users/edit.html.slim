@@ -1,3 +1,3 @@
-= form_tag update_user_path(@user), method: :put
+= form_tag user_path(@user), method: :put
   = text_field_tag "user[mobile]", "#{@user.mobile}", placeholder: "Please enter your mobile number"
   = submit_tag 'Go'
