@@ -25,7 +25,5 @@ module Hack
     # config.i18n.load_path += Dir[Rails.root.join('my', 'locales', '*.{rb,yml}').to_s]
     # config.i18n.default_locale = :de
     config.app_generators.stylesheet_engine :less
-
-    config.assets.precompile += %w(lumen.js lumen.css)
   end
 end
