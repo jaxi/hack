@@ -33,6 +33,10 @@ gem 'jquery-rails'
 # Use Rails admin
 gem 'rails_admin'
 
+# Omniauth
+gem 'omniauth-twitter'
+gem 'omniauth-facebook'
+
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 # gem 'turbolinks'
 
