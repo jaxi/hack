@@ -14,8 +14,18 @@ html(lang="en")
 
 
   body
-
-    = yield
+    .navbar.navbar-default.navbar-fixed-top
+      .container
+        .navbar-header
+        #navbar-main.navbar-collapse.collapse
+          ul.nav.navbar-nav
+            li
+              a#themes href="#"
+                | Sky Ranger
+          = render 'layouts/sign_bar'
+    .container
+      #banner.page-header
+        == yield
 
     /!
       | Javascripts
