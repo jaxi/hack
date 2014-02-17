@@ -5,6 +5,9 @@ Hack::Application.routes.draw do
   root 'pages#index'
 
   get 'auth/:provider/callback', to: 'session#create'
-  get 'auth/failure', to: redirect('/')
   delete 'signout', to: 'session#destroy', as: 'signout'
+  get '/session/edit/:id', to: 'session#edit', as: 'edit_user'
+  put '/session/:id', to: 'session#update', as: 'update_user'
+
+  get 'auth/failure', to: redirect('/')
 end
