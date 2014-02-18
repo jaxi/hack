@@ -10,7 +10,7 @@ $(function(){
       return $.get('/airports/autocomplete',
         {query: query}, function(data){
           result = $.map( data, function( val, i ) {
-            return val.airport_name + " Airport, " + val.city_name;
+            return val.airport_name + " Airport, " + val.city_name + ', ' + val.country_name;
           });
           return process(result);
         });

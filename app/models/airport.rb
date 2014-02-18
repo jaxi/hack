@@ -18,7 +18,7 @@ class Airport < ActiveRecord::Base
     [:airport_id, :airport_name, :city_id, :city_name, :country_id, :country_name]
 
 
-  def self.autocomplete(query)
-    self.search(query, autocomplete: true, limit: 5)
+  def self.autocomplete(query, limit: 10)
+    self.search(query, autocomplete: true, limit: limit)
   end
 end
