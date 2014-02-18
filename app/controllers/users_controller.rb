@@ -18,6 +18,6 @@ class UsersController < ApplicationController
   end
 
   def has_permission?
-    redirect_to root_path unless current_user && params[:id] == current_user.id
+    redirect_to root_path unless current_user && params[:id].to_i == current_user.id
   end
 end
