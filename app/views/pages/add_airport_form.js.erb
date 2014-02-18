@@ -1,1 +1,12 @@
 $("<%= escape_javascript(render 'airports/location_input') %>").appendTo(".search-form-group");
+$(".search-query").typeahead({
+  source: function(query, process){
+    return $.get('/airports/autocomplete',
+      {query: query}, function(data){
+        result = $.map( data, function( val, i ) {
+          return val.airport_name + " Airport, " + val.city_name;
+        });
+        return process(result);
+      });
+  }
+});
