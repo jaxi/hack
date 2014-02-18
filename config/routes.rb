@@ -1,7 +1,13 @@
 Hack::Application.routes.draw do
   mount RailsAdmin::Engine => '/admin', :as => 'rails_admin'
 
-  get "pages/index"
+  resources :pages, only: [:index] do
+    collection do
+      post :add_airport_form
+      post :remove_airport_form
+    end
+  end
+
   root 'pages#index'
 
   get 'auth/:provider/callback', to: 'session#create'

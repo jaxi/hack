@@ -1,5 +1,5 @@
 $(function(){
-  console.log("hello world");
+
   $(".search-query").typeahead({
     source: function(query, process){
       return $.get('/airports/autocomplete',
