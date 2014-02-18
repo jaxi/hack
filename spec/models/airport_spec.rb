@@ -11,6 +11,8 @@
 #  country_name :string(255)
 #  created_at   :datetime
 #  updated_at   :datetime
+#  latitude     :float
+#  longitude    :float
 #
 
 require 'spec_helper'

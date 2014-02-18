@@ -1,3 +1,13 @@
+# == Schema Information
+#
+# Table name: wishlists
+#
+#  id         :integer          not null, primary key
+#  settings   :text
+#  created_at :datetime
+#  updated_at :datetime
+#
+
 class Wishlist < ActiveRecord::Base
 
   store :settings, accessors: [:cities, :stays]
