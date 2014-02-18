@@ -1,6 +1,5 @@
-= form_tag './', class: "form-inline", method: :get do
+= form_tag url_for, class: "form-inline", method: :get do
   .input-group.input-group-lg
-    - if params[:query].present?
-      .input-group-btn
-        = link_to "clear", root_path, class: "btn btn-default"
-    = text_field_tag :query, params[:query], class: "form-control", id: "airport_search", autocomplete: "off"
+    = text_field_tag :query, params[:query], class: "form-control search-query", id: "airport-search", autocomplete: "off", placeholder: "Enter your destination"
+    .input-group-btn
+      = link_to "clear", url_for, class: "btn btn-primary"

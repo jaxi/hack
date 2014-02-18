@@ -1,5 +1,6 @@
 $(function () {
 
+
   $('.auto_complete').typeahead({
     source: [
       "Andorra",

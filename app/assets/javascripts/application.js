@@ -16,3 +16,4 @@
 //= require lumen/bootswatch
 //= require bootstrap3-typeahead
 //= require pages
+//= require airports
