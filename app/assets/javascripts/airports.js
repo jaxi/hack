@@ -1,9 +1,9 @@
 $(function(){
   console.log("hello world");
-  $("#airport-search").typeahead({
+  $(".search-query").typeahead({
     source: function(query, process){
       return $.get('/airports/autocomplete',
-        {query: $("#airport-search").val()}, function(data){
+        {query: $(".search-query").val()}, function(data){
           result = $.map( data, function( val, i ) {
             return val.airport_name + " Airport, " + val.city_name;
           });
