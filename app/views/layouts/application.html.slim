@@ -17,11 +17,12 @@ html(lang="en")
     .navbar.navbar-default.navbar-fixed-top
       .container
         .navbar-header
+        a.navbar-brand href="/"
+          | Sky Omakase
         #navbar-main.navbar-collapse.collapse
           ul.nav.navbar-nav
             li
-              a#themes href="#"
-                | Sky Ranger
+              = link_to "Our Story", "http://jaxihjk.me"
           = render 'layouts/sign_bar'
     .container
       #banner.page-header
