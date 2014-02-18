@@ -1,5 +1,11 @@
 $(function(){
 
+  $(".search-form-group").sortable({
+    update: function(){
+      console.log('updated!');
+    }
+  });
+
   $("a.clear-text").on('click', function(e){
     e.preventDefault();
     $(this).closest('.input-group').find('#query').val('');
@@ -9,10 +15,7 @@ $(function(){
     source: function(query, process){
       return $.get('/airports/autocomplete',
         {query: query}, function(data){
-          result = $.map( data, function( val, i ) {
-            return val.airport_name + " Airport, " + val.city_name + ', ' + val.country_name;
-          });
-          return process(result);
+          return process(data.result);
         });
     }
   });
