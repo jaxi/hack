@@ -1,3 +1,18 @@
+# == Schema Information
+#
+# Table name: users
+#
+#  id         :integer          not null, primary key
+#  provider   :string(255)
+#  uid        :string(255)
+#  name       :string(255)
+#  email      :string(255)
+#  mobile     :string(255)
+#  state      :string(255)
+#  created_at :datetime
+#  updated_at :datetime
+#
+
 class User < ActiveRecord::Base
 
   def self.from_omniauth(auth)

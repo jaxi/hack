@@ -37,8 +37,11 @@ gem 'rails_admin'
 gem 'omniauth-twitter'
 gem 'omniauth-facebook'
 
-# Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
-# gem 'turbolinks'
+# Index by Elastic Search
+gem "searchkick"
+
+# More Programmer-friendly model
+gem "annotate"
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 1.2'

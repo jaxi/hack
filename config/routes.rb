@@ -1,6 +1,6 @@
 Hack::Application.routes.draw do
-
   mount RailsAdmin::Engine => '/admin', :as => 'rails_admin'
+
   get "pages/index"
   root 'pages#index'
 
@@ -10,4 +10,10 @@ Hack::Application.routes.draw do
   get 'auth/failure', to: redirect('/')
 
   resources :users, only: [:edit, :update]
+
+  resources :airports, only: [] do
+    collection do
+      get :autocomplete
+    end
+  end
 end
