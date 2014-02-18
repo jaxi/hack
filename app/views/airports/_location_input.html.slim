@@ -1,6 +1,6 @@
 .form-group.location-input
   .input-group.input-group-lg
     .input-group-btn
-      = link_to "clear", url_for, class: "btn btn-primary"
+      = link_to "clear", "#", class: "clear-text btn btn-primary"
     = text_field_tag :query, params[:query], class: "form-control search-query", autocomplete: "off", placeholder: "Tell us where you want to travel ;)"
 

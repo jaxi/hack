@@ -1,5 +1,10 @@
 $(function(){
 
+  $("a.clear-text").on('click', function(e){
+    e.preventDefault();
+    $(this).closest('.input-group').find('#query').val('');
+  });
+
   $(".search-query").typeahead({
     source: function(query, process){
       return $.get('/airports/autocomplete',

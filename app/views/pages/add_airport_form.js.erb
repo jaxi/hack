@@ -10,3 +10,8 @@ $(".search-query").typeahead({
       });
   }
 });
+
+$("a.clear-text").on('click', function(e){
+  e.preventDefault();
+  $(this).closest('.input-group').find('#query').val('');
+});
