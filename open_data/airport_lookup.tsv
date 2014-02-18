@@ -1,0 +1,3793 @@
+AirportID	AirportName	CityID	CityName	CountryID	CountryName
+AAA	Anaa	AAAP	Anaa	PF	French Polynesia
+AAE	Annaba	AAEA	Annaba	DZ	Algeria
+AAL	Aalborg	AALB	Aalborg	DK	Denmark
+AAN	Al Ain	AANA	Al Ain	AE	United Arab Emirates
+AAQ	Anapa	ANAP	Anapa	RU	Russia
+AAR	Aarhus	AARH	Aarhus	DK	Denmark
+AAT	Altay	CAAT	Altay	CN	China
+AAX	Araxa	AAXA	Araxa	BR	Brazil
+AAY	Al Ghaydah	AAYA	Al Ghaydah	YE	Yemen
+ABA	Abakan	ABAK	Abakan	RU	Russia
+ABB	Asaba International Airport	ASAB	Asaba	NG	Nigeria
+ABD	Abadan	ABDA	Abadan	IR	Iran
+ABE	Allentown	ABEA	Allentown	US	United States
+ABI	Abilene Municipal	ABIA	Abilene	US	United States
+ABJ	Abidjan	ABJA	Abidjan	CI	Ivory Coast
+ABK	Kabri Dar	ABKA	Kabri Dar	ET	Ethiopia
+ABL	Ambler	ABLA	Ambler	US	United States
+ABM	Bamaga	ABMA	Bamaga	AU	Australia
+ABQ	Albuquerque	ABQA	Albuquerque	US	United States
+ABR	Aberdeen	ABRA	Aberdeen	US	United States
+ABS	Abu Simbel	ABUS	Abu Simbel	EG	Egypt
+ABT	Al-Baha	ABTA	Al-Baha	SA	Saudi Arabia
+ABU	Atambua	ABUI	Atambua	ID	Indonesia
+ABV	Abuja	ABVA	Abuja	NG	Nigeria
+ABX	Albury	ABXA	Albury	AU	Australia
+ABY	Albany Dougherty County	ABYA	Albany	US	United States
+ABZ	Aberdeen	ABER	Aberdeen	UK	United Kingdom
+ACA	Acapulco	ACAA	Acapulco	MX	Mexico
+ACC	Accra	ACCA	Accra	GH	Ghana
+ACD	Acandi	ACDA	Acandi	CO	Colombia
+ACE	Lanzarote	ARRE	Lanzarote	ES	Spain
+ACH	St Gallen Altenrhein	ALTF	Altenrhein	CH	Switzerland
+ACI	Alderney	ALDE	Alderney	UK	United Kingdom
+ACK	Nantucket	ACKA	Nantucket	US	United States
+ACP	Sahand	ACPA	Sahand	IR	Iran
+ACR	Araracuara	ACRA	Araracuara	CO	Colombia
+ACS	Achinsk	ACHI	Achinsk	RU	Russia
+ACT	Waco Municipal	ACTA	Waco	US	United States
+ACU	Achutupo	ACUA	Achutupo	PA	Panama
+ACV	Arcata	ACVA	Arcata	US	United States
+ACX	Xingyi	CACX	Xingyi	CN	China
+ACY	Atlantic City International	AIYA	Atlantic City	US	United States
+ACZ	Zabol	ACZA	Zabol	IR	Iran
+ADA	Adana	ADAN	Adana	TR	Turkey
+ADB	Izmir	IZMI	Izmir	TR	Turkey
+ADD	Addis Ababa	ADDA	Addis Ababa	ET	Ethiopia
+ADE	Aden	ADEA	Aden	YE	Yemen
+ADF	Adiyaman	ADFA	Adiyaman	TR	Turkey
+ADH	Aldan	ALDA	Aldan	RU	Russia
+ADK	Adak Island	ADKA	Adak Island	US	United States
+ADL	Adelaide	ADLA	Adelaide	AU	Australia
+ADQ	Kodiak	ADQA	Kodiak	US	United States
+ADU	Ardabil	ADUA	Ardabil	IR	Iran
+ADW	Camp Springs Andrews AFB	ADWA	Camp Springs	US	United States
+ADZ	San Andres Island	ADZA	San Andres Island	CO	Colombia
+AEB	Baise	AEBA	Baise	CN	China
+AEG	Aek Godang	AEGI	Aek Godang	ID	Indonesia
+AEP	Buenos Aires Arpt. Jorge Newbery	BUEA	Buenos Aires	AR	Argentina
+AER	Sochi	ADLE	Sochi	RU	Russia
+AES	Aalesund Vigra	AALE	Aalesund Vigra	NO	Norway
+AET	Allakaket	AETA	Allakaket	US	United States
+AEX	Alexandria Internation	AEXA	Alexandria	US	United States
+AEY	Akureyri	AKUR	Akureyri	IS	Iceland
+AFA	San Rafael	AFAA	San Rafael	AR	Argentina
+AFL	Alta Floresta	AFLA	Alta Floresta	BR	Brazil
+AFZ	Sabzevar	AFZA	Sabzevar	IR	Iran
+AGA	Agadir	AGAD	Agadir	MA	Morocco
+AGB	Augsburg	AUGS	Augsburg	DE	Germany
+AGF	Agen	AGEN	Agen	FR	France
+AGH	Helsingborg Angelholm	HELT	Helsingborg	SE	Sweden
+AGM	Tasiilaq	AGMA	Tasiilaq	GL	Greenland
+AGN	Angoon	AGNA	Angoon	US	United States
+AGP	Malaga	MALA	Malaga	ES	Spain
+AGR	Agra	IAGR	Agra	IN	India
+AGS	Augusta Bush Field	AGSA	Augusta	US	United States
+AGT	Ciudad del Este	AGTA	Ciudad del Este	PY	Paraguay
+AGU	Aguascalientes	AGUA	Aguascalientes	MX	Mexico
+AGX	Agatti island	IAGX	Agatti Island	IN	India
+AHB	Abha	AHBA	Abha	SA	Saudi Arabia
+AHE	Ahe	AHEP	Ahe	PF	French Polynesia
+AHN	Athens Ben Epps	AHNA	Athens	US	United States
+AHO	Alghero Sardinia	ALGS	Alghero Sardinia	IT	Italy
+AHU	Al Hoceima Charif Idr	ALHO	Al Hoceima	MA	Morocco
+AIA	Alliance	AIAA	Alliance	US	United States
+AIN	Wainwright	AINA	Wainwright	US	United States
+AIT	Aitutaki	AITC	Aitutaki	CK	Cook Islands
+AIU	Atiu Island	AIUC	Atiu Island	CK	Cook Islands
+AJA	Ajaccio	AJAC	Ajaccio	FR	France
+AJF	Jouf	AJFA	Jouf	SA	Saudi Arabia
+AJI	Agri	AGRO	Agri	TR	Turkey
+AJL	Aizawl	IAJL	Aizawl	IN	India
+AJN	Anjouan	AJNA	Anjouan	KM	Comoros
+AJR	Arvidsjaur	ARVI	Arvidsjaur	SE	Sweden
+AJU	Aracaju	AJUA	Aracaju	BR	Brazil
+AKB	Atka	AKBA	Atka	US	United States
+AKF	Kufrah	AKFA	Kufrah	LY	Libya
+AKI	Akiak	AKIA	Akiak	US	United States
+AKJ	Asahikawa	JAKJ	Asahikawa	JP	Japan
+AKK	Akhiok	AKKA	Akhiok	US	United States
+AKL	Auckland International	AKLN	Auckland	NZ	New Zealand
+AKN	King Salmon	AKNA	King Salmon	US	United States
+AKP	Anaktuvuk	AKPA	Anaktuvuk	US	United States
+AKS	Auki	AKSA	Auki	SB	Solomon Islands
+AKU	Aksu	CAKU	Aksu	CN	China
+AKV	Akulivik	AKVA	Akulivik	CA	Canada
+AKX	Aktyubinsk	AKXA	Aktyubinsk	KZ	Kazakhstan
+AKY	Sittwe	AKYM	Sittwe	MM	Myanmar
+ALA	Almaty	ALAA	Almaty	KZ	Kazakhstan
+ALB	Albany	ALBA	Albany	US	United States
+ALC	Alicante	ALIC	Alicante	ES	Spain
+ALF	Alta	ALTA	Alta	NO	Norway
+ALG	Algiers	ALGA	Algiers	DZ	Algeria
+ALH	Albany	ALHA	Albany	AU	Australia
+ALL	Albenga	ALBE	Albenga	IT	Italy
+ALO	Waterloo	ALOA	Waterloo	US	United States
+ALP	Aleppo	ALPA	Aleppo	SY	Syria
+ALS	Alamosa	ALSA	Alamosa	US	United States
+ALU	Alula	ALUA	Alula	SO	Somalia
+ALW	Walla Walla	ALWA	Walla Walla	US	United States
+ALY	Alexandria El Nohza	ALEX	Alexandria	EG	Egypt
+ALZ	Alitak	ALZA	Alitak	US	United States
+AMA	Amarillo International	AMAA	Amarillo	US	United States
+AMD	Ahmedabad	IAMD	Ahmedabad	IN	India
+AMH	Arba Mintch	AMHA	Arba Mintch	ET	Ethiopia
+AMM	Amman Queen Alia	AMMA	Amman	JO	Jordan
+AMQ	Ambon	AMQI	Ambon	ID	Indonesia
+AMS	Amsterdam	AMST	Amsterdam	NL	Netherlands
+AMV	Amderma	AMDE	Amderma	RU	Russia
+AMY	Ambatomainty	AMYA	Ambatomainty	MG	Madagascar
+ANC	Anchorage International	ANCA	Anchorage	US	United States
+ANE	Angers	ANGE	Angers	FR	France
+ANF	Antofagasta	ANFA	Antofagasta	CL	Chile
+ANI	Aniak	ANIA	Aniak	US	United States
+ANK	Ankara Etimesgut	ANKA	Ankara	TR	Turkey
+ANM	Antalaha	ANMA	Antalaha	MG	Madagascar
+ANR	Antwerp Deurne	ANTW	Antwerp	BE	Belgium
+ANS	Andahuaylas	ANSA	Andahuaylas	PE	Peru
+ANU	Saint John's	ANUA	Saint John's	AG	Antigua and Barbuda
+ANV	Anvik	ANVA	Anvik	US	United States
+ANX	Andenes	ANDE	Andenes	NO	Norway
+AOE	Eskisehir	AOEA	Eskisehir	TR	Turkey
+AOG	Anshan	CAOG	Anshan	CN	China
+AOI	Ancona	ANCO	Ancona	IT	Italy
+AOJ	Aomori	JAOJ	Aomori	JP	Japan
+AOK	Karpathos	KARP	Karpathos	GR	Greece
+AOO	Martinsburg	AOOA	Martinsburg	US	United States
+AOR	Alor Setar	AORM	Alor Setar	MY	Malaysia
+AOS	Amook	AOSA	Amook	US	United States
+APF	Naples	APFA	Naples	US	United States
+APK	Apataki	APKP	Apataki	PF	French Polynesia
+APL	Nampula	APLA	Nampula	MZ	Mozambique
+APN	Alpena	APNA	Alpena	US	United States
+APO	Apartado	APOA	Apartado	CO	Colombia
+APW	Apia Faleolo	APWW	Apia	WS	Samoa
+AQA	Araraquara	AQAA	Araraquara	BR	Brazil
+AQG	Anqing	CAQG	Anqing	CN	China
+AQI	Qaisumah	AQIA	Qaisumah	SA	Saudi Arabia
+AQJ	Aqaba	AQJA	Aqaba	JO	Jordan
+AQP	Arequipa	AQPA	Arequipa	PE	Peru
+ARA	New Iberia	ARAA	New Iberia	US	United States
+ARC	Arctic Village	ARCA	Arctic Village	US	United States
+ARD	Alor Island	ARDI	Alor Island	ID	Indonesia
+ARH	Arkhangelsk	ARKH	Arkhangelsk	RU	Russia
+ARI	Arica	ARIA	Arica	CL	Chile
+ARK	Arusha	ARKA	Arusha	TZ	Tanzania
+ARM	Armidale	ARMA	Armidale	AU	Australia
+ARN	Stockholm Arlanda	STOC	Stockholm	SE	Sweden
+ART	Watertown	ARTA	Watertown	US	United States
+ARU	Aracatuba	ARUA	Aracatuba	BR	Brazil
+ARW	Arad	ARAD	Arad	RO	Romania
+ASB	Ashgabat	ASBA	Ashgabat	TM	Turkmenistan
+ASD	Andros Town	ASDA	Andros Town	BS	Bahamas
+ASE	Aspen	ASEA	Aspen	US	United States
+ASF	Astrakhan	ASTR	Astrakhan	RU	Russia
+ASJ	Amami O Shima	JASJ	Amami O Shima	JP	Japan
+ASM	Asmara	ASMA	Asmara	ER	Eritrea
+ASO	Asosa	ASOA	Asosa	ET	Ethiopia
+ASP	Alice Springs	ASPA	Alice Springs	AU	Australia
+ASR	Kayseri	KAYS	Kayseri	TR	Turkey
+ASU	Asuncion	ASUA	Asuncion	PY	Paraguay
+ASV	Amboseli	ASVA	Amboseli	KE	Kenya
+ASW	Aswan Daraw	ASWA	Aswan Daraw	EG	Egypt
+ATA	Anta	ATAA	Anta	PE	Peru
+ATC	Arthur's Town	ATCA	Arthur's Town	BS	Bahamas
+ATD	Atoifi	ATDA	Atoifi	SB	Solomon Islands
+ATH	Athens International	ATHE	Athens	GR	Greece
+ATK	Atqasuk	ATKA	Atqasuk	US	United States
+ATL	Atlanta Hartsfield-Jackson ATL	ATLA	Atlanta	US	United States
+ATM	Altamira	ATMA	Altamira	BR	Brazil
+ATQ	Amritsar	IATQ	Amritsar	IN	India
+ATT	Atmautluak	ATTA	Atmautluak	US	United States
+ATW	Appleton	ATWA	Appleton	US	United States
+ATY	Watertown	ATYA	Watertown	US	United States
+ATZ	Assiut	ASSI	Assiut	EG	Egypt
+AUA	Oranjestad	AUAA	Oranjestad	AW	Aruba
+AUC	Arauca	AUCA	Arauca	CO	Colombia
+AUG	Augusta	AUGA	Augusta	US	United States
+AUH	Abu Dhabi International	AUHA	Abu Dhabi	AE	United Arab Emirates
+AUK	Alakanuk	AUKA	Alakanuk	US	United States
+AUQ	Atuona	AUQP	Atuona	PF	French Polynesia
+AUR	Aurillac Tronquiere	AURI	Aurillac Tronquiere	FR	France
+AUS	Austin-Bergstrom	AUSA	Austin	US	United States
+AUU	Aurukun Mission	AUUA	Aurukun Mission	AU	Australia
+AUX	Araguaina	AUXA	Araguaina	BR	Brazil
+AUY	Aneityum	AUYV	Aneityum	VU	Vanuatu
+AVA	An Shun	CAVA	An Shun	CN	China
+AVL	Asheville	AVLA	Asheville	US	United States
+AVN	Avignon	AVIG	Avignon	FR	France
+AVP	Wilkes-Barre International	AVPA	Wilkes-Barre	US	United States
+AVV	Melbourne Avalon	MELA	Melbourne	AU	Australia
+AWD	Aniwa	AWDV	Aniwa	VU	Vanuatu
+AWZ	Ahwaz	AWZA	Ahwaz	IR	Iran
+AXA	The Valley	AXAA	The Valley	AI	Anguilla
+AXD	Alexandroupolis Dimokritos	ALEY	Alexandroupolis Dimokritos	GR	Greece
+AXJ	Amakusa Airport	JAMX	Amakusa	JP	Japan
+AXK	Ataq	AXKA	Ataq	YE	Yemen
+AXM	Armenia	AXMA	Armenia	CO	Colombia
+AXP	Spring Point	AXPA	Spring Point	BS	Bahamas
+AXR	Arutua	AXRP	Arutua	PF	French Polynesia
+AXT	Akita	JAXT	Akita	JP	Japan
+AXU	Axum	AXUA	Axum	ET	Ethiopia
+AYP	Ayacucho	AYPA	Ayacucho	PE	Peru
+AYQ	Ayers Rock	AYQA	Ayers Rock	AU	Australia
+AYT	Antalya	ANTA	Antalya	TR	Turkey
+AZA	Phoenix-Mesa Gateway	PHXA	Phoenix	US	United States
+AZD	Yazd	AZDA	Yazd	IR	Iran
+AZI	Abu Dhabi Bateen	AUHA	Abu Dhabi	AE	United Arab Emirates
+AZN	Andizhan	AZNA	Andizhan	UZ	Uzbekistan
+AZO	Kalamazoo	AZOA	Kalamazoo	US	United States
+AZR	Adrar	AZRA	Adrar	DZ	Algeria
+AZS	Samana	SAMB	Samana	DO	Dominican Republic
+BAH	Bahrain	BAHA	Bahrain	BH	Bahrain
+BAL	Batman	BATM	Batman	TR	Turkey
+BAQ	Barranquilla	BAQA	Barranquilla	CO	Colombia
+BAV	Baotou	CBAV	Baotou	CN	China
+BAX	Barnaul	BARN	Barnaul	RU	Russia
+BAY	Baia Mare	BAIA	Baia Mare	RO	Romania
+BAZ	Barbelos	BAZA	Barbelos	BR	Brazil
+BBA	Balmaceda	BBAA	Balmaceda	CL	Chile
+BBH	Barth	BART	Barth	DE	Germany
+BBI	Bhubaneswar	IBBI	Bhubaneswar	IN	India
+BBK	Kasane	BBKA	Kasane	BW	Botswana
+BBN	Bario	BBNM	Bario	MY	Malaysia
+BBO	Berbera	BBOA	Berbera	SO	Somalia
+BBU	Bucharest Baneasa	BUCH	Bucharest	RO	Romania
+BCA	Baracoa	BCAA	Baracoa	CU	Cuba
+BCD	Bacolod-Silay	BCDP	Bacolod	PH	Philippines
+BCI	Barcaldine	BCIA	Barcaldine	AU	Australia
+BCM	Bacau International	BACA	Bacau	RO	Romania
+BCN	Barcelona	BARC	Barcelona	ES	Spain
+BCV	Belmopan	BCVA	Belmopan	BZ	Belize
+BDA	L.F. Wade International Airport	BDAA	Hamilton	BM	Bermuda
+BDB	Bundaberg	BDBA	Bundaberg	AU	Australia
+BDH	Bandar Lengeh	BDHA	Bandar Lengeh	IR	Iran
+BDJ	Banjarmasin	BDJI	Banjarmasin	ID	Indonesia
+BDL	Hartford Bradley International	HFDA	Hartford	US	United States
+BDO	Bandung	BDOI	Bandung	ID	Indonesia
+BDP	Bhadrapur	BDPA	Bhadrapur	NP	Nepal
+BDQ	Vadodara	IBDQ	Vadodara	IN	India
+BDS	Brindisi	BRIN	Brindisi	IT	Italy
+BDU	Bardufoss	BARD	Bardufoss	NO	Norway
+BEB	Benbecula	BENB	Benbecula	UK	United Kingdom
+BEG	Belgrade Nikola Tesla	BELI	Belgrade	RS	Serbia
+BEJ	Berau	BEJI	Berau	ID	Indonesia
+BEL	Belem	BELA	Belem	BR	Brazil
+BEN	Benghazi	BENA	Benghazi	LY	Libya
+BES	Brest	BRES	Brest	FR	France
+BET	Bethel	BETA	Bethel	US	United States
+BEU	Bedourie	BEUA	Bedourie	AU	Australia
+BEW	Beira	BEWA	Beira	MZ	Mozambique
+BEY	Beirut	BEIR	Beirut	LB	Lebanon
+BFD	Bradford	BFDA	Bradford	US	United States
+BFF	Scottsbluff	BFFA	Scottsbluff	US	United States
+BFI	Seattle Boeing Fld	SEAA	Seattle	US	United States
+BFJ	Bijie Feixiong	BFJF	Bijie	CN	China
+BFL	Bakersfield	BFLA	Bakersfield	US	United States
+BFN	Bloemfontein	BFNA	Bloemfontein	ZA	South Africa
+BFQ	Bahia Pinas	BFQA	Bahia Pinas	PA	Panama
+BFS	Belfast International	BELF	Belfast	UK	United Kingdom
+BFV	Buri Ram	BFVT	Buri Ram	TH	Thailand
+BGA	Bucaramanga	BGAA	Bucaramanga	CO	Colombia
+BGF	Bangui	BGFA	Bangui	CF	Central African Republic
+BGI	Bridgetown	BGIA	Bridgetown	BB	Barbados
+BGM	Binghamton	BGMA	Binghamton	US	United States
+BGN	Belaya Gora Airport	BGNC	Belaya Gora	RU	Russia
+BGO	Bergen	BERI	Bergen	NO	Norway
+BGR	Bangor	BGRA	Bangor	US	United States
+BGW	Baghdad International	BGWA	Baghdad	IQ	Iraq
+BGY	Milan Bergamo	MILA	Milan	IT	Italy
+BHB	Bar Harbor	BHBA	Bar Harbor	US	United States
+BHD	Belfast City	BELF	Belfast	UK	United Kingdom
+BHE	Blenheim	BHEN	Blenheim	NZ	New Zealand
+BHH	Bisha	BHHA	Bisha	SA	Saudi Arabia
+BHI	Bahia Blanca	BHIA	Bahia Blanca	AR	Argentina
+BHJ	Bhuj	IBHJ	Bhuj	IN	India
+BHK	Bukhara	BHKA	Bukhara	UZ	Uzbekistan
+BHM	Birmingham	BHMA	Birmingham	US	United States
+BHO	Bhopal	IBHO	Bhopal	IN	India
+BHQ	Broken Hill	BHQA	Broken Hill	AU	Australia
+BHR	Bharatpur	BHRA	Bharatpur	NP	Nepal
+BHS	Bathurst	BHSA	Bathurst	AU	Australia
+BHU	Bhavnagar	IBHU	Bhavnagar	IN	India
+BHV	Bahawalpur	BHVA	Bahawalpur	PK	Pakistan
+BHX	Birmingham	BIRM	Birmingham	UK	United Kingdom
+BHY	Beihai	CBHY	Beihai	CN	China
+BIA	Bastia - Corsica	BAST	Bastia - Corsica	FR	France
+BIB	Baidoa	BIBA	Baidoa	SO	Somalia
+BID	Block Island	BIDA	Block Island	US	United States
+BIE	Beatrice	BIEA	Beatrice	US	United States
+BIF	El Paso Biggs AAF	ELPA	El Paso	US	United States
+BIK	Biak	BIKI	Biak	ID	Indonesia
+BIL	Billings	BILA	Billings	US	United States
+BIM	Bimini International	BIMA	Bimini	BS	Bahamas
+BIN	Bamiyan	BINA	Bamiyan	AF	Afghanistan
+BIO	Bilbao	BILB	Bilbao	ES	Spain
+BIQ	Biarritz	BIAR	Biarritz	FR	France
+BIR	Biratnagar	BIRA	Biratnagar	NP	Nepal
+BIS	Bismarck	BISA	Bismarck	US	United States
+BIU	Bildudalur	BILD	Bildudalur	IS	Iceland
+BJA	Bejaia	BJAA	Bejaia	DZ	Algeria
+BJB	Bojnord	BJBA	Bojnord	IR	Iran
+BJF	Batsfjord	BATS	Batsfjord	NO	Norway
+BJI	Bemidji	BJIA	Bemidji	US	United States
+BJL	Banjul	BJLA	Banjul	GM	Gambia
+BJM	Bujumbura	BJMA	Bujumbura	BI	Burundi
+BJR	Bahar Dar	BJRA	Bahar Dar	ET	Ethiopia
+BJV	Bodrum	BODR	Bodrum	TR	Turkey
+BJW	Bajawa	BJWI	Bajawa	ID	Indonesia
+BJX	Silao	BJXS	Silao	MX	Mexico
+BJZ	Badajoz Talaveral	BADA	Badajoz Talaveral	ES	Spain
+BKC	Buckland	BKCA	Buckland	US	United States
+BKG	Hollister	HLIB	Hollister	US	United States
+BKI	Kota Kinabalu	BKIM	Kota Kinabalu	MY	Malaysia
+BKK	Bangkok Suvarnabhumi	BKKT	Bangkok	TH	Thailand
+BKL	Cleveland Burke Lakefront	CLEA	Cleveland	US	United States
+BKM	Bakalalan	BKMM	Bakalalan	MY	Malaysia
+BKO	Bamako	BKOA	Bamako	ML	Mali
+BKQ	Blackall	BKQA	Blackall	AU	Australia
+BKS	Bengkulu	BKSI	Bengkulu	ID	Indonesia
+BKW	Beckley	BKWA	Beckley	US	United States
+BKY	Bukavu	BKYA	Bukavu	CD	DR Congo
+BKZ	Bukoba	BKZA	Bukoba	TZ	Tanzania
+BLA	Barcelona	BLAA	Barcelona	VE	Venezuela
+BLD	Boulder City	BLDA	Boulder City	US	United States
+BLE	Borlange Dala	BORL	Borlange Dala	SE	Sweden
+BLI	Bellingham	BLIA	Bellingham	US	United States
+BLJ	Batna	BLJA	Batna	DZ	Algeria
+BLK	Blackpool	BLAC	Blackpool	UK	United Kingdom
+BLL	Billund	BILL	Billund	DK	Denmark
+BLQ	Bologna International	BOLO	Bologna	IT	Italy
+BLR	Bangalore	IBLR	Bangalore	IN	India
+BLV	Belleville	BLVA	Belleville	US	United States
+BLZ	Blantyre	BLZA	Blantyre	MW	Malawi
+BMA	Stockholm Bromma	STOC	Stockholm	SE	Sweden
+BMD	Belo	BMDA	Belo	MG	Madagascar
+BME	Broome	BMEA	Broome	AU	Australia
+BMG	Bloomington	BMGA	Bloomington	US	United States
+BMI	Bloomington-Normal	BMIA	Bloomington-Normal	US	United States
+BMO	Bhamo	BMOM	Bhamo	MM	Myanmar
+BMU	Bima	BMUI	Bima	ID	Indonesia
+BMV	Banmethuot	BMVV	Banmethuot	VN	Vietnam
+BMW	Bordj Badji Mokhtar	BMWA	Bordj Badji Mokhtar	DZ	Algeria
+BMY	Belep Island	BMYN	Belep Island	NC	New Caledonia
+BNA	Nashville	BNAA	Nashville	US	United States
+BNB	Boende	BNBA	Boende	CD	DR Congo
+BNC	Beni	BNCA	Beni	CD	DR Congo
+BND	Bandar Abbas	BNDA	Bandar Abbas	IR	Iran
+BNE	Brisbane	BNEA	Brisbane	AU	Australia
+BNI	Benin City	BNIA	Benin City	NG	Nigeria
+BNK	Ballina	BNKA	Ballina	AU	Australia
+BNN	Bronnoysund Bronnoy	BRON	Bronnoysund Bronnoy	NO	Norway
+BNS	Barinas	BNSA	Barinas	VE	Venezuela
+BNX	Banja Luka	BANJ	Banja Luka	BA	Bosnia and Herzegovina
+BNY	Bellona	BNYA	Bellona	SB	Solomon Islands
+BOB	Bora Bora	BOBP	Bora Bora	PF	French Polynesia
+BOC	Bocas Del Toro	BOCA	Bocas Del Toro	PA	Panama
+BOD	Bordeaux	BORD	Bordeaux	FR	France
+BOG	Bogota	BOGA	Bogota	CO	Colombia
+BOH	Bournemouth	BOUR	Bournemouth	UK	United Kingdom
+BOI	Boise	BOIA	Boise	US	United States
+BOJ	Bourgas	BURG	Bourgas	BG	Bulgaria
+BOM	Mumbai	IBOM	Mumbai	IN	India
+BON	Bonaire	BONA	Bonaire	BQ	Caribbean Netherlands
+BOO	Bodo	BODO	Bodo	NO	Norway
+BOS	Boston Logan International	BOSA	Boston	US	United States
+BOY	Bobo Dioulasso	BOYA	Bobo Dioulasso	BF	Burkina Faso
+BPL	Bole Alashankou	BOLE	Bole	CN	China
+BPN	Balikpapan	BPNI	Balikpapan	ID	Indonesia
+BPS	Porto Seguro	BPSA	Porto Seguro	BR	Brazil
+BPT	Beaumont Jefferson County	BPTA	Beaumont	US	United States
+BPX	Bangda	CBPX	Bangda	CN	China
+BQB	Busselton	BQBA	Bussellton	AU	Australia
+BQJ	Batagay Airport	BGJY	Batagay	RU	Russia
+BQK	Brunswick Glynco Jetport	SSIA	Brunswick	US	United States
+BQL	Boulia	BQLA	Boulia	AU	Australia
+BQN	Aguadilla	BQNA	Aguadilla	PR	Puerto Rico
+BQS	Blagoveschensk	BLAG	Blagoveschensk	RU	Russia
+BQT	Brest	BQTA	Brest	BY	Belarus
+BRA	Barreiras	BRAA	Barreiras	BR	Brazil
+BRC	San Carlos DeBariloche	BRCA	San Carlos DeBariloche	AR	Argentina
+BRD	Brainerd	BRDA	Brainerd	US	United States
+BRE	Bremen	BREM	Bremen	DE	Germany
+BRI	Bari	BARI	Bari	IT	Italy
+BRL	Burlington	BRLA	Burlington	US	United States
+BRM	Barquisimeto	BRMA	Barquisimeto	VE	Venezuela
+BRN	Bern	BERN	Bern	CH	Switzerland
+BRO	Brownsville	BROA	Brownsville	US	United States
+BRQ	Brno-Turany	BRNO	Brno	CZ	Czech Republic
+BRR	Barra	BARR	Barra	UK	United Kingdom
+BRS	Bristol	BRIS	Bristol	UK	United Kingdom
+BRU	Brussels International	BRUS	Brussels	BE	Belgium
+BRW	Barrow Wiley Post / W.Rogers M	BRWA	Barrow	US	United States
+BSA	Bossaso	BSAA	Bossaso	SO	Somalia
+BSB	Brasilia	BSBA	Brasilia	BR	Brazil
+BSC	Bahia Solano	BSCA	Bahia Solano	CO	Colombia
+BSD	Baoshan	CBSD	Baoshan	CN	China
+BSG	Bata	BSGA	Bata	GQ	Equatorial Guinea
+BSK	Biskra	BSKA	Biskra	DZ	Algeria
+BSL	Basel Mulhouse Freiburg	BASE	Basel	CH	Switzerland
+BSO	Basco	BSOP	Basco	PH	Philippines
+BSR	Basra	BSRA	Basra	IQ	Iraq
+BSX	Bassein	BSXM	Bassein	MM	Myanmar
+BTC	Batticaloa	BTCA	Batticaloa	LK	Sri Lanka
+BTH	Batam	BTHI	Batam	ID	Indonesia
+BTI	Barter Island	BTIA	Barter Island	US	United States
+BTJ	Banda Aceh	BTJI	Banda Aceh	ID	Indonesia
+BTK	Bratsk	BRAT	Bratsk	RU	Russia
+BTM	Butte	BTMA	Butte	US	United States
+BTR	Baton Rouge Ryan	BTRA	Baton Rouge	US	United States
+BTS	Bratislava	BRAS	Bratislava	SK	Slovakia
+BTT	Bettles	BTTA	Bettles	US	United States
+BTU	Bintulu	BTUM	Bintulu	MY	Malaysia
+BTV	Burlington	BTVA	Burlington	US	United States
+BTZ	Bursa	BURS	Bursa	TR	Turkey
+BUA	Buka	BUAP	Buka	PG	Papua New Guinea
+BUC	Burketown	BUCA	Burketown	AU	Australia
+BUD	Budapest	BUDA	Budapest	HU	Hungary
+BUF	Buffalo Niagara	BUFA	Buffalo	US	United States
+BUL	Bulolo	BULP	Bulolo	PG	Papua New Guinea
+BUN	Buenaventura	BUNA	Buenaventura	CO	Colombia
+BUQ	Bulawayo	BUQA	Bulawayo	ZW	Zimbabwe
+BUR	Burbank	BURA	Burbank	US	United States
+BUS	Batumi	BUSA	Batumi	GE	Georgia
+BUW	Baubau	BUWI	Baubau	ID	Indonesia
+BUX	Bunia	BUXA	Bunia	CD	DR Congo
+BUZ	Bushehr	BUZA	Bushehr	IR	Iran
+BVA	Paris Beauvais	PARI	Paris	FR	France
+BVB	Boa Vista	BVBA	Boa Vista	BR	Brazil
+BVC	Boa Vista	BVCA	Boa Vista	CV	Cape Verde
+BVE	Brive Vallée de la Dordogne	BRIV	Brive Vallée de la Dordogne	FR	France
+BVG	Berlevag	BERM	Berlevag	NO	Norway
+BVH	Vilhena	BVHA	Vilhena	BR	Brazil
+BVI	Birdsville	BVIA	Birdsville	AU	Australia
+BWA	Bhairawa	BWAA	Bhairawa	NP	Nepal
+BWI	Baltimore Balt / Wash	BWIA	Baltimore	US	United States
+BWK	Bol	BOLL	Bol	HR	Croatia
+BWN	Bandar Seri Begawan	BWNA	Bandar Seri Begawan	BN	Brunei
+BWT	Burnie	BWTA	Burnie	AU	Australia
+BWW	Las Brujas	BANY	Cayo Las Brujas	CU	Cuba
+BXB	Babo	BXBI	Babo	ID	Indonesia
+BXR	Bam	BXRA	Bam	IR	Iran
+BXU	Bancasi (Butuan)	BXUP	Butuan	PH	Philippines
+BYC	Yacuiba	BYCA	Yacuiba	BO	Bolivia
+BYF	Albert (Picardie Somme)	ALBT	Albert	FR	France
+BYM	Bayamo	BYMA	Bayamo	CU	Cuba
+BYN	Bayankhongor	BYNA	Bayankhongor	MN	Mongolia
+BYO	Bonito	BYOA	Bonito	BR	Brazil
+BZE	Belize City Philip S.W.Goldson Int	BZEA	Belize City	BZ	Belize
+BZG	Bydgoszcz	BYDG	Bydgoszcz	PL	Poland
+BZI	Balikesir	BALI	Balikesir	TR	Turkey
+BZL	Barisal	BZLA	Barisal	BD	Bangladesh
+BZN	Bozeman	BZNA	Bozeman	US	United States
+BZO	Bolzano	BOLZ	Bolzano	IT	Italy
+BZR	Beziers	BEXI	Beziers	FR	France
+BZV	Brazzaville	BZVA	Brazzaville	CG	Congo
+CAB	Cabinda	CABA	Cabinda	AO	Angola
+CAC	Cascavel	CACA	Cascavel	BR	Brazil
+CAE	Columbia Metropolitan	CAEA	Columbia	US	United States
+CAG	Cagliari	CAGL	Cagliari	IT	Italy
+CAH	Ca Mau	CAHV	Ca Mau	VN	Vietnam
+CAI	Cairo	CAIR	Cairo	EG	Egypt
+CAJ	Canaima	CAJA	Canaima	VE	Venezuela
+CAK	Akron / Canton Regional	AKRB	Akron	US	United States
+CAL	Campbeltown	CAMP	Campbeltown	UK	United Kingdom
+CAN	Guangzhou	CCAN	Guangzhou	CN	China
+CAO	Clayton	CAOA	Clayton	US	United States
+CAP	Cap Haitien	CAPA	Cap Haitien	HT	Haiti
+CAQ	Caucasia	CAQA	Caucasia	CO	Colombia
+CAS	Casablanca Anfa	CASA	Casablanca	MA	Morocco
+CAU	Caruaru	CAUA	Caruaru	BR	Brazil
+CAW	Campos	CAWA	Campos	BR	Brazil
+CAY	Cayenne	CAYA	Cayenne	GF	French Guiana
+CBB	Cochabamba	CBBA	Cochabamba	BO	Bolivia
+CBG	Cambridge	CBGA	Cambridge	UK	United Kingdom
+CBH	Bechar	CBHA	Bechar	DZ	Algeria
+CBI	Cape Barren Island	CBIA	Cape Barren Island	AU	Australia
+CBL	Ciudad Bolivar	CBLA	Ciudad Bolivar	VE	Venezuela
+CBO	Cotabato	CBOP	Cotabato	PH	Philippines
+CBQ	Calabar	CBQA	Calabar	NG	Nigeria
+CBR	Canberra	CBRA	Canberra	AU	Australia
+CBS	Cabimas	CBSA	Cabimas	VE	Venezuela
+CBT	Catumbela	CBTA	Catumbela	AO	Angola
+CCC	Cayo Coco	CCCA	Cayo Coco	CU	Cuba
+CCF	Carcassonne	CARC	Carcassonne	FR	France
+CCJ	Kozhikode	ICCJ	Kozhikode	IN	India
+CCK	Cocos Islands	CCKA	Cocos Islands	CC	Cocos (Keeling) Islands
+CCM	Criciuma	CCMA	Criciuma	BR	Brazil
+CCN	Chakcharan	CCNA	Chakcharan	AF	Afghanistan
+CCP	Concepcion	CCPA	Concepcion	CL	Chile
+CCS	Caracas	CCSA	Caracas	VE	Venezuela
+CCU	Kolkata	ICCU	Kolkata	IN	India
+CCV	Craig Cove	CCVV	Craig Cove	VU	Vanuatu
+CCZ	Chub Cay	CCZA	Chub Cay	BS	Bahamas
+CDB	Cold Bay	CDBA	Cold Bay	US	United States
+CDC	Cedar City	CDCA	Cedar City	US	United States
+CDG	Paris Charles de Gaulle	PARI	Paris	FR	France
+CDJ	Conceicao Do Araguaia	CDJA	Conceicao Do Araguaia	BR	Brazil
+CDR	Chadron	CDRA	Chadron	US	United States
+CDV	Cordova Mudhole Smith	CDVA	Cordova	US	United States
+CEB	Mactan-Cebu International	CEBP	Cebu	PH	Philippines
+CEC	Crescent City	CECA	Crescent City	US	United States
+CED	Ceduna	CEDA	Ceduna	AU	Australia
+CEE	Cherepovets	CHER	Cherepovets	RU	Russia
+CEF	Chicopee	CEFA	Chicopee	US	United States
+CEG	Chester	CEGA	Chester	UK	United Kingdom
+CEH	Chelinda	CEHA	Chelinda	MW	Malawi
+CEI	Chiang Rai	CEIT	Chiang Rai	TH	Thailand
+CEK	Chelyabinsk	CHEL	Chelyabinsk	RU	Russia
+CEM	Central	CEMA	Central	US	United States
+CEN	Ciudad Obregon	CENA	Ciudad Obregon	MX	Mexico
+CEZ	Cortez	CEZA	Cortez	US	United States
+CFB	Cabo Frio	CFBA	Cabo Frio	BR	Brazil
+CFC	Cacador	CFCA	Cacador	BR	Brazil
+CFE	Clermont-Ferrand	CLER	Clermont-Ferrand	FR	France
+CFG	Cienfuegos	CFGA	Cienfuegos	CU	Cuba
+CFK	Chlef	CFKA	Chlef	DZ	Algeria
+CFN	Donegal	DONE	Donegal	IE	Ireland
+CFO	Confreza	CFOA	Confreza	BR	Brazil
+CFR	Caen	CAEN	Caen	FR	France
+CFS	Coffs Harbour	CFSA	Coffs Harbour	AU	Australia
+CFU	Corfu	CORF	Corfu	GR	Greece
+CGA	Craig	CGAA	Craig	US	United States
+CGB	Cuiaba	CGBA	Cuiaba	BR	Brazil
+CGD	Changde	CCGD	Changde	CN	China
+CGH	Sao Paulo Congonhas	SAOA	Sao Paulo	BR	Brazil
+CGI	Cape Girardeau	CGIA	Cape Girardeau	US	United States
+CGK	Soekarno-Hatta	CGKI	Jakarta	ID	Indonesia
+CGM	Camiguin	CGMP	Camiguin	PH	Philippines
+CGN	Cologne	COLO	Cologne	DE	Germany
+CGO	Zhengzhou	CCGO	Zhengzhou	CN	China
+CGP	Chittagong	CGPA	Chittagong	BD	Bangladesh
+CGQ	Changchun	CCGQ	Changchun	CN	China
+CGR	Campo Grande	CGRA	Campo Grande	BR	Brazil
+CGY	Cagayan De Oro	CGYP	Cagayan De Oro	PH	Philippines
+CHA	Chattanooga	CHAA	Chattanooga	US	United States
+CHC	Christchurch	CHCN	Christchurch	NZ	New Zealand
+CHG	Chaoyang	CCHG	Chaoyang	CN	China
+CHI	Chicago FSS	CHIA	Chicago	US	United States
+CHO	Charlottesville	CHOA	Charlottesville	US	United States
+CHQ	Crete Chania	CRET	Crete	GR	Greece
+CHS	Charleston	CHSA	Charleston	US	United States
+CHT	Chatham Island	CHTN	Chatham Island	NZ	New Zealand
+CHU	Chuathbaluk	CHUA	Chuathbaluk	US	United States
+CHX	Changuinola	CHXA	Changuinola	PA	Panama
+CHY	Choiseul Bay	CHYA	Choiseul Bay	SB	Solomon Islands
+CIA	Rome Ciampino	ROME	Rome	IT	Italy
+CIC	Chico	CICA	Chico	US	United States
+CID	Cedar Rapids	CIDA	Cedar Rapids	US	United States
+CIF	Chifeng	CCIF	Chifeng	CN	China
+CIH	Changzhi	CCIH	Changzhi	CN	China
+CIJ	Cobija	CIJA	Cobija	BO	Bolivia
+CIK	Chalkyitsik	CIKA	Chalkyitsik	US	United States
+CIP	Chipata	CIPA	Chipata	ZM	Zambia
+CIT	Shimkent	CITA	Shimkent	KZ	Kazakhstan
+CIU	Sault Ste Marie Chippewa County	SSMA	Sault Ste Marie	US	United States
+CIX	Chiclayo	CIXA	Chiclayo	PE	Peru
+CIY	Comiso	COMI	Comiso	IT	Italy
+CIZ	Coari	CIZA	Coari	BR	Brazil
+CJA	Cajamarca	CJAA	Cajamarca	PE	Peru
+CJB	Coimbatore	ICJB	Coimbatore	IN	India
+CJC	Calama	CJCA	Calama	CL	Chile
+CJJ	Cheongju	CJJA	Cheongju	KR	South Korea
+CJL	Chitral	CJLA	Chitral	PK	Pakistan
+CJM	Chumphon	CJMT	Chumphon	TH	Thailand
+CJS	Ciudad Juarez	CJSA	Ciudad Juarez	MX	Mexico
+CJU	Jeju	CJUA	Jeju	KR	South Korea
+CKB	Clarksburg	CKBA	Clarksburg	US	United States
+CKD	Crooked Creek	CKDA	Crooked Creek	US	United States
+CKG	Chongqing	CCKG	Chongqing	CN	China
+CKH	Chokurdah	CHOK	Chokurdah	RU	Russia
+CKS	Carajas	CKSA	Carajas	BR	Brazil
+CKX	Chicken	CKXA	Chicken	US	United States
+CKY	Conakry	CKYA	Conakry	GN	Guinea
+CKZ	Canakkale	CANA	Canakkale	TR	Turkey
+CLD	San Diego Carlsbad	SANA	San Diego	US	United States
+CLE	Cleveland Hopkins International	CLEA	Cleveland	US	United States
+CLJ	Cluj-Napoca	CLUJ	Cluj-Napoca	RO	Romania
+CLL	College Station	CLLA	College Station	US	United States
+CLM	Port Angeles	CLMA	Port Angeles	US	United States
+CLO	Cali	CLOA	Cali	CO	Colombia
+CLP	Clarks Point	CLPA	Clarks Point	US	United States
+CLQ	Colima	CLQA	Colima	MX	Mexico
+CLT	Charlotte Douglas	CLTA	Charlotte	US	United States
+CLV	Caldas Novas	CLVA	Caldas Novas	BR	Brazil
+CLY	Calvi	CALV	Calvi	FR	France
+CMA	Cunnamulla	CMAA	Cunnamulla	AU	Australia
+CMB	Colombo Bandaranayake	CMBA	Colombo	LK	Sri Lanka
+CME	Ciudad Del Carmen	CMEA	Ciudad Del Carmen	MX	Mexico
+CMF	Chambery	CHAM	Chambery	FR	France
+CMG	Corumba	CMGA	Corumba	BR	Brazil
+CMH	Port Columbus	CMHA	Columbus	US	United States
+CMI	Champaign	CMIA	Champaign	US	United States
+CMJ	Chi Mei	CMJT	Chi Mei	TW	Taiwan
+CMN	Casablanca Mohamed V.	CASA	Casablanca	MA	Morocco
+CMU	Kundiawa	CMUP	Kundiawa	PG	Papua New Guinea
+CMW	Camaguey	CMWA	Camaguey	CU	Cuba
+CMX	Hancock	CMXA	Hancock	US	United States
+CND	Constanta Kogalniceanu	CONS	Constanta Kogalniceanu	RO	Romania
+CNF	Belo Horizonte Tancredo Neves Int'l.	BHZA	Belo Horizonte	BR	Brazil
+CNJ	Cloncurry	CNJA	Cloncurry	AU	Australia
+CNM	Carlsbad	CNMA	Carlsbad	US	United States
+CNP	Neerlerit Inaat	NEER	Neerlerit Inaat	GL	Greenland
+CNQ	Corrientes	CNQA	Corrientes	AR	Argentina
+CNS	Cairns	CNSA	Cairns	AU	Australia
+CNX	Chiang Mai	CNXT	Chiang Mai	TH	Thailand
+CNY	Moab	CNYA	Moab	US	United States
+COD	Cody / Yellowstone	CODA	Cody / Yellowstone	US	United States
+COK	Kochi	ICOK	Kochi	IN	India
+COL	Coll Island	COLA	Coll Island	UK	United Kingdom
+COO	Cotonou	COOA	Cotonou	BJ	Benin
+COQ	Choibalsan	COQA	Choibalsan	MN	Mongolia
+COR	Cordoba	CORA	Cordoba	AR	Argentina
+COS	Colorado Springs Peterson Field	COSA	Colorado Springs	US	United States
+COU	Columbia	COUA	Columbia	US	United States
+COX	Congo Town	COXA	Congo Town	BS	Bahamas
+CPC	San Martin DeLos Andes	CPCA	San Martin DeLos Andes	AR	Argentina
+CPD	Coober Pedy	CPDA	Coober Pedy	AU	Australia
+CPE	Campeche	CPEA	Campeche	MX	Mexico
+CPH	Copenhagen	COPE	Copenhagen	DK	Denmark
+CPO	Copiapo	CPOA	Copiapo	CL	Chile
+CPR	Casper	CPRA	Casper	US	United States
+CPT	Cape Town	CPTA	Cape Town	ZA	South Africa
+CPV	Campina Grande	CPVA	Campina Grande	BR	Brazil
+CPX	Culebra	CPXA	Culebra	PR	Puerto Rico
+CQD	Shahre-Kord	CQDA	Shahre-Kord	IR	Iran
+CRA	Craiova	CRAI	Craiova	RO	Romania
+CRD	Comodoro Rivadavia	CRDA	Comodoro Rivadavia	AR	Argentina
+CRI	Crooked Island	CRIA	Crooked Island	BS	Bahamas
+CRK	Clark International	MNLP	Manila	PH	Philippines
+CRL	Brussels S. Charleroi	BRUS	Brussels	BE	Belgium
+CRM	Catarman	CRMP	Catarman	PH	Philippines
+CRP	Corpus Christi International	CRPA	Corpus Christi	US	United States
+CRV	Crotone	CORT	Crotone	IT	Italy
+CRW	Charleston	CRWA	Charleston	US	United States
+CSA	Colonsay Is	CSAA	Colonsay Is	UK	United Kingdom
+CSG	Columbus Metropolitain	CSGA	Columbus	US	United States
+CSH	Solovetsky	CSHB	Solovetsky	RU	Russia
+CSK	Cap Skirring	CSKA	Cap Skirring	SN	Senegal
+CSO	Magdeburg-Cochstedt	CSOA	Cochstedt	DE	Germany
+CSX	Changsha	CCSX	Changsha	CN	China
+CSY	Cheboksary	CHEB	Cheboksary	RU	Russia
+CTA	Catania Fontanarossa	CATA	Catania	IT	Italy
+CTC	Catamarca	CTCA	Catamarca	AR	Argentina
+CTG	Cartagena	CTGA	Cartagena	CO	Colombia
+CTL	Charleville	CTLA	Charleville	AU	Australia
+CTM	Chetumal	CTMA	Chetumal	MX	Mexico
+CTS	Sapporo Chitose	SPKA	Sapporo	JP	Japan
+CTU	Chengdu	CCTU	Chengdu	CN	China
+CUC	Cucuta	CUCA	Cucuta	CO	Colombia
+CUE	Cuenca	CUEA	Cuenca	EC	Ecuador
+CUF	Cuneo Levaldigi	CUNE	Cuneo	IT	Italy
+CUK	Caye Caulker	CUKA	Caye Caulker	BZ	Belize
+CUL	Culiacan	CULA	Culiacan	MX	Mexico
+CUM	Cumana	CUMA	Cumana	VE	Venezuela
+CUN	Cancun	CUNA	Cancun	MX	Mexico
+CUP	Carupano	CUPA	Carupano	VE	Venezuela
+CUQ	Coen	CUQA	Coen	AU	Australia
+CUR	Curacao	CURA	Curacao	CW	Curacao
+CUU	Chihuahua	CUUA	Chihuahua	MX	Mexico
+CUZ	Cuzco	CUZA	Cuzco	PE	Peru
+CVG	Cincinnati Northern Kentucky	CVGA	Cincinnati	US	United States
+CVM	Ciudad Victoria	CVMA	Ciudad Victoria	MX	Mexico
+CVQ	Carnarvon	CVQA	Carnarvon	AU	Australia
+CVU	Corvo Island	CORV	Corvo Island	PT	Portugal
+CWA	Wausau Central Wisconsin	AUWA	Wausau	US	United States
+CWB	Curitiba	CWBA	Curitiba	BR	Brazil
+CWC	Chernovtsy	CERW	Chernovtsy	UA	Ukraine
+CWL	Cardiff	CARD	Cardiff	UK	United Kingdom
+CXB	Cox's Bazar	CXBA	Cox's Bazar	BD	Bangladesh
+CXF	Coldfoot	CXFA	Coldfoot	US	United States
+CXH	Vancouver Coal Harbour	YVRA	Vancouver	CA	Canada
+CXI	Christmas Island	CXIA	Christmas Island	KI	Kiribati
+CXJ	Caxias Do Sul	CXJA	Caxias Do Sul	BR	Brazil
+CXP	Cilacap	CXPI	Cilacap	ID	Indonesia
+CXR	Nha Trang Cam Ranh	NHAV	Nha Trang	VN	Vietnam
+CYB	Cayman Brac Is	CYBA	Cayman Brac Is	KY	Cayman Islands
+CYC	Caye Chapel	CYCA	Caye Chapel	BZ	Belize
+CYF	Chefornak	CYFA	Chefornak	US	United States
+CYI	Chiayi	CYIT	Chiayi	TW	Taiwan
+CYO	Cayo Largo Del Sur	CYOA	Cayo Largo Del Sur	CU	Cuba
+CYP	Calbayog	CYPP	Calbayog	PH	Philippines
+CYS	Cheyenne	CYSA	Cheyenne	US	United States
+CYX	Cherskiy	CERV	Cherskiy	RU	Russia
+CYZ	Cauayan	CYZP	Cauayan	PH	Philippines
+CZE	Coro	CZEA	Coro	VE	Venezuela
+CZH	Corozal	CZHB	Corozal	BZ	Belize
+CZJ	Corazon De Jesus	CZJA	Corazon De Jesus	PA	Panama
+CZL	Constantine	CZLA	Constantine	DZ	Algeria
+CZM	Cozumel	CZMA	Cozumel	MX	Mexico
+CZS	Cruzeiro Do Sul	CZSA	Cruzeiro Do Sul	BR	Brazil
+CZU	Corozal	CZUA	Corozal	CO	Colombia
+CZX	Changzhou	CCZX	Changzhou	CN	China
+DAB	Daytona Beach	DABA	Daytona Beach	US	United States
+DAC	Dhaka	DACA	Dhaka	BD	Bangladesh
+DAD	Da Nang	DADV	Da Nang	VN	Vietnam
+DAL	Dallas Love Field	DFWA	Dallas	US	United States
+DAM	Damascus	DAMA	Damascus	SY	Syria
+DAR	Dar Es Salaam	DARA	Dar Es Salaam	TZ	Tanzania
+DAT	Datong	CDAT	Datong	CN	China
+DAU	Daru	DAUP	Daru	PG	Papua New Guinea
+DAV	David	DAVA	David	PA	Panama
+DAX	Daxian	CDAX	Daxian	CN	China
+DAY	Dayton International	DAYA	Dayton	US	United States
+DBA	Dalbandin	DBAA	Dalbandin	PK	Pakistan
+DBO	Dubbo	DBOA	Dubbo	AU	Australia
+DBQ	Dubuque	DBQA	Dubuque	US	United States
+DBV	Dubrovnik	DUBR	Dubrovnik	HR	Croatia
+DCA	Washington Ronald Reagan	WASA	Washington	US	United States
+DCF	Dominica Cane Field	DOMA	Dominica	DM	Dominica
+DCM	Castres Mazamet	CASU	Castres Mazamet	FR	France
+DCN	Derby Curtin	DRBA	Derby	AU	Australia
+DCT	Duncan Town	DCTA	Duncan Town	BS	Bahamas
+DDC	Dodge City	DDCA	Dodge City	US	United States
+DDG	Dandong	CDDG	Dandong	CN	China
+DEA	Dera Ghazi Khan	DEAA	Dera Ghazi Khan	PK	Pakistan
+DEB	Debrecen	DEBR	Debrecen	HU	Hungary
+DEC	Decatur	DECA	Decatur	US	United States
+DED	Dehra dun	IDED	Dehra Dun	IN	India
+DEF	Dezful	DEFA	Dezful	IR	Iran
+DEL	Delhi	IDEL	Delhi	IN	India
+DEN	Denver International	DENA	Denver	US	United States
+DFW	Dallas Fort Worth International	DFWA	Dallas	US	United States
+DGA	Dangriga	DGAA	Dangriga	BZ	Belize
+DGO	Durango	DGOA	Durango	MX	Mexico
+DGT	Dumaguete	DGTP	Dumaguete	PH	Philippines
+DHB	Deer Harbor Seaplane	ESDA	Eastsound	US	United States
+DHI	Dhangarhi	DHIA	Dhangarhi	NP	Nepal
+DHM	Dharamsala	IDHM	Dharamsala	IN	India
+DHN	Dothan	DHNA	Dothan	US	United States
+DIB	Dibrugarh	IDIB	Dibrugarh	IN	India
+DIE	Antsiranana / Arrachart	DIEA	Antsiranana	MG	Madagascar
+DIG	Diqing	CDIG	Diqing	CN	China
+DIJ	Dijon	DIJO	Dijon	FR	France
+DIK	Dickinson	DIKA	Dickinson	US	United States
+DIL	Dili	DILA	Dili	TL	East Timor
+DIN	Dien Bien Phu	DINV	Dien Bien Phu	VN	Vietnam
+DIR	Dire Dawa	DIRA	Dire Dawa	ET	Ethiopia
+DIU	Diu	IDIU	Diu	IN	India
+DIW	Dikwella	DIKW	Dikwella	LK	Sri Lanka
+DIY	Diyarbakir	DIYA	Diyarbakir	TR	Turkey
+DJB	Jambi	DJBI	Jambi	ID	Indonesia
+DJE	Djerba	DJER	Djerba	TN	Tunisia
+DJG	Djanet	DJGA	Djanet	DZ	Algeria
+DJJ	Jayapura	DJJI	Jayapura	ID	Indonesia
+DKR	Dakar	DKRA	Dakar	SN	Senegal
+DLA	Douala	DLAA	Douala	CM	Cameroon
+DLC	Dalian	CDLC	Dalian	CN	China
+DLE	Dole Tavaux	DOLE	Dole Tavaux	FR	France
+DLG	Dillingham	DLGA	Dillingham	US	United States
+DLH	Duluth International	DLHA	Duluth	US	United States
+DLI	Dalat	DLIV	Dalat	VN	Vietnam
+DLM	Dalaman	DALA	Dalaman	TR	Turkey
+DLU	Dali City	CDLU	Dali City	CN	China
+DLY	Dillons Bay	DLYV	Dillons Bay	VU	Vanuatu
+DLZ	Dalanzadgad	DLZA	Dalanzadgad	MN	Mongolia
+DMB	Zhambyl	DMBA	Zhambyl	KZ	Kazakhstan
+DMD	Doomadgee	DMDA	Doomadgee	AU	Australia
+DME	Moscow Domodedovo	MOSC	Moscow	RU	Russia
+DMK	Bangkok Don Meung	BKKT	Bangkok	TH	Thailand
+DMM	Dammam	DMMA	Dammam	SA	Saudi Arabia
+DMU	Dimapur	IDMU	Dimapur	IN	India
+DND	Dundee	DUND	Dundee	UK	United Kingdom
+DNH	Dunhuang	CDNH	Dunhuang	CN	China
+DNK	Dnepropetrovsk	DNEP	Dnepropetrovsk	UA	Ukraine
+DNR	Dinard	DINA	Dinard	FR	France
+DNZ	Denizli Cardak	DENI	Denizli Cardak	TR	Turkey
+DOB	Dobo	DOBI	Dobo	ID	Indonesia
+DOD	Dodoma	DODA	Dodoma	TZ	Tanzania
+DOH	Doha	DOHA	Doha	QA	Qatar
+DOK	Donetsk	DONF	Donetsk	UA	Ukraine
+DOL	Deauville St. Gatien	DEAU	Deauville St. Gatien	FR	France
+DOM	Dominica Melville Hall	DOMA	Dominica	DM	Dominica
+DOU	Dourados	DOUA	Dourados	BR	Brazil
+DOY	Dongying	CDOY	Dongying	CN	China
+DPL	Dipolog	DPLP	Dipolog	PH	Philippines
+DPO	Devonport	DPOA	Devonport	AU	Australia
+DPS	Bali (Denpasar)	DPSI	Bali (Denpasar)	ID	Indonesia
+DQA	Daqing	DQAA	Daqing	CN	China
+DRG	Deering	DRGA	Deering	US	United States
+DRK	Drake Bay	DRAB	Drake Bay	CR	Costa Rica
+DRO	Durango La Plata	DROA	Durango	US	United States
+DRS	Dresden	DRES	Dresden	DE	Germany
+DRT	Del Rio International	DRTA	Del Rio	US	United States
+DRW	Darwin	DRWA	Darwin	AU	Australia
+DSA	Doncaster Sheffield	DONC	Doncaster	UK	United Kingdom
+DSK	Dera Ismail Khan	DSKA	Dera Ismail Khan	PK	Pakistan
+DSM	Des Moines	DSMA	Des Moines	US	United States
+DSN	Dongsheng	CDSN	Dongsheng	CN	China
+DTD	Datadawai	DTDI	Datadawai	ID	Indonesia
+DTM	Dortmund	DORT	Dortmund	DE	Germany
+DTW	Detroit Wayne County	DTTA	Detroit	US	United States
+DUB	Dublin	DUBL	Dublin	IE	Ireland
+DUD	Dunedin	DUDN	Dunedin	NZ	New Zealand
+DUJ	Dubois	DUJA	Dubois	US	United States
+DUM	Dumai	DUMI	Dumai	ID	Indonesia
+DUR	Durban King Shaka International	DURA	Durban	ZA	South Africa
+DUS	Dusseldorf International	DUSS	Dusseldorf	DE	Germany
+DUT	Dutch Harbor	DUTA	Dutch Harbor	US	United States
+DVO	Davao International	DVOP	Davao	PH	Philippines
+DWC	Al Maktoum International Airport	DXBA	Dubai	AE	United Arab Emirates
+DWD	Dawadmi	DWDA	Dawadmi	SA	Saudi Arabia
+DXB	Dubai	DXBA	Dubai	AE	United Arab Emirates
+DYG	Dayong	CDYG	Dayong	CN	China
+DYR	Anadyr	ANAD	Anadyr	RU	Russia
+DYU	Dushanbe	DYUA	Dushanbe	TJ	Tajikistan
+DZA	Dzaoudzi	DZAA	Dzaoudzi	YT	Mayotte
+DZN	Zhezkazgan	DZNA	Zhezkazgan	KZ	Kazakhstan
+EAA	Eagle	EAAA	Eagle	US	United States
+EAE	Emae	EAEV	Emae	VU	Vanuatu
+EAM	Nejran	EAMA	Nejran	SA	Saudi Arabia
+EAR	Kearney	EARA	Kearney	US	United States
+EAS	San Sebastian Fuenteraba	SANS	San Sebastian	ES	Spain
+EAT	Wenatchee	EATA	Wenatchee	US	United States
+EAU	Eau Claire	EAUA	Eau Claire	US	United States
+EBA	Elba Island	ELBA	Elba Island	IT	Italy
+EBB	Entebbe	EBBA	Entebbe	UG	Uganda
+EBD	El Obeid	EBDA	El Obeid	SD	Sudan
+EBG	El Bagre	EBGA	El Bagre	CO	Colombia
+EBJ	Esbjerg	ESBJ	Esbjerg	DK	Denmark
+EBL	Erbil	EBLA	Erbil	IQ	Iraq
+EBO	Ebon	EBOA	Ebon	MH	Marshall Islands
+EBU	St Etienne	STET	St Etienne	FR	France
+ECN	Ercan	ERCA	Ercan	CY	Cyprus
+ECP	Northwest Florida Beaches International	PFNA	Panama City	US	United States
+EDA	Edna Bay	EDAA	Edna Bay	US	United States
+EDI	Edinburgh	EDIN	Edinburgh	UK	United Kingdom
+EDL	Eldoret	EDLA	Eldoret	KE	Kenya
+EDO	Edremit / Korfez	EDOA	Edremit / Korfez	TR	Turkey
+EDR	Edward River	EDRA	Edward River	AU	Australia
+EEK	Eek	EEKA	Eek	US	United States
+EFL	Argostoli, Kefallinia	ARGO	Argostoli	GR	Greece
+EGC	Bergerac	BERG	Bergerac	FR	France
+EGE	Vail Eagle County	EGEA	Vail	US	United States
+EGM	Sege	EGMA	Sege	SB	Solomon Islands
+EGN	Geneina	EGNA	Geneina	SD	Sudan
+EGO	Belgorod	BELH	Belgorod	RU	Russia
+EGS	Egilsstadir	EGIL	Egilsstadir	IS	Iceland
+EGX	Egegik	EGXA	Egegik	US	United States
+EIN	Eindhoven	EIND	Eindhoven	NL	Netherlands
+EIS	Beef Island	EISA	Beef Island	VG	British Virgin Islands
+EJA	Barrancabermeja	EJAA	Barrancabermeja	CO	Colombia
+EJH	Wedjh	EJHA	Wedjh	SA	Saudi Arabia
+EKO	Elko	EKOA	Elko	US	United States
+EKS	Shakhtyorsk	SHAK	Shakhtyorsk	RU	Russia
+ELC	Elcho Island	ELCA	Elcho Island	AU	Australia
+ELD	El Dorado	ELDA	El Dorado	US	United States
+ELF	El Fasher	ELFA	El Fasher	SD	Sudan
+ELG	El Golea	ELGA	El Golea	DZ	Algeria
+ELH	North Eleuthera	ELHA	North Eleuthera	BS	Bahamas
+ELI	Elim	ELIA	Elim	US	United States
+ELM	Elmira	ELMA	Elmira	US	United States
+ELP	El Paso International	ELPA	El Paso	US	United States
+ELQ	Gassim	ELQA	Gassim	SA	Saudi Arabia
+ELS	East London	ELSA	East London	ZA	South Africa
+ELU	El Oued	ELUA	El Oued	DZ	Algeria
+ELV	Elfin Cove	ELVA	Elfin Cove	US	United States
+EMA	East Midlands	NOTT	Nottingham	UK	United Kingdom
+EMD	Emerald	EMDA	Emerald	AU	Australia
+EMK	Emmonak	EMKA	Emmonak	US	United States
+ENA	Kenai	ENAA	Kenai	US	United States
+ENE	Ende	ENEI	Ende	ID	Indonesia
+ENF	Enontekio	ENON	Enontekio	FI	Finland
+ENH	Enshi	CENH	Enshi	CN	China
+ENI	El Nido	ENIP	El Nido	PH	Philippines
+ENU	Enugu	ENUA	Enugu	NG	Nigeria
+ENY	Yan'an	CENY	Yan'an	CN	China
+EOH	Medellin Enrique Olaya Herrera	MDEA	Medellin	CO	Colombia
+EOI	Eday	EOIA	Eday	UK	United Kingdom
+EPL	Epinal Mirecourt	EPIN	Epinal Mirecourt	FR	France
+EPR	Esperance	EPRA	Esperance	AU	Australia
+EQS	Esquel	EQSA	Esquel	AR	Argentina
+ERC	Erzincan	ERZI	Erzincan	TR	Turkey
+ERF	Erfurt	ERFU	Erfurt	DE	Germany
+ERH	Errachidia	ERRA	Errachidia	MA	Morocco
+ERI	Erie	ERIA	Erie	US	United States
+ERL	Erenhot	ERNH	Erenhot	CN	China
+ERM	Erechim	ERMA	Erechim	BR	Brazil
+ERN	Eirunepe	ERNA	Eirunepe	BR	Brazil
+ERS	Windhoek Eros	WDHA	Windhoek	NA	Namibia
+ERZ	Erzurum	ERZU	Erzurum	TR	Turkey
+ESB	Ankara Esenboga	ANKA	Ankara	TR	Turkey
+ESC	Escanaba	ESCA	Escanaba	US	United States
+ESD	Eastsound	ESDA	Eastsound	US	United States
+ESL	Elista	ELIS	Elista	RU	Russia
+ESM	Esmeraldas	ESMA	Esmeraldas	EC	Ecuador
+ESR	El Salvador	ESRA	El Salvador	CL	Chile
+ESU	Essaouira	ESSA	Essaouira	MA	Morocco
+ETH	Elat	ELAT	Elat	IL	Israel
+ETR	Santa Rosa	ETRA	Santa Rosa	EC	Ecuador
+ETZ	Metz / Nancy Lorraine	METZ	Metz	FR	France
+EUG	Eugene	EUGA	Eugene	US	United States
+EUN	Laayoune Hassan I	LAAY	Laayoune Hassan I	MA	Morocco
+EUX	St Eustatius	EUXA	St Eustatius	BQ	Caribbean Netherlands
+EVE	Evenes	EVEN	Evenes	NO	Norway
+EVG	Sveg	SVEG	Sveg	SE	Sweden
+EVN	Yerevan	EVNA	Yerevan	AM	Armenia
+EVV	Evansville	EVVA	Evansville	US	United States
+EWB	Fall River	EWBA	Fall River	US	United States
+EWN	New Bern	EWNA	New Bern	US	United States
+EWR	New York Newark	NYCA	New York	US	United States
+EXI	Excursion Inlet	EXIA	Excursion Inlet	US	United States
+EXT	Exeter	EXET	Exeter	UK	United Kingdom
+EYK	Beloyarsky	EYKA	Beloyarsky	RU	Russia
+EYP	El Yopal	EYPA	El Yopal	CO	Colombia
+EYW	Key West International	EYWA	Key West	US	United States
+EZE	Buenos Aires Ministro Pistarini	BUEA	Buenos Aires	AR	Argentina
+EZS	Elazig	ELAZ	Elazig	TR	Turkey
+EZV	Berezovo	EZVA	Berezovo	RU	Russia
+FAC	Faaite	FACP	Faaite	PF	French Polynesia
+FAE	Sorvagur	SORV	Sorvagur	FO	Faroe Islands
+FAH	Farah	FAHA	Farah	AF	Afghanistan
+FAI	Fairbanks International	FAIA	Fairbanks	US	United States
+FAM	Farmington	FAMA	Farmington	US	United States
+FAO	Faro	FARO	Faro	PT	Portugal
+FAR	Fargo	FARA	Fargo	US	United States
+FAT	Fresno Yosemite	FATA	Fresno	US	United States
+FAV	Fakarava	FAVP	Fakarava	PF	French Polynesia
+FAY	Fayetteville Municipal	FAYA	Fayetteville	US	United States
+FBD	Faizabad	FBDA	Faizabad	AF	Afghanistan
+FBE	Francisco Beltrao	FBEA	Francisco Beltrao	BR	Brazil
+FBM	Lubumbashi	FBMA	Lubumbashi	CD	DR Congo
+FBS	Friday Harbor SPB	FBSA	Friday Harbor SPB	US	United States
+FCA	Kalispell	FCAA	Kalispell	US	United States
+FCO	Rome Fiumicino	ROME	Rome	IT	Italy
+FDE	Forde Bringeland	FORD	Forde	NO	Norway
+FDF	Fort De France	FDFA	Fort De France	MQ	Martinique
+FDH	Friedrichshafen	FRIE	Friedrichshafen	DE	Germany
+FEG	Fergana	FEGA	Fergana	UZ	Uzbekistan
+FEN	Fernando De Noronha	FENA	Fernando De Noronha	BR	Brazil
+FEZ	Fes-Saïss	FEZS	Fes	MA	Morocco
+FGI	Apia Fagali I	APWW	Apia	WS	Samoa
+FGU	Fangatau	FGUP	Fangatau	PF	French Polynesia
+FHZ	Fakahina	FHZP	Fakahina	PF	French Polynesia
+FIE	Fair Isle	FIEA	Fair Isle	UK	United Kingdom
+FIH	Kinshasa N'Djili	FIHA	Kinshasa	CD	DR Congo
+FJR	Al-Fujairah	FJRA	Al-Fujairah	AE	United Arab Emirates
+FKB	Karlsruhe / Baden-Baden	BADE	Baden-Baden	DE	Germany
+FKI	Kisangani	FKIA	Kisangani	CD	DR Congo
+FKL	Franklin	FKLA	Franklin	US	United States
+FKQ	Fak Fak	FKQI	Fak Fak	ID	Indonesia
+FKS	Fukushima	JFKS	Fukushima	JP	Japan
+FLA	Florencia	FLAA	Florencia	CO	Colombia
+FLG	Grand Canyon Pulliam Field	GCNA	Grand Canyon	US	United States
+FLI	Flateyri	FLAT	Flateyri	IS	Iceland
+FLL	Fort Lauderdale International	FLLA	Fort Lauderdale	US	United States
+FLN	Florianopolis	FLNA	Florianopolis	BR	Brazil
+FLO	Florence	FLOA	Florence	US	United States
+FLR	Florence	FLOR	Florence	IT	Italy
+FLW	Flores Island	SANU	Flores Island	PT	Portugal
+FMA	Formosa	FMAA	Formosa	AR	Argentina
+FMI	Kalemie	FMIA	Kalemie	CD	DR Congo
+FMM	Memmingen Allgäu	MEMB	Memmingen	DE	Germany
+FMN	Farmington	FMNA	Farmington	US	United States
+FMO	Munster Osnabruck	MUNS	Munster	DE	Germany
+FMY	Fort Myers Page Field	FMYA	Fort Myers	US	United States
+FNA	Freetown Lungi International	FNAA	Freetown	SL	Sierra Leone
+FNC	Madeira	FUNC	Madeira	PT	Portugal
+FNI	Nimes	NIME	Nimes	FR	France
+FNJ	Pyongyang	FNJA	Pyongyang	KP	North Korea
+FNT	Flint	FNTA	Flint	US	United States
+FOA	Foula	FOAA	Foula	UK	United Kingdom
+FOC	Fuzhou	CFOC	Fuzhou	CN	China
+FOD	Fort Dodge	FODA	Fort Dodge	US	United States
+FOE	Topeka Forbes AFB	TOPA	Topeka	US	United States
+FOG	Foggia Gino Lisa	FOGG	Foggia Gino Lisa	IT	Italy
+FON	Fortuna	FONA	Fortuna	CR	Costa Rica
+FOR	Fortaleza	FORA	Fortaleza	BR	Brazil
+FPO	Freeport	FPOA	Freeport	BS	Bahamas
+FRA	Frankfurt am Main	FRAN	Frankfurt	DE	Germany
+FRD	Friday Harbor	FRDA	Friday Harbor	US	United States
+FRE	Fera Island	FREA	Fera Island	SB	Solomon Islands
+FRI	Fort Riley	FRIA	Fort Riley	US	United States
+FRO	Floro	FLOT	Floro	NO	Norway
+FRS	Flores	FRSA	Flores	GT	Guatemala
+FRU	Bishkek	FRUA	Bishkek	KG	Kyrgyzstan
+FRW	Francistown	FRWA	Francistown	BW	Botswana
+FSC	Figari Sud Corse	FIGA	Figari	FR	France
+FSD	Sioux Falls	FSDA	Sioux Falls	US	United States
+FSM	Fort Smith	FSMA	Fort Smith	US	United States
+FSP	St Pierre	FSPA	St Pierre	PM	St. Pierre and Miquelon
+FSZ	Shizuoka	FSZA	Shizuoka	JP	Japan
+FTA	Futuna Island	FTAV	Futuna Island	VU	Vanuatu
+FTE	El Calafate	FTEA	El Calafate	AR	Argentina
+FTU	Fort Dauphin	FTUA	Fort Dauphin	MG	Madagascar
+FUE	Fuerteventura	FUER	Fuerteventura	ES	Spain
+FUG	Fuyang	CFUG	Fuyang	CN	China
+FUJ	Fukue	JFUJ	Fukue	JP	Japan
+FUK	Fukuoka	JFUK	Fukuoka	JP	Japan
+FUN	Funafuti	FUNA	Funafuti	TV	Tuvalu
+FUO	Fuoshan	CFUO	Fuoshan	CN	China
+FUT	Futuna Island	FUTA	Futuna Island	WF	Wallis and Futuna Islands
+FWA	Fort Wayne	FWAA	Fort Wayne	US	United States
+FYU	Fort Yukon	FYUA	Fort Yukon	US	United States
+FYV	Fayetteville Municipal (Drake Fld)	FYVA	Fayetteville	US	United States
+GAE	Gabes	GABE	Gabes	TN	Tunisia
+GAF	Gafsa	GAFS	Gafsa	TN	Tunisia
+GAJ	Yamagata	JGAJ	Yamagata	JP	Japan
+GAL	Galena	GALA	Galena	US	United States
+GAM	Gambell	GAMA	Gambell	US	United States
+GAN	Gan Island	GANA	Gan Island	MV	Maldives
+GAO	Guantanamo Los Canos	GAOA	Guantanamo	CU	Cuba
+GAU	Guwahati	IGAU	Guwahati	IN	India
+GAY	Gaya	IGAY	Gaya	IN	India
+GBB	Qabala	QABA	Qabala	AZ	Azerbaijan
+GBD	Great Bend	GBDA	Great Bend	US	United States
+GBE	Gaborone	GBEA	Gaborone	BW	Botswana
+GBT	Gorgan	GBTA	Gorgan	IR	Iran
+GCC	Gillette	GCCA	Gillette	US	United States
+GCH	Gachsaran	GCHA	Gachsaran	IR	Iran
+GCI	Guernsey	GUER	Guernsey	GG	Guernsey
+GCK	Garden City	GCKA	Garden City	US	United States
+GCM	Grand Cayman Island	GCMA	Grand Cayman Island	KY	Cayman Islands
+GCN	Grand Canyon National Park	GCNA	Grand Canyon	US	United States
+GCW	Peach Springs Grand Canyon West	PGSA	Peach Springs	US	United States
+GDE	Gode / Iddidole	GDEA	Gode / Iddidole	ET	Ethiopia
+GDL	Guadalajara	GDLA	Guadalajara	MX	Mexico
+GDN	Gdansk	GADA	Gdansk	PL	Poland
+GDQ	Gondar	GDQA	Gondar	ET	Ethiopia
+GDT	Grand Turk Is	GDTA	Grand Turk Is	TC	Turks and Caicos Islands
+GDV	Glendive	GDVA	Glendive	US	United States
+GDX	Magadan	MAGA	Magadan	RU	Russia
+GDZ	Gelendzik	GELE	Gelendzik	RU	Russia
+GEA	Noumea Magenta	NOUN	Noumea	NC	New Caledonia
+GEB	Gebe	GEBI	Gebe	ID	Indonesia
+GEG	Spokane International	GEGA	Spokane	US	United States
+GEL	Santo Angelo	GELA	Santo Angelo	BR	Brazil
+GEO	Georgetown	GEOA	Georgetown	GY	Guyana
+GER	Nueva Gerona	GERA	Nueva Gerona	CU	Cuba
+GES	General Santos International	GESP	General Santos	PH	Philippines
+GET	Geraldton	GETA	Geraldton	AU	Australia
+GEV	Gallivare	GALL	Gallivare	SE	Sweden
+GFF	Griffith	GFFA	Griffith	AU	Australia
+GFK	Grand Forks	GFKA	Grand Forks	US	United States
+GFN	Grafton	GFNA	Grafton	AU	Australia
+GGG	Gladewater	GGGA	Gladewater	US	United States
+GGM	Kakamega	KAKA	Kakamega	KE	Kenya
+GGT	George Town	GGTA	George Town	BS	Bahamas
+GGW	Glasgow	GGWA	Glasgow	US	United States
+GHA	Ghardaia	GHAA	Ghardaia	DZ	Algeria
+GHB	Governors Harbour	GHBA	Governors Harbour	BS	Bahamas
+GHC	Great Harbour	GHCA	Great Harbour	BS	Bahamas
+GHE	Garachine	GHEA	Garachine	PA	Panama
+GHT	Ghat	GHTA	Ghat	LY	Libya
+GIB	Gibraltar	GIBR	Gibraltar	GI	Gibraltar
+GIG	Rio De Janeiro Internacional	RIOA	Rio De Janeiro	BR	Brazil
+GIL	Gilgit	GILA	Gilgit	PK	Pakistan
+GIS	Gisborne	GISN	Gisborne	NZ	New Zealand
+GIZ	Jazan	GIZA	Jazan	SA	Saudi Arabia
+GJA	Guanaja	GJAA	Guanaja	HN	Honduras
+GJL	Jijel	GJLA	Jijel	DZ	Algeria
+GJR	Gjogur	GJOG	Gjogur	IS	Iceland
+GJT	Grand Junction	GJTA	Grand Junction	US	United States
+GKA	Goroka	GKAP	Goroka	PG	Papua New Guinea
+GLA	Glasgow International	GLAS	Glasgow	UK	United Kingdom
+GLF	Golfito	GLFA	Golfito	CR	Costa Rica
+GLH	Greenville	GLHA	Greenville	US	United States
+GLK	Galcaio	GLKA	Galcaio	SO	Somalia
+GLN	Goulimime	GOUL	Goulimime	MA	Morocco
+GLO	Gloucestershire	GLOA	Gloucester	UK	United Kingdom
+GLT	Gladstone	GLTA	Gladstone	AU	Australia
+GLV	Golovin	GLVA	Golovin	US	United States
+GLX	Galela	GLXI	Galela	ID	Indonesia
+GMA	Gemena	GMAA	Gemena	CD	DR Congo
+GMB	Gambela	GMBA	Gambela	ET	Ethiopia
+GME	Gomel	GMEA	Gomel	BY	Belarus
+GMO	Gombe Lawanti	GOMB	Gombe	NG	Nigeria
+GMP	Seoul Gimpo	SELA	Seoul	KR	South Korea
+GMR	Gambier Is	GMRP	Gambier Is	PF	French Polynesia
+GMZ	La Gomera Tenerife	LAGO	La Gomera Tenerife	ES	Spain
+GNA	Grodna	GNAA	Grodna	BY	Belarus
+GNB	Grenoble	GREN	Grenoble	FR	France
+GND	St. George	GNDA	St. George	GD	Grenada
+GNI	Green Island	GNIT	Green Island	TW	Taiwan
+GNS	Gunungsitoli	GNSI	Gunungsitoli	ID	Indonesia
+GNU	Goodnews Bay	GNUA	Goodnews Bay	US	United States
+GNV	Gainesville	GNVA	Gainesville	US	United States
+GNY	Sanliurfa Guney Anadoulu Projesi	SANL	Sanliurfa	TR	Turkey
+GOA	Genoa	GENO	Genoa	IT	Italy
+GOH	Nuuk	GOHA	Nuuk	GL	Greenland
+GOI	Goa	IGOI	Goa	IN	India
+GOJ	Nizhniy Novgorod	NIZH	Nizhniy Novgorod	RU	Russia
+GOM	Goma	GOMA	Goma	CD	DR Congo
+GOP	Gorakhpur	IGOP	Gorakhpur	IN	India
+GOQ	Golmud	CGOQ	Golmud	CN	China
+GOT	Gothenburg Landvetter	GOTH	Gothenburg	SE	Sweden
+GOU	Garoua	GOUA	Garoua	CM	Cameroon
+GOV	Gove	GOVA	Gove	AU	Australia
+GPA	Araxos	ARAX	Araxos	GR	Greece
+GPI	Guapi	GPIA	Guapi	CO	Colombia
+GPS	Galapagos Is	GPSA	Galapagos Is	EC	Ecuador
+GPT	Gulfport	GPTA	Gulfport	US	United States
+GPZ	Grand Rapids	GPZA	Grand Rapids	US	United States
+GRB	Green Bay	GRBA	Green Bay	US	United States
+GRI	Grand Island	GRIA	Grand Island	US	United States
+GRJ	George	GRJA	George	ZA	South Africa
+GRK	Killeen Gray AAF	ILEA	Killeen	US	United States
+GRO	Gerona	GERO	Gerona	ES	Spain
+GRP	Gurupi	GRPA	Gurupi	BR	Brazil
+GRQ	Groningen	GRON	Groningen	NL	Netherlands
+GRR	Grand Rapids	GRRA	Grand Rapids	US	United States
+GRU	Sao Paulo Guarulhos	SAOA	Sao Paulo	BR	Brazil
+GRV	Grozny	GROZ	Grozny	RU	Russia
+GRW	Graciosa Island	GRAC	Graciosa Island	PT	Portugal
+GRX	Granada	GRAO	Granada	ES	Spain
+GRZ	Graz	GRAZ	Graz	AT	Austria
+GSA	Long Pasia	GSAM	Long Pasia	MY	Malaysia
+GSE	Gothenburg Save	GOTH	Gothenburg	SE	Sweden
+GSM	Gheshm	GSMA	Gheshm	IR	Iran
+GSO	Greensboro / High Point	GSOA	Greensboro / High Point	US	United States
+GSP	Greenville-Spartanburg	GSPA	Greenville	US	United States
+GST	Gustavus Arpt	GSTA	Gustavus	US	United States
+GTE	Groote Eylandt	GTEA	Groote Eylandt	AU	Australia
+GTF	Great Falls International	GTFA	Great Falls	US	United States
+GTO	Gorontalo	GTOI	Gorontalo	ID	Indonesia
+GTR	Columbus Golden Triangle Reg.	UBSA	Columbus	US	United States
+GTS	Granites	GTSA	Granites	AU	Australia
+GTZ	Grumeti Airstrip	GRUM	Grumeti	TZ	Tanzania
+GUA	Guatemala City	GUAA	Guatemala City	GT	Guatemala
+GUC	Gunnison	GUCA	Gunnison	US	United States
+GUM	Guam A.B. Won Pat	GUMA	Barrigada / Tamuning	GU	Guam
+GUR	Alotau	GURP	Alotau	PG	Papua New Guinea
+GUW	Atyrau	GUWA	Atyrau	KZ	Kazakhstan
+GVA	Geneva	GENE	Geneva	CH	Switzerland
+GVR	Governador Valadares	GVRA	Governador Valadares	BR	Brazil
+GWD	Gwadar	GWDA	Gwadar	PK	Pakistan
+GWL	Gwalior	IGWL	Gwalior	IN	India
+GWT	Westerland	WEST	Westerland	DE	Germany
+GXF	Seiyun	GXFA	Seiyun	YE	Yemen
+GYA	Guayaramerin	GYAA	Guayaramerin	BO	Bolivia
+GYD	Baku Heydar Aliyev International	BAKA	Baku	AZ	Azerbaijan
+GYE	Guayaquil	GYEA	Guayaquil	EC	Ecuador
+GYL	Argyle	GYLA	Argyle	AU	Australia
+GYM	Guaymas	GYMA	Guaymas	MX	Mexico
+GYN	Goiania	GYNA	Goiania	BR	Brazil
+GYS	Guang Yuan	CGYS	Guang Yuan	CN	China
+GYY	Chicago Gary Regional	CHIA	Chicago	US	United States
+GZO	Gizo	GZOA	Gizo	SB	Solomon Islands
+GZP	Gazipasa	GZPA	Gazipasa	TR	Turkey
+GZT	Gaziantep	GAZI	Gaziantep	TR	Turkey
+HAA	Hasvik	HASV	Hasvik	NO	Norway
+HAC	Hachijo Jima	JHAC	Hachijo Jima	JP	Japan
+HAD	Halmstad	HALM	Halmstad	SE	Sweden
+HAH	Moroni Prince Said Ibrahim In	YVAA	Moroni	KM	Comoros
+HAJ	Hannover	HANN	Hannover	DE	Germany
+HAK	Haikou	CHAK	Haikou	CN	China
+HAM	Hamburg International	HAMB	Hamburg	DE	Germany
+HAN	Hanoi	HANV	Hanoi	VN	Vietnam
+HAQ	Hanimaadhoo	HAQA	Hanimaadhoo	MV	Maldives
+HAS	Hail	HASA	Hail	SA	Saudi Arabia
+HAU	Haugesund	HAUG	Haugesund	NO	Norway
+HAV	Havana	HAVA	Havana	CU	Cuba
+HBA	Hobart	HBAA	Hobart	AU	Australia
+HBE	Alexandria Borg El Arab	ALEX	Alexandria	EG	Egypt
+HBX	Hubli	IHBX	Hubli	IN	India
+HCN	Hengchun	HCNT	Hengchun	TW	Taiwan
+HCR	Holy Cross	HCRA	Holy Cross	US	United States
+HDF	Heringsdorf	HERI	Heringsdorf	DE	Germany
+HDG	Hebei Handan	HDGA	Handan	CN	China
+HDM	Hamadan	HDMA	Hamadan	IR	Iran
+HDN	Hayden	HDNA	Hayden	US	United States
+HDS	Hoedspruit	HDSA	Hoedspruit	ZA	South Africa
+HDY	Hat Yai	HDYT	Hat Yai (Songkhla)	TH	Thailand
+HEA	Herat	HEAA	Herat	AF	Afghanistan
+HEH	Heho	HEHM	Heho	MM	Myanmar
+HEK	Heihe	CHEK	Heihe	CN	China
+HEL	Helsinki Vantaa	HELS	Helsinki	FI	Finland
+HER	Crete Heraklion	CRET	Crete	GR	Greece
+HET	Hohhot	CHET	Hohhot	CN	China
+HFA	Haifa	HAIF	Haifa	IL	Israel
+HFE	Hefei	CHFE	Hefei	CN	China
+HFS	Hagfors	HAGF	Hagfors	SE	Sweden
+HFT	Hammerfest	HAMM	Hammerfest	NO	Norway
+HGA	Hargeisa	HGAA	Hargeisa	SO	Somalia
+HGD	Hughenden	HGDA	Hughenden	AU	Australia
+HGH	Hangzhou	CHGH	Hangzhou	CN	China
+HGN	Mae Hong Son	HGNT	Mae Hong Son	TH	Thailand
+HGR	Hagerstown	HGRA	Hagerstown	US	United States
+HGU	Mount Hagen	HGUP	Mount Hagen	PG	Papua New Guinea
+HHH	Hilton Head	HHHA	Hilton Head	US	United States
+HHN	Frankfurt Hahn	FRAN	Frankfurt	DE	Germany
+HHQ	Hua Hin (Prachuap Khiri Khan)	HHQT	Hua Hin (Prachuap Khiri Khan)	TH	Thailand
+HHZ	Hikueru	HHZP	Hikueru	PF	French Polynesia
+HIB	Hibbing	HIBA	Hibbing	US	United States
+HID	Horn Island	HIDA	Horn Island	AU	Australia
+HIJ	Hiroshima International	JHIJ	Hiroshima	JP	Japan
+HIN	Jinju	HINA	Jinju	KR	South Korea
+HIR	Honiara	HIRA	Honiara	SB	Solomon Islands
+HJJ	Huai Hua	HJJA	Huai Hua	CN	China
+HJR	Khajuraho	IHJR	Khajuraho	IN	India
+HKB	Healy Lake	HKBA	Healy Lake	US	United States
+HKD	Hakodate	JHKD	Hakodate	JP	Japan
+HKG	Hong Kong International	HKGA	Hong Kong	HK	Hong Kong
+HKK	Hokitika	HKKN	Hokitika	NZ	New Zealand
+HKN	Hoskins	HKNP	Hoskins	PG	Papua New Guinea
+HKT	Phuket	HKTT	Phuket	TH	Thailand
+HLA	Lanseria	HLAA	Lanseria	ZA	South Africa
+HLD	Hailar	CHLD	Hailar	CN	China
+HLH	Ulanhot	CHLH	Ulanhot	CN	China
+HLN	Helena	HLNA	Helena	US	United States
+HLP	Halim Perdana Kusuma	CGKI	Jakarta	ID	Indonesia
+HLZ	Hamilton	HLZN	Hamilton	NZ	New Zealand
+HMA	Khanty-Mansiysk	HMAA	Khanty-Mansiysk	RU	Russia
+HMB	Sohag	SOHG	Sohag	EG	Egypt
+HME	Hassi Messaoud	HMEA	Hassi Messaoud	DZ	Algeria
+HMI	Hami	CHMI	Hami	CN	China
+HMO	Hermosillo	HMOA	Hermosillo	MX	Mexico
+HMV	Hemavan	HEMA	Hemavan	SE	Sweden
+HNA	Hanamaki	JHNA	Hanamaki	JP	Japan
+HND	Tokyo Haneda	TYOA	Tokyo	JP	Japan
+HNH	Hoonah	HNHA	Hoonah	US	United States
+HNL	Honolulu International	HNLA	Honolulu	US	United States
+HNM	Hana	HNMA	Hana	US	United States
+HNS	Haines	HNSA	Haines	US	United States
+HOB	Hobbs Lea County	HOBA	Hobbs	US	United States
+HOD	Hodeidah	HODA	Hodeidah	YE	Yemen
+HOE	Houeisay	HOEL	Houeisay	LA	Laos
+HOF	Alahsa	HOFA	Alahsa	SA	Saudi Arabia
+HOG	Holguin	HOGA	Holguin	CU	Cuba
+HOI	Hao Island	HOIP	Hao Island	PF	French Polynesia
+HOM	Homer	HOMA	Homer	US	United States
+HON	Huron	HONA	Huron	US	United States
+HOR	Horta	HORT	Horta	PT	Portugal
+HOT	Hot Springs	HOTB	Hot Springs	US	United States
+HOU	Houston Hobby	HOUA	Houston	US	United States
+HOV	Orsta / Volda Hovden	ORST	Orsta / Volda Hovden	NO	Norway
+HPB	Hooper Bay	HPBA	Hooper Bay	US	United States
+HPH	Haiphong	HPHV	Haiphong	VN	Vietnam
+HPN	Westchester County	HPNA	Westchester County	US	United States
+HRB	Harbin	CHRB	Harbin	CN	China
+HRE	Harare	HREA	Harare	ZW	Zimbabwe
+HRG	Hurghada	HURG	Hurghada	EG	Egypt
+HRI	Hambantota International Airport	HAMT	Hambantota	LK	Sri Lanka
+HRK	Kharkov	KHAR	Kharkov	UA	Ukraine
+HRL	Harlingen	HRLA	Harlingen	US	United States
+HRO	Harrison	HROA	Harrison	US	United States
+HSG	Saga	JHSG	Saga	JP	Japan
+HSL	Huslia	HSLA	Huslia	US	United States
+HSN	Zhoushan	CHSN	Zhoushan	CN	China
+HSV	Huntsville International	HSVA	Huntsville	US	United States
+HTA	Chita	CHIT	Chita	RU	Russia
+HTI	Hamilton Island	HTIA	Hamilton Island	AU	Australia
+HTM	Khatgal	HTMA	Khatgal	MN	Mongolia
+HTN	Hotan	HOTA	Hotan	CN	China
+HTS	Ashland	HTSA	Ashland	US	United States
+HTY	Antakya	HTYA	Antakya	TR	Turkey
+HUH	Huahine	HUHP	Huahine	PF	French Polynesia
+HUI	Hue	HUIV	Hue	VN	Vietnam
+HUN	Hualien	HUNT	Hualien	TW	Taiwan
+HUS	Hughes Municipal	HUSB	Hughes	US	United States
+HUU	Huanuco	HUUA	Huanuco	PE	Peru
+HUX	Huatulco	HUXA	Huatulco	MX	Mexico
+HUY	Humberside	HUMB	Humberside	UK	United Kingdom
+HVB	Hervey Bay	HVBA	Hervey Bay	AU	Australia
+HVD	Khovd	HVDA	Khovd	MN	Mongolia
+HVG	Honningsvag Valan	HONN	Honningsvag Valan	NO	Norway
+HVN	New Haven	HVNA	New Haven	US	United States
+HVR	Havre	HVRA	Havre	US	United States
+HYA	Hyannis	HYAA	Hyannis	US	United States
+HYD	Hyderabad	IHYD	Hyderabad	IN	India
+HYG	Hydaburg	HYGA	Hydaburg	US	United States
+HYL	Hollis	HYLA	Hollis	US	United States
+HYN	Huangyan	CHYN	Huangyan	CN	China
+HYS	Hays	HYSA	Hays	US	United States
+HZH	Liping City	HZHA	Liping City	CN	China
+HZK	Husavik	HUSA	Husavik	IS	Iceland
+IAA	Igarka	IGAR	Igarka	RU	Russia
+IAD	Washington Dulles	WASA	Washington	US	United States
+IAG	Niagara Falls	IAGA	Niagara Falls	US	United States
+IAH	Houston George Bush Intercntl.	HOUA	Houston	US	United States
+IAM	In Amenas	IAMA	In Amenas	DZ	Algeria
+IAN	Kiana	IANA	Kiana	US	United States
+IAO	Siargao Island	SIAR	Siargao Island	PH	Philippines
+IAR	Yaroslavl	YARO	Yaroslavl	RU	Russia
+IAS	Iasi	IASI	Iasi	RO	Romania
+IBA	Ibadan	IBAA	Ibadan	NG	Nigeria
+IBE	Ibague	IBEA	Ibague	CO	Colombia
+IBR	Omitama	IBRA	Omitama	JP	Japan
+IBZ	Ibiza	IBIZ	Ibiza	ES	Spain
+ICI	Cicia	ICIF	Cicia	FJ	Fiji
+ICN	Seoul Incheon Int'l	SELA	Seoul	KR	South Korea
+ICT	Wichita Mid-Continent	ICTA	Wichita	US	United States
+IDA	Idaho Falls	IDAA	Idaho Falls	US	United States
+IDR	Indore	IIDR	Indore	IN	India
+IEG	Zielona Gora Babimost	ZIEL	Zielona Gora Babimost	PL	Poland
+IEV	Kiev Zhulhany	KIEV	Kiev	UA	Ukraine
+IFJ	Isafjordur	ISAF	Isafjordur	IS	Iceland
+IFN	Isfahan	IFNA	Isfahan	IR	Iran
+IFO	Ivano-Frankovsk	IVAN	Ivano-Frankovsk	UA	Ukraine
+IFP	Bullhead City	IFPA	Bullhead City	US	United States
+IGA	Inagua	IGAA	Inagua	BS	Bahamas
+IGD	Igdir Airport	IGDR	Igdir	TR	Turkey
+IGG	Igiugig	IGGA	Igiugig	US	United States
+IGM	Kingman	IGMA	Kingman	US	United States
+IGR	Iguazu	IGRA	Iguazu	AR	Argentina
+IGT	Magas	NAZR	Nazran	RU	Russia
+IGU	Iguassu Falls	IGUA	Iguassu Falls	BR	Brazil
+IHR	Iran Shahr	IHRA	Iran Shahr	IR	Iran
+IIL	Ilaam	IILA	Ilaam	IR	Iran
+IJK	Izhevsk	IZHE	Izhevsk	RU	Russia
+IKA	Tehran Imam Khomeini	IKAA	Imam Khomeini	IR	Iran
+IKI	Iki	JIKI	Iki	JP	Japan
+IKO	Nikolski	IKOA	Nikolski	US	United States
+IKS	Tiksi	TIKS	Tiksi	RU	Russia
+IKT	Irkutsk	IRKU	Irkutsk	RU	Russia
+ILD	Lleida	LLEI	Lleida	ES	Spain
+ILE	Killeen Municipal	ILEA	Killeen	US	United States
+ILG	Greater Wilmington	ILGA	Wilmington	US	United States
+ILI	Iliamna	ILIA	Iliamna	US	United States
+ILM	Wilmington	ILMA	Wilmington	US	United States
+ILO	Iloilo International	ILOP	Iloilo	PH	Philippines
+ILP	Ile Des Pins	ILPN	Ile Des Pins	NC	New Caledonia
+ILR	Ilorin	ILRA	Ilorin	NG	Nigeria
+ILY	Islay Glenegedale	ISLA	Islay	UK	United Kingdom
+IMF	Imphal	IIMF	Imphal	IN	India
+IMP	Imperatriz	IMPA	Imperatriz	BR	Brazil
+IMT	Iron Mountain	IMTA	Iron Mountain	US	United States
+INB	Independence	INBA	Independence	BZ	Belize
+INC	Yinchuan	CINC	Yinchuan	CN	China
+IND	Indianapolis	INDA	Indianapolis	US	United States
+INF	In Guezzam	INFA	In Guezzam	DZ	Algeria
+INH	Inhambane	INHA	Inhambane	MZ	Mozambique
+INI	Nis	NISI	Nis	RS	Serbia
+INL	International Falls	INLA	International Falls	US	United States
+INN	Innsbruck	INNS	Innsbruck	AT	Austria
+INT	Winston-Salem	INTB	Winston-Salem	US	United States
+INU	Nauru Island	INUA	Nauru Island	NR	Nauru
+INV	Inverness	INVE	Inverness	UK	United Kingdom
+INZ	In Salah	INZA	In Salah	DZ	Algeria
+IOA	Ioannina	IOAN	Ioannina	GR	Greece
+IOM	Castletown	CAST	Castletown	UK	United Kingdom
+IOS	Ilheus	IOSA	Ilheus	BR	Brazil
+IPA	Ipota	IPAV	Ipota	VU	Vanuatu
+IPC	Easter Island	IPCA	Easter Island	CL	Chile
+IPH	Ipoh	IPHM	Ipoh	MY	Malaysia
+IPI	Ipiales	IPIA	Ipiales	CO	Colombia
+IPL	Imperial County	IPLA	Imperial	US	United States
+IPN	Ipatinga	IPNA	Ipatinga	BR	Brazil
+IPT	Williamsport	IPTA	Williamsport	US	United States
+IQN	Qingyang	CIQN	Qingyang	CN	China
+IQQ	Iquique	IQQA	Iquique	CL	Chile
+IQT	Iquitos	IQTA	Iquitos	PE	Peru
+IRA	Kirakira	IRAA	Kirakira	SB	Solomon Islands
+IRC	Circle	IRCA	Circle	US	United States
+IRD	Ishurdi	IRDA	Ishurdi	BD	Bangladesh
+IRG	Lockhart River	IRGA	Lockhart River	AU	Australia
+IRI	Iringa	IRIA	Iringa	TZ	Tanzania
+IRJ	La Rioja	IRJB	La Rioja	AR	Argentina
+IRK	Kirksville	IRKA	Kirksville	US	United States
+IRM	Igrim	IRMA	Igrim	RU	Russia
+IRP	Isiro	IRPA	Isiro	CD	DR Congo
+IRZ	Santa Isabel do Rio Negro	IRZN	Santa Isabel do Rio Negro	BR	Brazil
+ISA	Mount Isa	ISAA	Mount Isa	AU	Australia
+ISB	Islamabad	ISBA	Islamabad	PK	Pakistan
+ISC	Isles of Scilly St. Mary's	SCIL	Isles Of Scilly	UK	United Kingdom
+ISE	Isparta	ISEA	Isparta	TR	Turkey
+ISG	Ishigaki	JISG	Ishigaki	JP	Japan
+ISN	Williston	ISNA	Williston	US	United States
+ISP	Islip	ISPA	Islip	US	United States
+IST	Istanbul Ataturk	ISTA	Istanbul	TR	Turkey
+ISU	Sulaymaniyah International	ISUA	Sulaymaniyah	IQ	Iraq
+ITB	Itaituba	ITBA	Itaituba	BR	Brazil
+ITH	Ithaca	ITHA	Ithaca	US	United States
+ITM	Osaka Itami	OSAA	Osaka	JP	Japan
+ITO	Hilo	ITOA	Hilo	US	United States
+IUE	Niue Island	IUEA	Niue Island	NU	Niue
+IVC	Invercargill	IVCN	Invercargill	NZ	New Zealand
+IVL	Ivalo	IVAL	Ivalo	FI	Finland
+IWA	Ivanova	IVAO	Ivanova	RU	Russia
+IWJ	Iwami	JIWJ	Iwami	JP	Japan
+IWK	Iwakuni	IWKU	Iwakuni	JP	Japan
+IWO	Iwo Jima Vol	JIWO	Iwo Jima Vol	JP	Japan
+IXA	Agartala	IIXA	Agartala	IN	India
+IXB	Bagdogra	IIXB	Bagdogra	IN	India
+IXC	Chandigarh	IIXC	Chandigarh	IN	India
+IXD	Allahabad	IIXD	Allahabad	IN	India
+IXE	Mangalore	IIXE	Mangalore	IN	India
+IXG	Belgaum	IIXG	Belgaum	IN	India
+IXJ	Jammu	IIXJ	Jammu	IN	India
+IXL	Leh	IIXL	Leh	IN	India
+IXM	Madurai	IIXM	Madurai	IN	India
+IXR	Ranchi	IIXR	Ranchi	IN	India
+IXS	Silchar	IIXS	Silchar	IN	India
+IXU	Aurangabad	IIXU	Aurangabad	IN	India
+IXZ	Port blair	IIXZ	Port Blair	IN	India
+IZO	Izumo	JIZO	Izumo	JP	Japan
+JAC	Jackson	JACA	Jackson	US	United States
+JAI	Jaipur	IJAI	Jaipur	IN	India
+JAL	Jalapa	JALA	Jalapa	MX	Mexico
+JAN	Jackson-Evers International	JANA	Jackson	US	United States
+JAU	Jauja	JAUA	Jauja	PE	Peru
+JAV	Ilulissat	JAVA	Ilulissat	GL	Greenland
+JAX	Jacksonville International	JAXA	Jacksonville	US	United States
+JBQ	La Isabela International	SDQA	Santo Domingo	DO	Dominican Republic
+JBR	Jonesboro	JBRA	Jonesboro	US	United States
+JCB	Joacaba	JCBA	Joacaba	BR	Brazil
+JCH	Qasigiannguit	JCHA	Qasigiannguit	GL	Greenland
+JCK	Julia Creek	JCKA	Julia Creek	AU	Australia
+JDF	Juiz De Fora	JDFA	Juiz De Fora	BR	Brazil
+JDH	Jodhpur	IJDH	Jodhpur	IN	India
+JDO	Juazeiro Do Norte	JDOA	Juazeiro Do Norte	BR	Brazil
+JDZ	Jingdezhen	CJDZ	Jingdezhen	CN	China
+JED	Jeddah	JEDA	Jeddah	SA	Saudi Arabia
+JEG	Aasiaat	JEGA	Aasiaat	GL	Greenland
+JEM	Emeryville	JEMA	Emeryville	US	United States
+JER	Jersey	JERS	Jersey	UK	United Kingdom
+JFK	New York John F Kennedy	NYCA	New York	US	United States
+JFR	Paamiut	JFRA	Paamiut	GL	Greenland
+JGA	Jamnagar	IJGA	Jamnagar	IN	India
+JGN	Jiayuguan	CJGN	Jiayuguan	CN	China
+JGO	Qeqertarsuaq	JGOA	Qeqertarsuaq	GL	Greenland
+JGS	Ji An	CJGS	Ji An	CN	China
+JHB	Johor Bahru	JHBM	Johor Bahru	MY	Malaysia
+JHG	Jinghong	CJHG	Jinghong	CN	China
+JHM	Kapalua	JHMA	Kapalua	US	United States
+JHS	Sisimiut	JHSA	Sisimiut	GL	Greenland
+JHW	Jamestown	JHWA	Jamestown	US	United States
+JIB	Djibouti	JIBA	Djibouti	DJ	Djibouti
+JIJ	Jijiga	JIJA	Jijiga	ET	Ethiopia
+JIK	Ikaria	IKAR	Ikaria	GR	Greece
+JIM	Jimma	JIMA	Jimma	ET	Ethiopia
+JIQ	Zhoubai Airport	ZHOU	Zhoubai	CN	China
+JIU	Jiujiang	CJIU	Jiujiang	CN	China
+JJA	Jajao	JJAA	Jajao	SB	Solomon Islands
+JJM	Kinna Meru	KINN	Kinna	KE	Kenya
+JJN	Jinjiang	CJJN	Jinjiang	CN	China
+JJU	Qaqortoq	JJUA	Qaqortoq	GL	Greenland
+JKG	Jonkoping Axamo	JONK	Jonkoping Axamo	SE	Sweden
+JKH	Chios	CHIO	Chios	GR	Greece
+JKL	Kalymnos	JKLA	Kalymnos	GR	Greece
+JKR	Janakpur	JKRA	Janakpur	NP	Nepal
+JLN	Joplin	JLNA	Joplin	US	United States
+JLR	Jabalpur	IJLR	Jabalpur	IN	India
+JMK	Mykonos	MIKO	Mykonos	GR	Greece
+JMU	Jiamusi	CJMU	Jiamusi	CN	China
+JNB	Johannesburg OR Tambo	JNBA	Johannesburg	ZA	South Africa
+JNG	Jining	CJNG	Jining	CN	China
+JNN	Nanortalik	JNNA	Nanortalik	GL	Greenland
+JNS	Narsaq	JNSA	Narsaq	GL	Greenland
+JNU	Juneau	JNUA	Juneau	US	United States
+JNX	Naxos	NAXO	Naxos	GR	Greece
+JNZ	Jinzhou	CJNZ	Jinzhou	CN	China
+JOE	Joensuu	JOEN	Joensuu	FI	Finland
+JOG	Yogyakarta	JOGI	Yogyakarta	ID	Indonesia
+JOI	Joinville	JOIA	Joinville	BR	Brazil
+JOK	Joshkar-Ola	JOSH	Joshkar-Ola	RU	Russia
+JOL	Jolo	JOLP	Jolo	PH	Philippines
+JOM	Njombe	JOMA	Njombe	TZ	Tanzania
+JOS	Jos	JOSA	Jos	NG	Nigeria
+JPA	Joao Pessoa	JPAA	Joao Pessoa	BR	Brazil
+JPR	Ji-Parana	JPRA	Ji-Parana	BR	Brazil
+JQA	Qaarsut	JQAA	Qaarsut	GL	Greenland
+JQE	Jaque	JQEA	Jaque	PA	Panama
+JRH	Jorhat	IJRH	Jorhat	IN	India
+JRO	Kilimanjaro	JROA	Kilimanjaro	TZ	Tanzania
+JSH	Sitia	SITI	Sitia	GR	Greece
+JSI	Skiathos Island National	SKIA	Skiathos	GR	Greece
+JSR	Jessore	JSRA	Jessore	BD	Bangladesh
+JST	Johnstown	JSTA	Johnstown	US	United States
+JSU	Maniitsoq	JSUA	Maniitsoq	GL	Greenland
+JSY	Syros Island	SYRO	Syros Island	GR	Greece
+JTC	Bauru-Arealva	BAUA	Bauru	BR	Brazil
+JTR	Santorini (Thira)	THIR	Santorini (Thira)	GR	Greece
+JTY	Astypalaia	ASTY	Astypalaia	GR	Greece
+JUB	Juba	JUBA	Juba	SS	South Sudan
+JUH	Chizhou Jiuhuashan	JUHI	Chizhou	CN	China
+JUJ	Jujuy	JUJA	Jujuy	AR	Argentina
+JUL	Juliaca	JULA	Juliaca	PE	Peru
+JUV	Upernavik	JUVA	Upernavik	GL	Greenland
+JUZ	Juzhou	CJUZ	Juzhou	CN	China
+JWN	Zanjan	JWNA	Zanjan	IR	Iran
+JXA	Jixi Khanka Lake	JIXI	Jixi	CN	China
+JYV	Jyvaskyla	JYVA	Jyvaskyla	FI	Finland
+JZH	Song Pan	CJZH	Song Pan	CN	China
+KAA	Kasama	KAAA	Kasama	ZM	Zambia
+KAC	Kameshli	KACA	Kameshli	SY	Syria
+KAD	Kaduna	KADA	Kaduna	NG	Nigeria
+KAE	Kake	KAEA	Kake	US	United States
+KAJ	Kajaani	KAJA	Kajaani	FI	Finland
+KAL	Kaltag	KALB	Kaltag	US	United States
+KAN	Aminu Kano Intl	KANA	Kano	NG	Nigeria
+KAO	Kuusamo	KUUS	Kuusamo	FI	Finland
+KAT	Kaitaia	KATN	Kaitaia	NZ	New Zealand
+KAW	Kawthaung	KAWM	Kawthaung	MM	Myanmar
+KAZ	North Halmahera (Kau)	KAZI	North Halmahera (Kau)	ID	Indonesia
+KBC	Birch Creek	KBCA	Birch Creek	US	United States
+KBL	Kabul	KBLA	Kabul	AF	Afghanistan
+KBP	Kiev Borispol	KIEV	Kiev	UA	Ukraine
+KBR	Kota Bharu	KBRM	Kota Bharu	MY	Malaysia
+KBU	Kotabaru	KBUI	Kotabaru	ID	Indonesia
+KBV	Krabi	KBVT	Krabi	TH	Thailand
+KCA	Kuqa	CKCA	Kuqa	CN	China
+KCC	Coffman Cove	KCCA	Coffman Cove	US	United States
+KCG	Chignik Fisheries	KCLA	Chignik	US	United States
+KCH	Kuching	KCHM	Kuching	MY	Malaysia
+KCK	Kirensk	KIRE	Kirensk	RU	Russia
+KCL	Chignik Lagoon	KCLA	Chignik	US	United States
+KCM	Kahramanmaras	KCMA	Kahramanmaras	TR	Turkey
+KCO	Kocaeli	KCOA	Kocaeli	TR	Turkey
+KCQ	Chignik Lake	KCLA	Chignik	US	United States
+KCT	Koggala	KCTA	Koggala	LK	Sri Lanka
+KCV	Maconacon	MACO	Maconacon	PH	Philippines
+KCZ	Kochi	JKCZ	Kochi	JP	Japan
+KDH	Kandahar	KDHA	Kandahar	AF	Afghanistan
+KDI	Kendari	KDII	Kendari	ID	Indonesia
+KDL	Kardla	KDLA	Kardla	EE	Estonia
+KDM	Kaadedhdhoo	KDMA	Kaadedhdhoo	MV	Maldives
+KDO	Kadhdhoo	KDOA	Kadhdhoo	MV	Maldives
+KDU	Skardu	KDUA	Skardu	PK	Pakistan
+KDV	Kandavu	KDVF	Kandavu	FJ	Fiji
+KDZ	Katugastota	KATU	Katugastota	LK	Sri Lanka
+KEB	Nanwalek	KEBA	Nanwalek	US	United States
+KEF	Reykjavik Keflavik	REYK	Reykjavik	IS	Iceland
+KEI	Kepi	KEII	Kepi	ID	Indonesia
+KEJ	Kemerovo	KEME	Kemerovo	RU	Russia
+KEK	Ekwok	KEKA	Ekwok	US	United States
+KEM	Kemi / Tornio	KEMI	Kemi / Tornio	FI	Finland
+KEP	Nepalganj	KEPA	Nepalganj	NP	Nepal
+KER	Kerman	KERA	Kerman	IR	Iran
+KET	Keng Tung	KETM	Keng Tung	MM	Myanmar
+KEW	Keewaywin	KEWA	Keewaywin	CA	Canada
+KFP	False Pass	KFPA	False Pass	US	United States
+KFS	Kastamonu	KFSA	Kastamonu	TR	Turkey
+KGA	Kananga	KGAA	Kananga	CD	DR Congo
+KGC	Kingscote	KGCA	Kingscote	AU	Australia
+KGD	Kaliningrad	KALI	Kaliningrad	RU	Russia
+KGE	Kagau	KGEA	Kagau	SB	Solomon Islands
+KGF	Karaganda	KGFA	Karaganda	KZ	Kazakhstan
+KGI	Kalgoorlie	KGIA	Kalgoorlie	AU	Australia
+KGK	New Koliganek	KGKA	New Koliganek	US	United States
+KGL	Kigali	KGLA	Kigali	RW	Rwanda
+KGP	Kogalym	KGPA	Kogalym	RU	Russia
+KGS	Kos	KOSS	Kos	GR	Greece
+KGX	Grayling	KGXA	Grayling	US	United States
+KHD	Khorramabad	KHDA	Khorramabad	IR	Iran
+KHG	Kashi	CKHG	Kashi	CN	China
+KHH	Kaohsiung	KHHT	Kaohsiung	TW	Taiwan
+KHI	Karachi	KHIA	Karachi	PK	Pakistan
+KHN	Nanchang	CKHN	Nanchang	CN	China
+KHS	Khasab	KHSA	Khasab	OM	Oman
+KHV	Khabarovsk Novy	KHAB	Khabarovsk Novy	RU	Russia
+KHY	Khoy	KHYA	Khoy	IR	Iran
+KHZ	Kauehi	KHZP	Kauehi	PF	French Polynesia
+KID	Kristianstad	KRIS	Kristianstad	SE	Sweden
+KIF	Kingfisher Lake	KIFA	Kingfisher Lake	CA	Canada
+KIH	Kish Island	KIHA	Kish Island	IR	Iran
+KIJ	Niigata	JKIJ	Niigata	JP	Japan
+KIK	Kirkuk	KIKA	Kirkuk	IQ	Iraq
+KIM	Kimberley	KIMA	Kimberley	ZA	South Africa
+KIN	Kingston Norman Manley	KINA	Kingston	JM	Jamaica
+KIR	Kerry	KERR	Kerry	IE	Ireland
+KIS	Kisumu	KISA	Kisumu	KE	Kenya
+KIT	Kithira	KITH	Kithira	GR	Greece
+KIV	Chisinau	KIVA	Chisinau	MD	Moldova
+KIX	Osaka Kansai International	OSAA	Osaka	JP	Japan
+KJA	Krasnoyarsk	KRAS	Krasnoyarsk	RU	Russia
+KKA	Koyuk	KKAA	Koyuk	US	United States
+KKB	Kitoi Bay	KKBA	Kitoi Bay	US	United States
+KKC	Khon Kaen	KKCT	Khon Kaen	TH	Thailand
+KKE	Kerikeri	KKEN	Kerikeri	NZ	New Zealand
+KKH	Kongiganak	KKHA	Kongiganak	US	United States
+KKI	Akiachak	KKIA	Akiachak	US	United States
+KKJ	Kita Kyushu	JKKJ	Kita Kyushu	JP	Japan
+KKN	Kirkenes Høybuktmoen	KIRK	Kirkenes Høybuktmoen	NO	Norway
+KKR	Kaukura Atoll	KKRP	Kaukura Atoll	PF	French Polynesia
+KKU	Ekuk	KKUA	Ekuk	US	United States
+KLG	Kalskag	KLGA	Kalskag	US	United States
+KLL	Levelock	KLLA	Levelock	US	United States
+KLM	Kalaleh	KLMA	Kalaleh	IR	Iran
+KLN	Larsen Bay	KLNA	Larsen Bay	US	United States
+KLO	Kalibo International	KLOP	Kalibo	PH	Philippines
+KLR	Kalmar	KALM	Kalmar	SE	Sweden
+KLU	Klagenfurt	KLAG	Klagenfurt	AT	Austria
+KLV	Karlovy Vary	KARN	Karlovy Vary	CZ	Czech Republic
+KLW	Klawock	KLWA	Klawock	US	United States
+KLX	Kalamata International	KALA	Kalamata	GR	Greece
+KMC	King Khalid Mil. City	KMCA	King Khalid Mil. City	SA	Saudi Arabia
+KME	Kamembe	KMEA	Kamembe	RW	Rwanda
+KMG	Kunming	CKMG	Kunming	CN	China
+KMI	Miyazaki	JKMI	Miyazaki	JP	Japan
+KMJ	Kumamoto	JKMJ	Kumamoto	JP	Japan
+KMO	Manokotak	KMOA	Manokotak	US	United States
+KMQ	Komatsu	JKMQ	Komatsu	JP	Japan
+KMS	Kumasi	KMSA	Kumasi	GH	Ghana
+KMU	Kismayu	KMUA	Kismayu	SO	Somalia
+KMV	Kalemyo	KMVM	Kalemyo	MM	Myanmar
+KND	Kindu	KNDA	Kindu	CD	DR Congo
+KNG	Utarom / Kaimana	KNGI	Kaimana	ID	Indonesia
+KNH	Kinmen	KNHT	Kinmen	TW	Taiwan
+KNK	Kakhonak	KNKA	Kakhonak	US	United States
+KNO	Medan Kuala Namu	MESI	Medan	ID	Indonesia
+KNQ	Kone	KNQN	Kone	NC	New Caledonia
+KNS	King Island	KNSA	King Island	AU	Australia
+KNU	Kanpur	IKNU	Kanpur	IN	India
+KNW	New Stuyahok	KNWA	New Stuyahok	US	United States
+KNX	Kununurra	KNXA	Kununurra	AU	Australia
+KOA	Kona	KOAA	Kona	US	United States
+KOC	Koumac	KOCN	Koumac	NC	New Caledonia
+KOE	Kupang	KOEA	Kupang	ID	Indonesia
+KOI	Orkney Kirkwall	ORKN	Orkney	UK	United Kingdom
+KOJ	Kagoshima	JKOJ	Kagoshima	JP	Japan
+KOK	Kokkola / Pietarsaari Kruunupyy	KOKK	Kokkola / Pietarsaari Kruunupyy	FI	Finland
+KOO	Kongolo	KOOA	Kongolo	CD	DR Congo
+KOP	Nakhon Phanom	KOPT	Nakhon Phanom	TH	Thailand
+KOS	Sihanoukville	KOSK	Sihanoukville	KH	Cambodia
+KOT	Kotlik	KOTA	Kotlik	US	United States
+KOV	Kokshetau	KOVA	Kokshetau	KZ	Kazakhstan
+KOW	Ganzhou	CKOW	Ganzhou	CN	China
+KOZ	Ouzinkie SPB	KOZB	Ouzinkie	US	United States
+KPB	Point Baker	KPBA	Point Baker	US	United States
+KPN	Kipnuk	KPNA	Kipnuk	US	United States
+KPO	Pohang	KPOA	Pohang	KR	South Korea
+KPR	Port Williams	KPRA	Port Williams	US	United States
+KPV	Perryville	KPVA	Perryville	US	United States
+KPY	Port Bailey	KPYA	Port Bailey	US	United States
+KQA	Akutan	KQAA	Akutan	US	United States
+KQT	Kurgon-Tyube	KRGN	Kurgon-Tyube	TJ	Tajikistan
+KRF	Kramfors	KRAM	Kramfors	SE	Sweden
+KRK	Krakow	KRAK	Krakow	PL	Poland
+KRL	Korla	CKRL	Korla	CN	China
+KRN	Kiruna	KIRU	Kiruna	SE	Sweden
+KRO	Kurgan	KURG	Kurgan	RU	Russia
+KRP	Karup	KARU	Karup	DK	Denmark
+KRR	Krasnodar	KRAT	Krasnodar	RU	Russia
+KRS	Kristiansand Kjevik	KRSA	Kristiansand	NO	Norway
+KRT	Khartoum	KRTA	Khartoum	SD	Sudan
+KRY	Karamay	CKRY	Karamay	CN	China
+KSA	Kosrae	KSAA	Kosrae	FM	Micronesia
+KSC	Kosice	KOSI	Kosice	SK	Slovakia
+KSD	Karlstad	KARL	Karlstad	SE	Sweden
+KSE	Kasese	KSEA	Kasese	UG	Uganda
+KSF	Kassel	KASS	Kassel	DE	Germany
+KSH	Kermanshah	KSHA	Kermanshah	IR	Iran
+KSJ	Kasos Island	KASO	Kasos Island	GR	Greece
+KSM	Saint Marys	KSMA	Saint Marys	US	United States
+KSN	Kostanay	KSNA	Kostanay	KZ	Kazakhstan
+KSO	Kastoria Aristotlis	KAST	Kastoria Aristotlis	GR	Greece
+KSQ	Karshi	KSQA	Karshi	UZ	Uzbekistan
+KSU	Kristiansund	KRIT	Kristiansund	NO	Norway
+KSY	Kars	KARS	Kars	TR	Turkey
+KTA	Karratha	KTAA	Karratha	AU	Australia
+KTB	Thorne Bay	KTBA	Thorne Bay	US	United States
+KTE	Kerteh	KTEM	Kerteh	MY	Malaysia
+KTF	Takaka	KTFN	Takaka	NZ	New Zealand
+KTG	Ketapang	KTGI	Ketapang	ID	Indonesia
+KTL	Kitale	KTLA	Kitale	KE	Kenya
+KTM	Kathmandu	KTMA	Kathmandu	NP	Nepal
+KTN	Ketchikan International	KTNA	Ketchikan	US	United States
+KTS	Teller Mission	KTSA	Teller Mission	US	United States
+KTT	Kittilä	KITT	Kittilä	FI	Finland
+KTW	Katowice	KATO	Katowice	PL	Poland
+KUA	Kuantan	KUAM	Kuantan	MY	Malaysia
+KUD	Kudat	KUDM	Kudat	MY	Malaysia
+KUF	Samara	SAMA	Samara	RU	Russia
+KUH	Kushiro	JKUH	Kushiro	JP	Japan
+KUK	Kasigluk	KUKA	Kasigluk	US	United States
+KUL	Kuala Lumpur International	KULM	Kuala Lumpur	MY	Malaysia
+KUN	Kaunas	KAUN	Kaunas	LT	Lithuania
+KUO	Kuopio	KUOP	Kuopio	FI	Finland
+KUS	Kulusuk Island	KULU	Kulusuk Island	GL	Greenland
+KUT	Kutaisi	KUTA	Kutaisi	GE	Georgia
+KUU	Kulu	IKUU	Kulu	IN	India
+KUV	Gunsan	KUVA	Gunsan	KR	South Korea
+KVA	Kavala Alexandros	KAVA	Kavala	GR	Greece
+KVC	King Cove	KVCA	King Cove	US	United States
+KVD	Gyandzha	KVDA	Gyandzha	AZ	Azerbaijan
+KVG	Kavieng	KVGP	Kavieng	PG	Papua New Guinea
+KVK	Kirovsk	KIRP	Kirovsk	RU	Russia
+KVL	Kivalina	KVLA	Kivalina	US	United States
+KVX	Kirov	KIRQ	Kirov	RU	Russia
+KWA	Kwajalein	KWAA	Kwajalein	MH	Marshall Islands
+KWE	Guiyang	CKWE	Guiyang	CN	China
+KWF	Waterfall	KWFA	Waterfall	US	United States
+KWI	Kuwait	KWIA	Kuwait	KW	Kuwait
+KWJ	Gwangju	KWJA	Gwangju	KR	South Korea
+KWK	Kwigillingok	KWKA	Kwigillingok	US	United States
+KWL	Guilin	CKWL	Guilin	CN	China
+KWM	Kowanyama	KWMA	Kowanyama	AU	Australia
+KWN	Quinhagak	KWNA	Quinhagak	US	United States
+KWP	West Point	KWPA	West Point	US	United States
+KWT	Kwethluk	KWTA	Kwethluk	US	United States
+KXA	Kasaan	KXAA	Kasaan	US	United States
+KXH	Muara Teweh	MUAR	Muara Teweh	ID	Indonesia
+KXU	Katiu	KXUP	Katiu	PF	French Polynesia
+KYA	Konya	KONY	Konya	TR	Turkey
+KYD	Orchid Island	KYDT	Orchid Island	TW	Taiwan
+KYK	Karluk	KYKA	Karluk	US	United States
+KYP	Kyaukpyu	KYPM	Kyaukpyu	MM	Myanmar
+KYU	Koyukuk	KYUA	Koyukuk	US	United States
+KYZ	Kyzyl	KYZY	Kyzyl	RU	Russia
+KZB	Zachar Bay	KZBA	Zachar Bay	US	United States
+KZI	Kozani Philippos	KOZA	Kozani	GR	Greece
+KZN	Kazan	KAZA	Kazan	RU	Russia
+KZO	Kzyl-Orda	KZOA	Kzyl-Orda	KZ	Kazakhstan
+KZR	Kütahya	KUTH	Kütahya	TR	Turkey
+KZS	Kastelorizo	KASU	Kastelorizo	GR	Greece
+LAD	Luanda	LADA	Luanda	AO	Angola
+LAE	Lae	LAEP	Lae	PG	Papua New Guinea
+LAH	Labuha	LAHI	Labuha	ID	Indonesia
+LAI	Lannion	LANN	Lannion	FR	France
+LAL	Lakeland	LALA	Lakeland	US	United States
+LAM	Los Alamos	LAMA	Los Alamos	US	United States
+LAN	Lansing	LANA	Lansing	US	United States
+LAO	Laoag International	LAOP	Laoag	PH	Philippines
+LAP	La Paz	LAPB	La Paz	MX	Mexico
+LAQ	Beida	LAQA	Beida	LY	Libya
+LAR	Laramie	LARA	Laramie	US	United States
+LAS	Las Vegas Mccarran	LASA	Las Vegas	US	United States
+LAU	Lamu	LAUA	Lamu	KE	Kenya
+LAW	Lawton	LAWA	Lawton	US	United States
+LAX	Los Angeles International	LAXA	Los Angeles	US	United States
+LBA	Leeds Bradford	LEED	Leeds	UK	United Kingdom
+LBB	Lubbock International	LBBA	Lubbock	US	United States
+LBC	Hamburg Lubeck	HAMB	Hamburg	DE	Germany
+LBD	Khudzhand	LBDA	Khudzhand	TJ	Tajikistan
+LBE	Latrobe	LBEA	Latrobe	US	United States
+LBF	North Platte	LBFA	North Platte	US	United States
+LBJ	Labuan Bajo	LBJI	Labuan Bajo	ID	Indonesia
+LBL	Liberal	LBLA	Liberal	US	United States
+LBP	Long Banga	LBPM	Long Banga	MY	Malaysia
+LBR	Labrea	LBRA	Labrea	BR	Brazil
+LBS	Labasa	LBSF	Labasa	FJ	Fiji
+LBU	Labuan	LBUM	Labuan	MY	Malaysia
+LBV	Libreville	LBVA	Libreville	GA	Gabon
+LCA	Larnaca	LARN	Larnaca	CY	Cyprus
+LCE	La Ceiba	LCEA	La Ceiba	HN	Honduras
+LCG	La Coruna	LACO	La Coruna	ES	Spain
+LCH	Lake Charles	LCHA	Lake Charles	US	United States
+LCJ	Lodz	LODZ	Lodz	PL	Poland
+LCK	Columbus Rickenbacker	CMHA	Columbus	US	United States
+LCR	La Chorrera	LCRA	La Chorrera	CO	Colombia
+LCX	Longyan	CLCX	Longyan	CN	China
+LCY	London City	LOND	London	UK	United Kingdom
+LDB	Londrina	LDBA	Londrina	BR	Brazil
+LDE	Lourdes	LOUR	Lourdes	FR	France
+LDH	Lord Howe Island	LDHA	Lord Howe Island	AU	Australia
+LDS	Yichun Lindu	YICH	Yichun	CN	China
+LDU	Lahad Datu	LDUM	Lahad Datu	MY	Malaysia
+LDY	Derry	DERR	Derry	UK	United Kingdom
+LEA	Learmonth	LEAA	Learmonth	AU	Australia
+LEB	Lebanon	LEBA	Lebanon	US	United States
+LEC	Lencois Chapada Diamantina	LECB	Lencois	BR	Brazil
+LED	St Petersburg Pulkovo	PETE	St Petersburg	RU	Russia
+LEH	Le Havre Octeville	LEHA	Le Havre Octeville	FR	France
+LEI	Almeria	ALME	Almeria	ES	Spain
+LEJ	Leipzig	LEIP	Leipzig	DE	Germany
+LEN	Leon	LEON	Leon	ES	Spain
+LEQ	Lands End	LEQA	Lands End	UK	United Kingdom
+LET	Leticia	LETA	Leticia	CO	Colombia
+LEX	Lexington Blue Grass	LEXA	Lexington	US	United States
+LFM	Lamerd	LFMA	Lamerd	IR	Iran
+LFR	La Fria	LFRA	La Fria	VE	Venezuela
+LFT	Lafayette	LFTA	Lafayette	US	United States
+LFW	Lome	LFWA	Lome	TG	Togo
+LGA	New York La Guardia	NYCA	New York	US	United States
+LGB	Long Beach Municipal	LGBA	Long Beach	US	United States
+LGG	Liege	LIEG	Liege	BE	Belgium
+LGI	Long Island	LGIA	Long Island	BS	Bahamas
+LGK	Langkawi	LGKM	Langkawi	MY	Malaysia
+LGL	Long Lellang	LGLM	Long Lellang	MY	Malaysia
+LGP	Legaspi	LGPP	Legaspi	PH	Philippines
+LGQ	Lago Agrio	LGQA	Lago Agrio	EC	Ecuador
+LGW	London Gatwick	LOND	London	UK	United Kingdom
+LHE	Lahore	LHEA	Lahore	PK	Pakistan
+LHR	London Heathrow	LOND	London	UK	United Kingdom
+LHW	Lanzhou	CLHW	Lanzhou	CN	China
+LIF	Lifou	LIFN	Lifou	NC	New Caledonia
+LIG	Limoges	LIMO	Limoges	FR	France
+LIH	Kauai Island Lihue	LIHA	Kauai Island	US	United States
+LII	Mulia	LIII	Mulia	ID	Indonesia
+LIL	Lille	LILL	Lille	FR	France
+LIM	Lima	LIMA	Lima	PE	Peru
+LIN	Milan Linate	MILA	Milan	IT	Italy
+LIR	Liberia	LIRA	Liberia	CR	Costa Rica
+LIS	Lisbon	LISB	Lisbon	PT	Portugal
+LIT	Little Rock	LITA	Little Rock	US	United States
+LIX	Likoma Island	LIXA	Likoma Island	MW	Malawi
+LJA	Lodja	LJAA	Lodja	CD	DR Congo
+LJG	Lijiang City	CLJG	Lijiang City	CN	China
+LJU	Ljubljana	LJUB	Ljubljana	SI	Slovenia
+LKA	Larantuka	LKAI	Larantuka	ID	Indonesia
+LKB	Lakeba	LKBF	Lakeba	FJ	Fiji
+LKE	Seattle Lake Union SPB	SEAA	Seattle	US	United States
+LKH	Long Akah	LKHM	Long Akah	MY	Malaysia
+LKL	Lakselv	LAKE	Lakselv	NO	Norway
+LKN	Leknes	LEKN	Leknes	NO	Norway
+LKO	Lucknow	ILKO	Lucknow	IN	India
+LKY	Lake Manyara	LKYA	Lake Manyara	TZ	Tanzania
+LLA	Lulea Kallax	LULE	Lulea Kallax	SE	Sweden
+LLF	LingLing	CLLF	LingLing	CN	China
+LLI	Lalibela	LLIA	Lalibela	ET	Ethiopia
+LLK	Lankaran International	LANK	Lankaran	AZ	Azerbaijan
+LLU	Alluitsup Paa	LLUA	Alluitsup Paa	GL	Greenland
+LLW	Lilongwe	LLWA	Lilongwe	MW	Malawi
+LMA	Lake Minchumina	LMAA	Lake Minchumina	US	United States
+LMC	Lamacarena	LMCA	Lamacarena	CO	Colombia
+LMM	Los Mochis	LMMA	Los Mochis	MX	Mexico
+LMN	Limbang	LMNM	Limbang	MY	Malaysia
+LMP	Lampedusa	LAMP	Lampedusa	IT	Italy
+LMT	Klamath Falls	LMTA	Klamath Falls	US	United States
+LNB	Lamen Bay	LNBV	Lamen Bay	VU	Vanuatu
+LNE	Lonorore	LNEV	Lonorore	VU	Vanuatu
+LNJ	Lincang	CLNJ	Lincang	CN	China
+LNK	Lincoln	LNKA	Lincoln	US	United States
+LNS	Lancaster	LNSA	Lancaster	US	United States
+LNV	Lihir Island	LNVP	Lihir Island	PG	Papua New Guinea
+LNY	Lanai City	LNYA	Lanai City	US	United States
+LNZ	Linz	LINZ	Linz	AT	Austria
+LOD	Longana	LODV	Longana	VU	Vanuatu
+LOE	Loei	LOET	Loei	TH	Thailand
+LOH	Loja	LOHA	Loja	EC	Ecuador
+LOK	Lodwar	LOKA	Lodwar	KE	Kenya
+LOO	Laghouat	LOOA	Laghouat	DZ	Algeria
+LOP	Mataram	AMII	Mataram	ID	Indonesia
+LOS	Lagos	LOSA	Lagos	NG	Nigeria
+LOV	Monclova	LOVA	Monclova	MX	Mexico
+LPA	Gran Canaria Las Palmas	GRAN	Gran Canaria	ES	Spain
+LPB	La Paz	LPBA	La Paz	BO	Bolivia
+LPD	La Pedrera	LPDA	La Pedrera	CO	Colombia
+LPI	Linkoping City	LINK	Linkoping	SE	Sweden
+LPK	Lipetsk	LIPE	Lipetsk	RU	Russia
+LPL	Liverpool	LIVE	Liverpool	UK	United Kingdom
+LPM	Lamap	LPMV	Lamap	VU	Vanuatu
+LPP	Lappeenranta	LAPP	Lappeenranta	FI	Finland
+LPQ	Luang Prabang	LPQL	Luang Prabang	LA	Laos
+LPS	Lopez Island	LPSA	Lopez Island	US	United States
+LPT	Lampang	LPTT	Lampang	TH	Thailand
+LPU	Long Apung	LPUI	Long Apung	ID	Indonesia
+LPY	Le Puy Loudes	LEPU	Le Puy Loudes	FR	France
+LQM	Puerto Leguizamo	LQMA	Puerto Leguizamo	CO	Colombia
+LRD	Laredo	LRDA	Laredo	US	United States
+LRE	Longreach	LREA	Longreach	AU	Australia
+LRH	La Rochelle	LARO	La Rochelle	FR	France
+LRM	La Romana	LRMA	La Romana	DO	Dominican Republic
+LRR	Lar	LRRA	Lar	IR	Iran
+LRS	Leros	LERO	Leros	GR	Greece
+LRT	Lorient	LORI	Lorient	FR	France
+LSA	Losuia	LSAP	Losuia	PG	Papua New Guinea
+LSC	La Serena	LSCA	La Serena	CL	Chile
+LSE	La Crosse	LSEA	La Crosse	US	United States
+LSG	Sinabang	SINB	Sinabang	ID	Indonesia
+LSH	Lashio	LSHM	Lashio	MM	Myanmar
+LSI	Sumburgh Shetlands	SUMB	Sumburgh	UK	United Kingdom
+LSP	Las Piedras	LSPA	Las Piedras	VE	Venezuela
+LST	Launceston	LSTA	Launceston	AU	Australia
+LSW	Lhoksumawe	LSWI	Lhoksumawe	ID	Indonesia
+LSY	Lismore	LSYA	Lismore	AU	Australia
+LTD	Ghadames	LTDA	Ghadames	LY	Libya
+LTI	Altai	LTIA	Altai	MN	Mongolia
+LTK	Latakia	LTKA	Latakia	SY	Syria
+LTN	London Luton	LOND	London	UK	United Kingdom
+LTO	Loreto	LTOA	Loreto	MX	Mexico
+LTQ	Le Touquet Paris Plag	LETO	Le Touquet Paris Plag	FR	France
+LTX	Latacunga	LTXA	Latacunga	EC	Ecuador
+LUD	Luderitz	LUDA	Luderitz	NA	Namibia
+LUG	Lugano	LUGA	Lugano	CH	Switzerland
+LUH	Ludhiana	ILUH	Ludhiana	IN	India
+LUK	Cincinnati Municipal	CVGA	Cincinnati	US	United States
+LUM	Luxi	CLUM	Luxi	CN	China
+LUN	Lusaka	LUNA	Lusaka	ZM	Zambia
+LUO	Luena	LUOA	Luena	AO	Angola
+LUP	Kalaupapa	LUPA	Kalaupapa	US	United States
+LUQ	San Luis	SANB	San Luis	AR	Argentina
+LUR	Cape Lisburne	LURA	Cape Lisburne	US	United States
+LUV	Dumatubin - Langgur	LUVI	Langgur	ID	Indonesia
+LUW	Banggai (Luwuk)	LUWI	Banggai (Luwuk)	ID	Indonesia
+LUX	Luxembourg	LUXE	Luxembourg	LU	Luxembourg
+LUZ	Lublin	CLUZ	Lublin	PL	Poland
+LVI	Livingstone	LVIA	Livingstone	ZM	Zambia
+LWB	Lewisburg	LWBA	Lewisburg	US	United States
+LWE	Lewoleba	LWEI	Lewoleba	ID	Indonesia
+LWK	Sumburgh Lerwick / Tingwall	SUMB	Sumburgh	UK	United Kingdom
+LWN	Gyoumri	LWNA	Gyoumri	AM	Armenia
+LWO	Lviv	LVOV	Lviv	UA	Ukraine
+LWS	Lewiston-Nez Perce County	LWSA	Lewiston	US	United States
+LWY	Lawas	LWYM	Lawas	MY	Malaysia
+LXA	Lhasa Gonggar	CLXA	Lhasa	CN	China
+LXG	Luang Namtha	LXGL	Luang Namtha	LA	Laos
+LXR	Luxor	LUXO	Luxor	EG	Egypt
+LXS	Lemnos	LEMN	Lemnos	GR	Greece
+LYA	Luoyang	CLYA	Luoyang	CN	China
+LYB	Little Cayman	LYBA	Little Cayman	KY	Cayman Islands
+LYC	Lycksele Hedlunda	LYCK	Lycksele Hedlunda	SE	Sweden
+LYG	Lianyungang	CLYG	Lianyungang	CN	China
+LYH	Lynchburg	LYHA	Lynchburg	US	United States
+LYI	Linyi	CLYI	Linyi	CN	China
+LYP	Faisalabad	LYPA	Faisalabad	PK	Pakistan
+LYR	Longyearbyen	LYRL	Longyearbyen	NO	Norway
+LYS	Lyon	LYON	Lyon	FR	France
+LYX	Lydd	LYXA	Lydd	UK	United Kingdom
+LZC	Lazaro Cardenas	LZCA	Lazaro Cardenas	MX	Mexico
+LZH	Liuzhou	CLZH	Liuzhou	CN	China
+LZN	Nangan	LZNA	Nangan	CN	China
+LZO	Luzhou	CLZO	Luzhou	CN	China
+LZY	Lin Zhi	LZYA	Lin Zhi	CN	China
+MAA	Chennai	IMAA	Chennai	IN	India
+MAB	Maraba	MABA	Maraba	BR	Brazil
+MAD	Madrid	MADR	Madrid	ES	Spain
+MAF	Midland Odessa Regional	MAFA	Midland	US	United States
+MAG	Madang	MAGP	Madang	PG	Papua New Guinea
+MAH	Menorca	MENO	Menorca	ES	Spain
+MAJ	Majuro	MAJA	Majuro	MH	Marshall Islands
+MAM	Matamoros	MAMA	Matamoros	MX	Mexico
+MAN	Manchester	MANC	Manchester	UK	United Kingdom
+MAO	Manaus	MAOA	Manaus	BR	Brazil
+MAQ	Mae Sot (Tak)	MAQT	Mae Sot (Tak)	TH	Thailand
+MAR	Maracaibo	MARB	Maracaibo	VE	Venezuela
+MAS	Manus Island	MASP	Manus Island	PG	Papua New Guinea
+MAU	Maupiti	MAUP	Maupiti	PF	French Polynesia
+MAY	Mangrove Cay	MAYA	Mangrove Cay	BS	Bahamas
+MAZ	Mayaguez	MAZA	Mayaguez	PR	Puerto Rico
+MBA	Mombasa	MBAA	Mombasa	KE	Kenya
+MBE	Monbetsu	JMBE	Monbetsu	JP	Japan
+MBI	Mbeya	MBIA	Mbeya	TZ	Tanzania
+MBJ	Montego Bay	MBJA	Montego Bay	JM	Jamaica
+MBL	Manistee	MBLA	Manistee	US	United States
+MBS	Midland	MBSA	Midland	US	United States
+MBT	Masbate	MBTP	Masbate	PH	Philippines
+MCE	Merced Municipal Arpt	MCEA	Merced	US	United States
+MCG	Mcgrath	MCGA	Mcgrath	US	United States
+MCI	Kansas City International	MKCA	Kansas City	US	United States
+MCK	Mccook	MCKA	Mccook	US	United States
+MCM	Monte Carlo	MCMA	Monte Carlo	MC	Monaco
+MCN	Macon Lewis B Wilson	MCNA	Macon	US	United States
+MCO	Orlando International	ORLB	Orlando	US	United States
+MCP	Macapa	MCPA	Macapa	BR	Brazil
+MCQ	Miskolc	MISK	Miskolc	HU	Hungary
+MCT	Muscat	MCTA	Muscat	OM	Oman
+MCV	Mcarthur River	MCVA	Mcarthur River	AU	Australia
+MCX	Makhachkala	MAKH	Makhachkala	RU	Russia
+MCY	Sunshine Coast	MCYA	Sunshine Coast	AU	Australia
+MCZ	Maceio	MCZA	Maceio	BR	Brazil
+MDC	Manado	MDCI	Manado	ID	Indonesia
+MDE	Medellin Jose Marie Cordova	MDEA	Medellin	CO	Colombia
+MDG	Mudanjiang	CMDG	Mudanjiang	CN	China
+MDK	Mbandaka	MDKA	Mbandaka	CD	DR Congo
+MDL	Mandalay	MDLM	Mandalay	MM	Myanmar
+MDQ	Mar Del Plata	MDQA	Mar Del Plata	AR	Argentina
+MDT	Harrisburg International	HARA	Harrisburg	US	United States
+MDU	Mendi	MDUP	Mendi	PG	Papua New Guinea
+MDW	Chicago Midway	CHIA	Chicago	US	United States
+MDZ	Mendoza	MDZA	Mendoza	AR	Argentina
+MEA	Macae	MEAA	Macae	BR	Brazil
+MEB	Melbourne Essendon	MELA	Melbourne	AU	Australia
+MEC	Manta	MECA	Manta	EC	Ecuador
+MED	Madinah	MEDA	Madinah	SA	Saudi Arabia
+MEE	Mare	MEEN	Mare	NC	New Caledonia
+MEG	Malange	MEGA	Malange	AO	Angola
+MEH	Mehamn	MEHA	Mehamn	NO	Norway
+MEI	Meridian	MEIA	Meridian	US	United States
+MEL	Melbourne Tullamarine	MELA	Melbourne	AU	Australia
+MEM	Memphis International	MEMA	Memphis	US	United States
+MEQ	Meulaboh	MEQI	Meulaboh	ID	Indonesia
+MES	Medan	MESI	Medan	ID	Indonesia
+MEX	Mexico City Juarez International	MEXA	Mexico City	MX	Mexico
+MFA	Mafia	MFAA	Mafia	TZ	Tanzania
+MFE	Mcallen	MFEA	Mcallen	US	United States
+MFK	Matsu	MFKT	Matsu	TW	Taiwan
+MFM	Macau	MFMA	Macau	MO	Macau
+MFR	Medford	MFRA	Medford	US	United States
+MFU	Mfuwe	MFUA	Mfuwe	ZM	Zambia
+MGA	Managua	MGAA	Managua	NI	Nicaragua
+MGB	Mount Gambier	MGBA	Mount Gambier	AU	Australia
+MGF	Regional De Maringa	MGFA	Maringa	BR	Brazil
+MGM	Montgomery Dannelly Fld	MGMA	Montgomery	US	United States
+MGQ	Mogadishu	MGQA	Mogadishu	SO	Somalia
+MGS	Mangaia Island	MGSC	Mangaia Island	CK	Cook Islands
+MGT	Milingimbi	MGTA	Milingimbi	AU	Australia
+MGW	Morgantown	MGWA	Morgantown	US	United States
+MGZ	Myeik	MGZM	Myeik	MM	Myanmar
+MHD	Mashhad	MHDA	Mashhad	IR	Iran
+MHH	Marsh Harbour	MHHA	Marsh Harbour	BS	Bahamas
+MHK	Manhattan	MHKA	Manhattan	US	United States
+MHP	Minsk International 1	MSQA	Minsk	BY	Belarus
+MHQ	Mariehamn	MARJ	Mariehamn	FI	Finland
+MHT	Manchester	MHTA	Manchester	US	United States
+MHU	Mount Hotham	MHUA	Mount Hotham	AU	Australia
+MIA	Miami International	MIAA	Miami	US	United States
+MID	Merida	MIDA	Merida	MX	Mexico
+MIG	Mian Yang	MIGA	Mian Yang	CN	China
+MII	Marilia	MIIA	Marilia	BR	Brazil
+MIM	Merimbula	MIMA	Merimbula	AU	Australia
+MIR	Monastir	MONA	Monastir	TN	Tunisia
+MIS	Misima Island	MISP	Misima Island	PG	Papua New Guinea
+MIU	Maiduguri	MIUA	Maiduguri	NG	Nigeria
+MJD	Mohenjodaro	MJDA	Mohenjodaro	PK	Pakistan
+MJF	Mosjoen Kjaerstad	MOSJ	Mosjoen Kjaerstad	NO	Norway
+MJI	Mitiga	MJIA	Mitiga	LY	Libya
+MJM	Mbuji Mayi	MJMA	Mbuji Mayi	CD	DR Congo
+MJN	Majunga	MJNA	Majunga	MG	Madagascar
+MJT	Mytilene	MYTI	Mytilene	GR	Greece
+MJU	Mamuju	MJUI	Mamuju	ID	Indonesia
+MJV	Murcia	MURC	Murcia	ES	Spain
+MJZ	Mirny	MIRN	Mirny	RU	Russia
+MKC	Kansas City Downtown	MKCA	Kansas City	US	United States
+MKE	Milwaukee General Mitchell	MKEA	Milwaukee	US	United States
+MKG	Muskegon	MKGA	Muskegon	US	United States
+MKK	Hoolehua	MKKA	Hoolehua	US	United States
+MKL	Jackson	MKLA	Jackson	US	United States
+MKM	Mukah	MKMM	Mukah	MY	Malaysia
+MKP	Makemo	MKPP	Makemo	PF	French Polynesia
+MKQ	Merauke	MKQI	Merauke	ID	Indonesia
+MKW	Manokwari	MKWI	Manokwari	ID	Indonesia
+MKY	Mackay	MKYA	Mackay	AU	Australia
+MKZ	Malacca	MKZM	Malacca	MY	Malaysia
+MLA	Luqa Malta International	LUQA	Luqa	MT	Malta
+MLB	Melbourne	MLBA	Melbourne	US	United States
+MLE	Male	MLEA	Male	MV	Maldives
+MLG	Malang	MLGI	Malang	ID	Indonesia
+MLH	Mulhouse	MULH	Mulhouse	FR	France
+MLI	Moline	MLIA	Moline	US	United States
+MLL	Marshall	MLLA	Marshall	US	United States
+MLM	Morelia	MLMA	Morelia	MX	Mexico
+MLN	Melilla	MELI	Melilla	ES	Spain
+MLO	Milos	MILO	Milos	GR	Greece
+MLT	Millinocket	MLTA	Millinocket	US	United States
+MLU	Monroe	MLUA	Monroe	US	United States
+MLW	Monrovia Sprigg Payne	MLWA	Monrovia	LR	Liberia
+MLX	Malatya	MALB	Malatya	TR	Turkey
+MLY	Manley Hot Springs	MLYA	Manley Hot Springs	US	United States
+MMB	Memanbetsu	JMMB	Memanbetsu	JP	Japan
+MME	Durham Tees Valley	MMEA	Durham	UK	United Kingdom
+MMH	Mammoth Lakes	MMHA	Mammoth Lakes	US	United States
+MMJ	Matsumoto	JMMJ	Matsumoto	JP	Japan
+MMK	Murmansk	MURM	Murmansk	RU	Russia
+MMO	Vila Do Maio	MMOA	Maio	CV	Cape Verde
+MMU	Morristown	MMUA	Morristown	US	United States
+MMX	Malmo Sturup	MALM	Malmo	SE	Sweden
+MMY	Miyako Jima	JMMY	Miyako Jima	JP	Japan
+MMZ	Maimana	MMZA	Maimana	AF	Afghanistan
+MNA	Sangir Talaud (Melonguane)	MNAI	Sangir Talaud (Melonguane)	ID	Indonesia
+MNG	Maningrida	MNGA	Maningrida	AU	Australia
+MNI	Montserrat	MNIA	Montserrat	MS	Montserrat
+MNL	Manila Ninoy Aquino	MNLP	Manila	PH	Philippines
+MNR	Mongu	MNRA	Mongu	ZM	Zambia
+MNS	Mansa	MNSA	Mansa	ZM	Zambia
+MNT	Minto	MNTA	Minto	US	United States
+MNU	Maulmyine	MNUM	Maulmyine	MM	Myanmar
+MOB	Mobile Municipal Arpt	MOBA	Mobile	US	United States
+MOC	Montes Claros	MOCA	Montes Claros	BR	Brazil
+MOD	Modesto	MODA	Modesto	US	United States
+MOF	Maumere	MOFI	Maumere	ID	Indonesia
+MOI	Mitiaro Island	MOIC	Mitiaro Island	CK	Cook Islands
+MOL	Molde Aro	MOLD	Molde Aro	NO	Norway
+MOQ	Morondava	MOQA	Morondava	MG	Madagascar
+MOT	Minot International	MOTA	Minot	US	United States
+MOU	Mountain Village	MOUA	Mountain Village	US	United States
+MOV	Moranbah	MOVA	Moranbah	AU	Australia
+MOZ	Moorea	MOZP	Moorea	PF	French Polynesia
+MPA	Mpacha	MPAA	Mpacha	NA	Namibia
+MPC	Muko-Muko	MPCI	Muko-Muko	ID	Indonesia
+MPH	Caticlan	MPHP	Caticlan	PH	Philippines
+MPL	Montpellier	MONT	Montpellier	FR	France
+MPM	Maputo	MPMA	Maputo	MZ	Mozambique
+MPN	Stanley	MPNA	Stanley	FK	Falkland Islands
+MPP	Mulatupo	MPPA	Mulatupo	PA	Panama
+MPW	Mariupol	MARL	Mariupol	UA	Ukraine
+MQF	Magnitogorsk	MAGN	Magnitogorsk	RU	Russia
+MQH	Minacu	MQHA	Minacu	BR	Brazil
+MQJ	Moma Airport	MQJC	Khonnu	RU	Russia
+MQL	Mildura	MQLA	Mildura	AU	Australia
+MQM	Mardin	MARD	Mardin	TR	Turkey
+MQN	Mo I Rana Rossvoll	MOIR	Mo I Rana Rossvoll	NO	Norway
+MQP	Nelspruit	MQPA	Nelspruit	ZA	South Africa
+MQT	Marquette	MQTA	Marquette	US	United States
+MQX	Makale	MQXA	Makale	ET	Ethiopia
+MRA	Misurata	MRAA	Misurata	LY	Libya
+MRD	Merida	MRDA	Merida	VE	Venezuela
+MRE	Mara Lodges	MREA	Mara Lodges	KE	Kenya
+MRQ	Marinduque	MRQP	Marinduque	PH	Philippines
+MRS	Marseille	MARS	Marseille	FR	France
+MRU	Mauritius	MRUA	Mauritius	MU	Mauritius
+MRV	Mineralnye Vody	MINE	Mineralnye Vody	RU	Russia
+MRX	Bandar Mahshahr	MRXA	Bandar Mahshahr	IR	Iran
+MRY	Carmel Monterey Peninsula	MRYA	Carmel	US	United States
+MRZ	Moree	MRZA	Moree	AU	Australia
+MSA	Muskrat Dam	MSAA	Muskrat Dam	CA	Canada
+MSE	Kent International Airport (Manston)	MSEA	Manston	UK	United Kingdom
+MSJ	Misawa	JMSJ	Misawa	JP	Japan
+MSL	Muscle Shoals	MSLA	Muscle Shoals	US	United States
+MSN	Madison	MSNA	Madison	US	United States
+MSO	Missoula	MSOA	Missoula	US	United States
+MSP	Minneapolis St Paul	MSPA	Minneapolis	US	United States
+MSQ	Minsk International 2	MSQA	Minsk	BY	Belarus
+MSR	Mus	MUSI	Mus	TR	Turkey
+MSS	Massena	MSSA	Massena	US	United States
+MST	Maastricht	MAAS	Maastricht	NL	Netherlands
+MSU	Maseru	MSUA	Maseru	LS	Lesotho
+MSW	Massawa	MSWA	Massawa	ER	Eritrea
+MSY	New Orleans Louis Armstrong	MSYA	New Orleans	US	United States
+MSZ	Namibe	MSZA	Namibe	AO	Angola
+MTJ	Montrose	MTJA	Montrose	US	United States
+MTM	Metlakatla	MTMA	Metlakatla	US	United States
+MTR	Monteria	MTRA	Monteria	CO	Colombia
+MTS	Manzini	MTSA	Manzini	SZ	Swaziland
+MTT	Minatitlan	MTTA	Minatitlan	MX	Mexico
+MTV	Mota Lava	MTVV	Mota Lava	VU	Vanuatu
+MTY	Monterrey Gen Mariano Escobedo	MTYA	Monterrey	MX	Mexico
+MUA	Munda	MUAA	Munda	SB	Solomon Islands
+MUB	Maun	MUBA	Maun	BW	Botswana
+MUC	Munich	MUNI	Munich	DE	Germany
+MUE	Kamuela	MUEA	Kamuela	US	United States
+MUH	Mersa Matruh	MERS	Mersa Matruh	EG	Egypt
+MUK	Mauke Island	MUKC	Mauke Island	CK	Cook Islands
+MUN	Maturin	MUNA	Maturin	VE	Venezuela
+MUR	Marudi	MUMM	Marudi	MY	Malaysia
+MUW	Mascara	MUWA	Mascara	DZ	Algeria
+MUX	Multan	MUXA	Multan	PK	Pakistan
+MVD	Montevideo	MVDA	Montevideo	UY	Uruguay
+MVP	Mitu	MVPA	Mitu	CO	Colombia
+MVR	Maroua	MVRA	Maroua	CM	Cameroon
+MVT	Mataiva	MVTP	Mataiva	PF	French Polynesia
+MVY	Martha's Vineyard	MVYA	Martha's Vineyard	US	United States
+MWA	Marion	MWAA	Marion	US	United States
+MWF	Maewo	MWFV	Maewo	VU	Vanuatu
+MWK	Matak	MWKI	Matak	ID	Indonesia
+MWP	Mountain	MWPA	Mountain	NP	Nepal
+MWX	Gwangju Muan International	KWJA	Gwangju	KR	South Korea
+MWZ	Mwanza	MWZA	Mwanza	TZ	Tanzania
+MXB	Masamba	MXBI	Masamba	ID	Indonesia
+MXH	Moro	MXHP	Moro	PG	Papua New Guinea
+MXL	Mexicali	MXLA	Mexicali	MX	Mexico
+MXP	Milan Malpensa	MILA	Milan	IT	Italy
+MXV	Moron	MXVA	Moron	MN	Mongolia
+MXX	Mora-Siljan	MORA	Mora	SE	Sweden
+MXZ	Meixian	CMXZ	Meixian	CN	China
+MYA	Moruya	MYAA	Moruya	AU	Australia
+MYD	Malindi	MYDA	Malindi	KE	Kenya
+MYE	Miyake Jima	JMYE	Miyake Jima	JP	Japan
+MYG	Mayaguana	MYGA	Mayaguana	BS	Bahamas
+MYJ	Matsuyama	JMYJ	Matsuyama	JP	Japan
+MYQ	Mysore	IMYQ	Mysore	IN	India
+MYR	Myrtle Beach AFB	MYRA	Myrtle Beach	US	United States
+MYT	Myitkyina	MYTM	Myitkyina	MM	Myanmar
+MYU	Mekoryuk	MYUA	Mekoryuk	US	United States
+MYW	Mtwara	MYWA	Mtwara	TZ	Tanzania
+MYY	Miri	MYYM	Miri	MY	Malaysia
+MZG	Makung	MZGT	Makung	TW	Taiwan
+MZH	Merzifon	MERZ	Merzifon	TR	Turkey
+MZL	Manizales	MZLA	Manizales	CO	Colombia
+MZO	Manzanillo	MZOA	Manzanillo	CU	Cuba
+MZR	Mazar-I-Sharif	MZRA	Mazar-I-Sharif	AF	Afghanistan
+MZT	Mazatlan	MZTA	Mazatlan	MX	Mexico
+MZV	Mulu	MZVM	Mulu	MY	Malaysia
+MZW	Mechria	MZWA	Mechria	DZ	Algeria
+NAA	Narrabri	NAAA	Narrabri	AU	Australia
+NAC	Naracoorte	NACA	Naracoorte	AU	Australia
+NAG	Nagpur	INAG	Nagpur	IN	India
+NAH	Naha	NAHI	Naha	ID	Indonesia
+NAJ	Nakhichevan	NAJA	Nakhichevan	AZ	Azerbaijan
+NAL	Nalchik	NALC	Nalchik	RU	Russia
+NAN	Nadi	NANF	Nadi	FJ	Fiji
+NAO	Nanchong	CNAO	Nanchong	CN	China
+NAP	Naples International	NAPL	Naples	IT	Italy
+NAQ	Qaanaaq	NAQA	Qaanaaq	GL	Greenland
+NAS	Nassau International	NASA	Nassau	BS	Bahamas
+NAT	Natal	NATA	Natal	BR	Brazil
+NAU	Napuka Island	NAUP	Napuka Island	PF	French Polynesia
+NAV	Nevsehir	NAVA	Nevsehir	TR	Turkey
+NAW	Narathiwat	NAWT	Narathiwat	TH	Thailand
+NAY	Beijing Nanyuan	BJSA	Beijing	CN	China
+NBC	Naberevnye Chelny	NABE	Naberevnye Chelny	RU	Russia
+NBE	Enfidha	NBEA	Enfidha	TN	Tunisia
+NBO	Nairobi Jomo Kenyatta	NBOA	Nairobi	KE	Kenya
+NBS	Changbaishan	NBSA	Baishan	CN	China
+NBW	Guantanamo NAS	GAOA	Guantanamo	CU	Cuba
+NBX	Nabire	NBXI	Nabire	ID	Indonesia
+NCE	Nice	NICE	Nice	FR	France
+NCL	Newcastle	NEWC	Newcastle	UK	United Kingdom
+NCU	Nukus	NCUA	Nukus	UZ	Uzbekistan
+NDA	Bandanaira	NDAI	Bandanaira	ID	Indonesia
+NDB	Nouadhibou	NDBA	Nouadhibou	MR	Mauritania
+NDG	Qiqihar	CNDG	Qiqihar	CN	China
+NDJ	N'Djamena	NDJA	N'Djamena	TD	Chad
+NDR	Nador	NADO	Nador	MA	Morocco
+NDU	Rundu	NDUA	Rundu	NA	Namibia
+NDY	Sanday	NDYA	Sanday	UK	United Kingdom
+NER	Neryungri	NERY	Neryungri	RU	Russia
+NEV	Nevis	NEVA	Nevis	KN	Saint Kitts and Nevis
+NGB	Ningbo	CNGB	Ningbo	CN	China
+NGE	Ngaoundere	NGEA	Ngaoundere	CM	Cameroon
+NGK	Nogliki	NOGL	Nogliki	RU	Russia
+NGO	Nagoya Chubu Centrair	JNGO	Nagoya	JP	Japan
+NGQ	Shiquanhe	SHIQ	Shiquanhe	CN	China
+NGS	Nagasaki	JNGS	Nagasaki	JP	Japan
+NGU	Norfolk NAS Chambers	ORFA	Norfolk	US	United States
+NHV	Nuku Hiva	NHVP	Nuku Hiva	PF	French Polynesia
+NIB	Nikolai	NIBA	Nikolai	US	United States
+NIM	Niamey	NIMA	Niamey	NE	Niger
+NIP	Jacksonville NAS	JAXA	Jacksonville	US	United States
+NIU	Niau	NIUA	Niau	PF	French Polynesia
+NJC	Nizhnevartovsk	NIZI	Nizhnevartovsk	RU	Russia
+NJF	Najaf	NJFA	Najaf	IQ	Iraq
+NKC	Nouakchott	NKCA	Nouakchott	MR	Mauritania
+NKG	Nanking / Nanjing	CNKG	Nanking / Nanjing	CN	China
+NKI	Naukiti	NKIA	Naukiti	US	United States
+NKM	Nagoya Komaki Air Force Base	JNGO	Nagoya	JP	Japan
+NKT	Sirnak	SIRN	Sirnak	TR	Turkey
+NLA	Ndola	NLAA	Ndola	ZM	Zambia
+NLD	Nuevo Laredo	NLDA	Nuevo Laredo	MX	Mexico
+NLG	Nelson Lagoon	NLGA	Nelson Lagoon	US	United States
+NLK	Norfolk Island	NLKN	Norfolk Island	AU	Australia
+NLT	Xinyuan City	NLTA	Xinyuan City	CN	China
+NLV	Nikolaev	NIKO	Nikolaev	UA	Ukraine
+NMA	Namangan	NMAA	Namangan	UZ	Uzbekistan
+NME	Nightmute	NMEA	Nightmute	US	United States
+NMG	San Miguel	NMGA	San Miguel	PA	Panama
+NNB	Santa Ana	NNBA	Santa Ana	SB	Solomon Islands
+NNG	Nanning	CNNG	Nanning	CN	China
+NNL	Nondalton	NNLA	Nondalton	US	United States
+NNM	Naryan-Mar	NARY	Naryan-Mar	RU	Russia
+NNT	Nan	NNTT	Nan	TH	Thailand
+NNX	Nunukan	NNXI	Nunukan	ID	Indonesia
+NNY	Nanyang	CNNY	Nanyang	CN	China
+NOB	Nosara Beach	NOBA	Nosara Beach	CR	Costa Rica
+NOC	Knock	KNOC	Knock	IE	Ireland
+NOJ	Nojabrxsk	NOJA	Nojabrxsk	RU	Russia
+NOP	Sinop Airport	SINO	Sinop	TR	Turkey
+NOS	Nossi-be	NOSA	Nossi-be	MG	Madagascar
+NOU	Noumea Tontouta	NOUN	Noumea	NC	New Caledonia
+NOV	Huambo	NOVA	Huambo	AO	Angola
+NOZ	Novokuzinetsk	NOVP	Novokuzinetsk	RU	Russia
+NPE	Napier-Hastings	NPEN	Napier-Hastings	NZ	New Zealand
+NPL	New Plymouth	NPLN	New Plymouth	NZ	New Zealand
+NPO	Nangapinoh	NPOI	Nangapinoh	ID	Indonesia
+NQN	Neuquen	NQNA	Neuquen	AR	Argentina
+NQU	Nuqui	NQUA	Nuqui	CO	Colombia
+NQY	Newquay	NEWQ	Newquay	UK	United Kingdom
+NRA	Narrandera	NRAA	Narrandera	AU	Australia
+NRK	Norrkoping Kungsangen	NORR	Norrkoping Kungsangen	SE	Sweden
+NRL	North Ronaldsay	NRLA	North Ronaldsay	UK	United Kingdom
+NRN	Dusseldorf Weeze	DUSS	Dusseldorf	DE	Germany
+NRT	Tokyo Narita	TYOA	Tokyo	JP	Japan
+NSH	Now Shahr	NSHA	Now Shahr	IR	Iran
+NSI	Yaounde Nsimalen	YAOA	Yaounde	CM	Cameroon
+NSK	Norilsk	NORI	Norilsk	RU	Russia
+NSN	Nelson	NSNN	Nelson	NZ	New Zealand
+NST	Nakhon Si Thammarat	NSTT	Nakhon Si Thammarat	TH	Thailand
+NTB	Notodden	NOTO	Notodden	NO	Norway
+NTE	Nantes	NANT	Nantes	FR	France
+NTG	Nantong	CNTG	Nantong	CN	China
+NTL	Newcastle Williamtown	NTLA	Newcastle	AU	Australia
+NTN	Normanton	NTNA	Normanton	AU	Australia
+NTQ	Wajima	JNTQ	Wajima	JP	Japan
+NTX	Natuna Ranai	NTXI	Natuna Ranai	ID	Indonesia
+NUE	Nuremberg	NURE	Nuremberg	DE	Germany
+NUI	Nuiqsut	NUIA	Nuiqsut	US	United States
+NUK	Nukutavake	NUKP	Nukutavake	PF	French Polynesia
+NUL	Nulato	NULA	Nulato	US	United States
+NUP	Nunapitchuk	NUPA	Nunapitchuk	US	United States
+NUS	Norsup	NUSV	Norsup	VU	Vanuatu
+NUU	Nakuru	NUUA	Nakuru	KE	Kenya
+NUX	Novy Urengoy	NOVY	Novy Urengoy	RU	Russia
+NVA	Neiva	NVAA	Neiva	CO	Colombia
+NVI	Navoiy	NVIA	Navoiy	UZ	Uzbekistan
+NVK	Narvik Framnes	NARV	Narvik Framnes	NO	Norway
+NVT	Navegantes	NVTA	Navegantes	BR	Brazil
+NWI	Norwich	NORW	Norwich	UK	United Kingdom
+NYA	Nyagan	NYAA	Nyagan	RU	Russia
+NYI	Sunyani	NYIA	Sunyani	GH	Ghana
+NYK	Nanyuki	NYKA	Nanyuki	KE	Kenya
+NYM	Nadym	NADY	Nadym	RU	Russia
+NYO	Stockholm Skavsta	STOC	Stockholm	SE	Sweden
+NYR	Nyurba Airport	NYRC	Nyurba	RU	Russia
+NYT	Naypyidaw Airport	NYTM	Naypyidaw	MM	Myanmar
+NYU	Nyaung-u	NYUM	Nyaung-u	MM	Myanmar
+NZH	Manzhouli	NZHA	Manzhouli	CN	China
+NZK	Karamea	NZKR	Karamea	NZ	New Zealand
+OAG	Orange	OAGA	Orange	AU	Australia
+OAJ	Jacksonville	OAJA	Jacksonville	US	United States
+OAK	Oakland Metropolitan Oak	OAKA	Oakland	US	United States
+OAL	Cacoal	OALA	Cacoal	BR	Brazil
+OAX	Oaxaca	OAXA	Oaxaca	MX	Mexico
+OBN	Oban Connel	OBNA	Oban	UK	United Kingdom
+OBO	Obihiro	JOBO	Obihiro	JP	Japan
+OBU	Kobuk / Wien	OBUA	Kobuk	US	United States
+OBY	Ittoqqortoormiit	OBYA	Ittoqqortoormiit	GL	Greenland
+OCC	Coca	OCCA	Coca	EC	Ecuador
+ODN	Long Seridan	ODNM	Long Seridan	MY	Malaysia
+ODO	Bodaybo	BODA	Bodaybo	RU	Russia
+ODS	Odessa Central	ODES	Odessa	UA	Ukraine
+ODY	Oudomxay	ODYL	Oudomxay	LA	Laos
+OER	Ornskoldsvik	ORNS	Ornskoldsvik	SE	Sweden
+OFI	Ouango Fitini	OFIA	Ouango Fitini	CI	Ivory Coast
+OGD	Ogden Municipal	OGDA	Ogden	US	United States
+OGG	Kahului	OGGA	Kahului	US	United States
+OGL	Ogle	OGLA	Ogle	GY	Guyana
+OGS	Ogdensburg	OGSA	Ogdensburg	US	United States
+OGX	Ouargla	OGXA	Ouargla	DZ	Algeria
+OGZ	Vladikavkaz	VLAE	Vladikavkaz	RU	Russia
+OHD	Ohrid	OHRI	Ohrid	MK	Republic of Macedonia
+OHE	Mohe	MOHE	Mohe	CN	China
+OHH	Okha	OHHA	Okha	RU	Russia
+OIA	Ourilandia	OIAA	Ourilandia	BR	Brazil
+OIM	Oshima	JOIM	Oshima	JP	Japan
+OIR	Okushiri	JOIR	Okushiri	JP	Japan
+OIT	Oita	JOIT	Oita	JP	Japan
+OKA	Okinawa Naha	JOKA	Okinawa	JP	Japan
+OKC	Oklahoma City Will Rogers World	OKCA	Oklahoma City	US	United States
+OKD	Sapporo Okadama	SPKA	Sapporo	JP	Japan
+OKI	Oki Island	JOKI	Oki Island	JP	Japan
+OKJ	Okayama	JOKJ	Okayama	JP	Japan
+OKL	Oksibil	OKLI	Oksibil	ID	Indonesia
+OLA	Orland	ORLA	Orland	NO	Norway
+OLB	Olbia	OLBI	Olbia	IT	Italy
+OLC	São Paulo de Olivença	SPDO	São Paulo de Olivença	BR	Brazil
+OLF	Wolf Point	OLFA	Wolf Point	US	United States
+OLH	Old Harbor	OLHA	Old Harbor	US	United States
+OLP	Olympic Dam	OLPA	Olympic Dam	AU	Australia
+OMA	Omaha Eppley Airfield	OMAA	Omaha	US	United States
+OMD	Oranjemund	OMDA	Oranjemund	NA	Namibia
+OME	Nome	OMEA	Nome	US	United States
+OMH	Urmieh	OMHA	Urmieh	IR	Iran
+OMO	Mostar	MOST	Mostar	BA	Bosnia and Herzegovina
+OMR	Oradea	ORAD	Oradea	RO	Romania
+OMS	Omsk	OMSK	Omsk	RU	Russia
+OND	Ondangwa	ONDA	Ondangwa	NA	Namibia
+ONG	Mornington	ONGA	Mornington	AU	Australia
+ONJ	Odate Noshiro	JONJ	Odate Noshiro	JP	Japan
+ONK	Olenyok	ONKC	Olenyok	RU	Russia
+ONL	Oneill	ONLA	Oneill	US	United States
+ONQ	Zonguldak	ONQA	Zonguldak	TR	Turkey
+ONS	Onslow	ONSA	Onslow	AU	Australia
+ONT	Ontario International	ONTA	Ontario	US	United States
+OOK	Toksook Bay	OOKA	Toksook Bay	US	United States
+OOL	Gold Coast	OOLA	Gold Coast	AU	Australia
+OPO	Porto	PORT	Porto	PT	Portugal
+OPS	Sinop	OPSA	Sinop	BR	Brazil
+OPU	Balimo	OPUP	Balimo	PG	Papua New Guinea
+ORB	Orebro	OREB	Orebro	SE	Sweden
+ORD	Chicago O'Hare International	CHIA	Chicago	US	United States
+ORF	Norfolk International	ORFA	Norfolk	US	United States
+ORH	Worcester	ORHA	Worcester	US	United States
+ORI	Port Lions	ORIA	Port Lions	US	United States
+ORK	Cork	CORK	Cork	IE	Ireland
+ORL	Orlando Executive	ORLB	Orlando	US	United States
+ORN	Oran Es Senia	ORNA	Oran	DZ	Algeria
+ORU	Oruro	ORUA	Oruro	BO	Bolivia
+ORV	Noorvik	ORVA	Noorvik	US	United States
+ORY	Paris Orly	PARI	Paris	FR	France
+ORZ	Orange Walk	ORZA	Orange Walk	BZ	Belize
+OSD	Ostersund Froesoe	OSTE	Ostersund	SE	Sweden
+OSI	Osijek	OSIJ	Osijek	HR	Croatia
+OSK	Oskarshamn	OSKA	Oskarshamn	SE	Sweden
+OSL	Oslo Gardermoen	OSLO	Oslo	NO	Norway
+OSM	Mosul	OSMA	Mosul	IQ	Iraq
+OSR	Ostrava	OSTR	Ostrava	CZ	Czech Republic
+OSS	Osh	OSSA	Osh	KG	Kyrgyzstan
+OST	Ostend - Bruges	OSTA	Ostend	BE	Belgium
+OSW	Orsk	ORSK	Orsk	RU	Russia
+OSY	Namsos	NAMS	Namsos	NO	Norway
+OTD	Contadora	OTDA	Contadora	PA	Panama
+OTH	North Bend	OTHA	North Bend	US	United States
+OTI	Morotai Island	OTII	Morotai Island	ID	Indonesia
+OTP	Bucharest Otopeni	BUCH	Bucharest	RO	Romania
+OTU	Otu	OTUA	Otu	CO	Colombia
+OTZ	Kotzebue	OTZA	Kotzebue	US	United States
+OUA	Ouagadougou	OUAA	Ouagadougou	BF	Burkina Faso
+OUD	Oujda L. Angades	OUJD	Oujda	MA	Morocco
+OUK	Outer Skerries	OUKA	Outer Skerries	UK	United Kingdom
+OUL	Oulu	OULU	Oulu	FI	Finland
+OUZ	Zouerate	OUZA	Zouerate	MR	Mauritania
+OVB	Novosibirsk	OVBA	Novosibirsk	RU	Russia
+OVD	Asturias	AVIL	Asturias	ES	Spain
+OVS	Sovetsky	OVSB	Sovetsky	RU	Russia
+OWB	Owensboro	OWBA	Owensboro	US	United States
+OXB	Bissau	OXBA	Bissau	GW	Guinea-Bissau
+OXF	Oxford	OXFA	Oxford	UK	United Kingdom
+OZC	Ozamis City	OZCP	Ozamis City	PH	Philippines
+OZH	Zaporozhye	ZAPO	Zaporozhye	UA	Ukraine
+OZZ	Ouarzazate	OUAR	Ouarzazate	MA	Morocco
+PAC	Panama City Paitilla	PTYA	Panama City	PA	Panama
+PAD	Paderborn	PADE	Paderborn	DE	Germany
+PAF	Pakuba	PAFA	Pakuba	UG	Uganda
+PAG	Pagadian	PAGP	Pagadian	PH	Philippines
+PAH	Paducah	PAHA	Paducah	US	United States
+PAP	Port Au Prince	PAPA	Port Au Prince	HT	Haiti
+PAS	Paros	PARO	Paros	GR	Greece
+PAT	Patna	IPAT	Patna	IN	India
+PAV	Paulo Afonso	PAVA	Paulo Afonso	BR	Brazil
+PAZ	Poza Rica	PAZA	Poza Rica	MX	Mexico
+PBC	Puebla	PBCA	Puebla	MX	Mexico
+PBD	Porbandar	IPBD	Porbandar	IN	India
+PBG	Plattsburgh AFB	PLBA	Plattsburgh	US	United States
+PBH	Paro	PBHA	Paro	BT	Bhutan
+PBI	West Palm Beach International	PBIA	West Palm Beach	US	United States
+PBJ	Paama	PBJV	Paama	VU	Vanuatu
+PBM	Paramaribo Zanderij	PBMA	Paramaribo	SR	Suriname
+PBO	Paraburdoo	PBOA	Paraburdoo	AU	Australia
+PBP	Punta Islita	PBPA	Punta Islita	CR	Costa Rica
+PBU	Putao	PBUM	Putao	MM	Myanmar
+PCL	Pucallpa	PCLA	Pucallpa	PE	Peru
+PCN	Picton	PCNN	Picton	NZ	New Zealand
+PCR	Puerto Carreno	PCRA	Puerto Carreno	CO	Colombia
+PDA	Puerto Inirida	PDAA	Puerto Inirida	CO	Colombia
+PDB	Pedro Bay	PDBA	Pedro Bay	US	United States
+PDG	Padang	PDGI	Padang	ID	Indonesia
+PDL	Ponta Delgada	PONT	Ponta Delgada	PT	Portugal
+PDP	Punta Del Este	PDPA	Punta Del Este	UY	Uruguay
+PDS	Piedras Negras	PDSA	Piedras Negras	MX	Mexico
+PDT	Pendleton	PDTA	Pendleton	US	United States
+PDV	Plovdiv	PLOV	Plovdiv	BG	Bulgaria
+PDX	Portland	PDXA	Portland	US	United States
+PEC	Pelican	PECA	Pelican	US	United States
+PED	Pardubice	PEDA	Pardubice	CZ	Czech Republic
+PEE	Perm	PERM	Perm	RU	Russia
+PEG	Perugia Santegidio	PERU	Perugia	IT	Italy
+PEI	Pereira	PEIA	Pereira	CO	Colombia
+PEK	Beijing Capital	BJSA	Beijing	CN	China
+PEM	Puerto Maldonado	PEMA	Puerto Maldonado	PE	Peru
+PEN	Penang	PENM	Penang	MY	Malaysia
+PER	Perth	PERA	Perth	AU	Australia
+PES	Petrozavodsk	PETR	Petrozavodsk	RU	Russia
+PET	Pelotas	PETA	Pelotas	BR	Brazil
+PEU	Puerto Lempira	PEUA	Puerto Lempira	HN	Honduras
+PEV	Pecs	PECS	Pecs	HU	Hungary
+PEW	Peshawar	PEWA	Peshawar	PK	Pakistan
+PEZ	Penza	PENZ	Penza	RU	Russia
+PFB	Passo Fundo	PFBA	Passo Fundo	BR	Brazil
+PFO	Paphos	PAPH	Paphos	CY	Cyprus
+PFQ	Parsabad	PFQA	Parsabad	IR	Iran
+PGA	Page	PGAA	Page	US	United States
+PGD	Punta Gorda	PGDA	Punta Gorda	US	United States
+PGF	Perpignan	PERP	Perpignan	FR	France
+PGK	Pangkalpinang	PGKI	Pangkalpinang	ID	Indonesia
+PGM	Port Graham	PGMA	Port Graham	US	United States
+PGU	Asaloyeh Persian Gulf International	YEHA	Asaloyeh	IR	Iran
+PGV	Pitt-Greenville	PGVA	Greenville	US	United States
+PGX	Perigueux	PERI	Perigueux	FR	France
+PHC	Port Harcourt	PHCA	Port Harcourt	NG	Nigeria
+PHE	Port Hedland	PHEA	Port Hedland	AU	Australia
+PHF	Newport News / Williamsb	PHFA	Newport News	US	United States
+PHL	Philadelphia International	PHLA	Philadelphia	US	United States
+PHO	Point Hope	PHOA	Point Hope	US	United States
+PHS	Phitsanulok	PHST	Phitsanulok	TH	Thailand
+PHW	Phalaborwa	PHWA	Phalaborwa	ZA	South Africa
+PHX	Phoenix Sky Harbor	PHXA	Phoenix	US	United States
+PIA	Greater Peoria	PIAA	Peoria	US	United States
+PIB	Hattiesburg-Laurel	LULA	Laurel	US	United States
+PIE	Clearwater International	CLWA	Clearwater	US	United States
+PIH	Pocatello	PIHA	Pocatello	US	United States
+PIK	Glasgow Prestwick	GLAS	Glasgow	UK	United Kingdom
+PIN	Parintins	PINA	Parintins	BR	Brazil
+PIP	Pilot Point Arpt	PIPA	Pilot Point	US	United States
+PIR	Pierre	PIRA	Pierre	US	United States
+PIS	Poitiers	POIT	Poitiers	FR	France
+PIT	Pittsburgh Int'l Apt.	PITA	Pittsburgh	US	United States
+PIU	Piura	PIUA	Piura	PE	Peru
+PIX	Pico Island	PICO	Pico Island	PT	Portugal
+PIZ	Point Lay	PIZA	Point Lay	US	United States
+PJA	Pajala	PAJA	Pajala	SE	Sweden
+PJG	Panjgur	PJGA	Panjgur	PK	Pakistan
+PJM	Puerto Jimenez	PJMA	Puerto Jimenez	CR	Costa Rica
+PKA	Napaskiak	PKAA	Napaskiak	US	United States
+PKB	Parkersburg	PKBA	Parkersburg	US	United States
+PKC	Petropavlovsk-Kamchatsky Apt	PETS	Petropavlovsk-Kamchats	RU	Russia
+PKE	Parkes	PKEA	Parkes	AU	Australia
+PKG	Pangkor	PKGM	Pangkor	MY	Malaysia
+PKN	Pangkalanbuun	PKNI	Pangkalanbuun	ID	Indonesia
+PKP	Puka Puka	PKPP	Puka Puka	PF	French Polynesia
+PKR	Pokhara	PKRA	Pokhara	NP	Nepal
+PKU	Pekanbaru	PKUI	Pekanbaru	ID	Indonesia
+PKY	Palangkaraya	PKYI	Palangkaraya	ID	Indonesia
+PKZ	Pakse	PKZL	Pakse	LA	Laos
+PLJ	Placencia	PLJA	Placencia	BZ	Belize
+PLM	Palembang	PLMI	Palembang	ID	Indonesia
+PLN	Pellston	PLNA	Pellston	US	United States
+PLO	Port Lincoln	PLOA	Port Lincoln	AU	Australia
+PLQ	Palanga International	PALA	Palanga	LT	Lithuania
+PLS	Providenciales	PLSA	Providenciales	TC	Turks and Caicos Islands
+PLU	Belo Horizonte Pampulha	BHZA	Belo Horizonte	BR	Brazil
+PLW	Palu	PLWI	Palu	ID	Indonesia
+PLX	Semipalatinsk	PLXA	Semipalatinsk	KZ	Kazakhstan
+PLZ	Port Elizabeth	PLZA	Port Elizabeth	ZA	South Africa
+PMA	Pemba	PMAA	Pemba	TZ	Tanzania
+PMC	Puerto Montt	PMCA	Puerto Montt	CL	Chile
+PMF	Parma	PARM	Parma	IT	Italy
+PMI	Palma - Majorca	PALM	Palma	ES	Spain
+PML	Port Moller	PMLA	Port Moller	US	United States
+PMO	Palermo	PALE	Palermo	IT	Italy
+PMR	Palmerston North	PMRN	Palmerston North	NZ	New Zealand
+PMV	Porlamar	PMVA	Porlamar	VE	Venezuela
+PMW	Palmas	PMWA	Palmas	BR	Brazil
+PMY	Puerto Madryn	PMYA	Puerto Madryn	AR	Argentina
+PMZ	Palmar	PMZA	Palmar	CR	Costa Rica
+PNA	Pamplona	PAMP	Pamplona	ES	Spain
+PND	Punta Gorda	PNDA	Punta Gorda	BZ	Belize
+PNH	Phnom Penh	PNHK	Phnom Penh	KH	Cambodia
+PNI	Pohnpei	PNIA	Pohnpei	FM	Micronesia
+PNK	Pontianak	PNKI	Pontianak	ID	Indonesia
+PNL	Pantelleria	PANT	Pantelleria	IT	Italy
+PNP	Popondetta	PNPP	Popondetta	PG	Papua New Guinea
+PNQ	Pune	IPNQ	Pune	IN	India
+PNR	Pointe Noire	PNRA	Pointe Noire	CG	Congo
+PNS	Pensacola Regional	PNSA	Pensacola	US	United States
+PNZ	Petrolina	PNZA	Petrolina	BR	Brazil
+POA	Porto Alegre	POAA	Porto Alegre	BR	Brazil
+POG	Port Gentil	POGA	Port Gentil	GA	Gabon
+POI	Potosi	POIA	Potosi	BO	Bolivia
+POJ	Patos De Minas	QPTA	Patos De Minas	BR	Brazil
+POL	Pemba	POLA	Pemba	MZ	Mozambique
+POM	Port Moresby	POMP	Port Moresby	PG	Papua New Guinea
+POP	Puerto Plata	POPA	Puerto Plata	DO	Dominican Republic
+POR	Pori	PORI	Pori	FI	Finland
+POS	Port Of Spain	POSA	Port Of Spain	TT	Trinidad and Tobago
+POZ	Poznan	POZN	Poznan	PL	Poland
+PPB	Presidente Prudente	PPBA	Presidente Prudente	BR	Brazil
+PPE	Puerto Penasco	PPEA	Puerto Penasco	MX	Mexico
+PPG	Pago Pago	PPGA	Pago Pago	AS	American Samoa
+PPK	Petropavlovsk	PPKA	Petropavlovsk	KZ	Kazakhstan
+PPN	Popayan	PPNA	Popayan	CO	Colombia
+PPP	Proserpine	PPPA	Proserpine	AU	Australia
+PPQ	Paraparaumu	PPQN	Paraparaumu	NZ	New Zealand
+PPS	Puerto Princesa International	PPSP	Puerto Princesa	PH	Philippines
+PPT	Papeete	PPTP	Papeete	PF	French Polynesia
+PPV	Port Protection	PPVA	Port Protection	US	United States
+PPW	Papa Westray	PPWA	Papa Westray	UK	United Kingdom
+PQC	Phu Quoc	PQCV	Phu Quoc	VN	Vietnam
+PQI	Presque Isle	PQIA	Presque Isle	US	United States
+PQQ	Port Macquarie	PQQA	Port Macquarie	AU	Australia
+PQS	Pilot Station	PQSA	Pilot Station	US	United States
+PQT	Qeqertaq	PQTA	Qeqertaq	GL	Greenland
+PRA	Parana	PRAA	Parana	AR	Argentina
+PRC	Prescott	PRCA	Prescott	US	United States
+PRG	Prague	PRAG	Prague	CZ	Czech Republic
+PRH	Phrae	PRHT	Phrae	TH	Thailand
+PRI	Praslin Island	PRIA	Praslin Island	SC	Seychelles
+PRN	Pristina	PRIT	Pristina	KO	Kosovo
+PSA	Pisa	PISA	Pisa	IT	Italy
+PSC	Pasco	PSCA	Pasco	US	United States
+PSE	Ponce	PSEA	Ponce	PR	Puerto Rico
+PSG	Petersburg	PSGA	Petersburg	US	United States
+PSJ	Poso	PSJI	Poso	ID	Indonesia
+PSO	Pasto	PSOA	Pasto	CO	Colombia
+PSP	Palm Springs Municipal	PSPA	Palm Springs	US	United States
+PSR	Pescara	PESC	Pescara	IT	Italy
+PSS	Posadas	PSSA	Posadas	AR	Argentina
+PSU	Putussibau	PSUI	Putussibau	ID	Indonesia
+PSV	Papa Stour	PSVA	Papa Stour	UK	United Kingdom
+PSZ	Puerto Suarez	PSZA	Puerto Suarez	BO	Bolivia
+PTA	Port Alsworth	PTAA	Port Alsworth	US	United States
+PTG	Polokwane	PTGA	Polokwane	ZA	South Africa
+PTH	Port Heiden	PTHA	Port Heiden	US	United States
+PTJ	Portland	PTJA	Portland	AU	Australia
+PTK	Pontiac	PTKA	Pontiac	US	United States
+PTP	Pointe-a-Pitre	PTPA	Pointe-a-Pitre	GP	Guadeloupe
+PTU	Platinum	PTUA	Platinum	US	United States
+PTY	Panama City Tocumen International	PTYA	Panama City	PA	Panama
+PUB	Pueblo	PUBA	Pueblo	US	United States
+PUE	Puerto Obaldia	PUEA	Puerto Obaldia	PA	Panama
+PUF	Pau	PAUU	Pau	FR	France
+PUG	Port Augusta	PUGA	Port Augusta	AU	Australia
+PUJ	Punta Cana	PUJA	Punta Cana	DO	Dominican Republic
+PUK	Pukarua	PUKP	Pukarua	PF	French Polynesia
+PUM	Pomala	PUMI	Pomala	ID	Indonesia
+PUQ	Punta Arenas	PUQA	Punta Arenas	CL	Chile
+PUS	Busan	PUSA	Busan	KR	South Korea
+PUU	Puerto Asis	PUUA	Puerto Asis	CO	Colombia
+PUW	Pullman	PUWA	Pullman	US	United States
+PUY	Pula	PULA	Pula	HR	Croatia
+PVA	Providencia	PVAA	Providencia	CO	Colombia
+PVC	Provincetown	PVCA	Provincetown	US	United States
+PVD	Providence	PVDA	Providence	US	United States
+PVE	El Porvenir	PVEA	El Porvenir	PA	Panama
+PVG	Shanghai Pu Dong	CSHA	Shanghai	CN	China
+PVH	Porto Velho	PVHA	Porto Velho	BR	Brazil
+PVK	Preveza	PREV	Preveza	GR	Greece
+PVR	Puerto Vallarta	PVRA	Puerto Vallarta	MX	Mexico
+PVU	Provo	PVUA	Provo	US	United States
+PWE	Pevek	PEVE	Pevek	RU	Russia
+PWM	Portland	PWMA	Portland	US	United States
+PWQ	Pavlodar	PWQA	Pavlodar	KZ	Kazakhstan
+PXM	Puerto Escondido	PXMB	Puerto Escondido	MX	Mexico
+PXO	Porto Santo	PORY	Porto Santo	PT	Portugal
+PXU	Pleiku	PXUV	Pleiku	VN	Vietnam
+PYC	Playon Chico	PYCA	Playon Chico	PA	Panama
+PYH	Puerto Ayacucho	PYHA	Puerto Ayacucho	VE	Venezuela
+PYJ	Polyarnyj	POLY	Polyarnyj	RU	Russia
+PYY	Pai (Mae Hong Son)	PYYA	Pai (Mae Hong Son)	TH	Thailand
+PZB	Pietermaritzburg	PZBA	Pietermaritzburg	ZA	South Africa
+PZH	Zhob	PZHA	Zhob	PK	Pakistan
+PZI	Pan Zhi Hua	CPZI	Pan Zhi Hua	CN	China
+PZO	Puerto Ordaz	PZOA	Puerto Ordaz	VE	Venezuela
+PZU	Port Sudan	PZUA	Port Sudan	SD	Sudan
+QBC	Bella Coola	QBCA	Bella Coola	CA	Canada
+QCU	Akunnaaq	QCUA	Akunnaaq	GL	Greenland
+QFI	Iginniarfik	QFIA	Iginniarfik	GL	Greenland
+QGQ	Attu	QGQA	Attu	GL	Greenland
+QJE	Kitsissuarsuit	QJEA	Kitsissuarsuit	GL	Greenland
+QJI	Ikamiut	QJIA	Ikamiut	GL	Greenland
+QMK	Niaqornaarsuk	QMKA	Niaqornaarsuk	GL	Greenland
+QOW	Owerri	OWEB	Owerri	NG	Nigeria
+QPW	Kangaatsiaq	QPWA	Kangaatsiaq	GL	Greenland
+QRO	Queretaro	QUEA	Queretaro	MX	Mexico
+QRW	Warri	QRWA	Warri	NG	Nigeria
+QRY	Ikerasaarsuk	QRYA	Ikerasaarsuk	GL	Greenland
+QSF	Setif	QSFA	Setif	DZ	Algeria
+QUB	Ubari	QUBA	Ubari	LY	Libya
+QUO	Uyo	UYOA	Uyo	NG	Nigeria
+QUP	Saqqaq	QUPA	Saqqaq	GL	Greenland
+QZD	Szeged	SZEG	Szeged	HU	Hungary
+RAB	Rabaul	RABP	Rabaul	PG	Papua New Guinea
+RAE	Arar	RAEA	Arar	SA	Saudi Arabia
+RAH	Rafha	RAHA	Rafha	SA	Saudi Arabia
+RAI	Praia	RAIA	Praia	CV	Cape Verde
+RAJ	Rajkot	IRAJ	Rajkot	IN	India
+RAK	Marrakech Menara	MARR	Marrakech Menara	MA	Morocco
+RAO	Ribeirao Preto	RAOA	Ribeirao Preto	BR	Brazil
+RAP	Rapid City Regional	RAPA	Rapid City	US	United States
+RAR	Rarotonga	RARC	Rarotonga	CK	Cook Islands
+RAS	Rasht	RASB	Rasht	IR	Iran
+RBA	Rabat	RABA	Rabat	MA	Morocco
+RBQ	Rurrenabaque	RBQA	Rurrenabaque	BO	Bolivia
+RBR	Rio Branco	RBRA	Rio Branco	BR	Brazil
+RBV	Ramata	RBVA	Ramata	SB	Solomon Islands
+RBY	Ruby	RBYA	Ruby	US	United States
+RCB	Richards Bay	RCBA	Richards Bay	ZA	South Africa
+RCE	Roche Harbor	RCEA	Roche Harbor	US	United States
+RCH	Riohacha	RCHA	Riohacha	CO	Colombia
+RCM	Richmond	RCMA	Richmond	AU	Australia
+RCY	Rum Cay	RCYA	Rum Cay	BS	Bahamas
+RDC	Redencao	RDCA	Redencao	BR	Brazil
+RDD	Redding	RDDA	Redding	US	United States
+RDM	Redmond	RDMA	Redmond	US	United States
+RDN	Redang	RDNM	Redang	MY	Malaysia
+RDU	Raleigh / Durham	RDUA	Durham	US	United States
+RDV	Red Devil	RDVA	Red Devil	US	United States
+RDZ	Rodez	RODE	Rodez	FR	France
+REA	Reao	REAP	Reao	PF	French Polynesia
+REC	Recife	RECA	Recife	BR	Brazil
+REG	Reggio Calabria	REGG	Reggio Calabria	IT	Italy
+REL	Trelew	RELA	Trelew	AR	Argentina
+REN	Orenburg	OREN	Orenburg	RU	Russia
+REP	Siem Reap	REPK	Siem Reap	KH	Cambodia
+RES	Resistencia	RESA	Resistencia	AR	Argentina
+RET	Rost	ROSU	Rost	NO	Norway
+REU	Reus	REUS	Reus	ES	Spain
+REX	Reynosa	REXA	Reynosa	MX	Mexico
+RFD	Chicago Rockford	CHIA	Chicago	US	United States
+RFP	Raiatea	RFPP	Raiatea	PF	French Polynesia
+RGA	Rio Grande	RGAA	Rio Grande	AR	Argentina
+RGI	Rangiroa	RGIP	Rangiroa	PF	French Polynesia
+RGK	Gorno-Altaysk	RGKA	Gorno-Altaysk	RU	Russia
+RGL	Rio Gallegos	RGLA	Rio Gallegos	AR	Argentina
+RGN	Yangon	RGNM	Yangon	MM	Myanmar
+RGS	Burgos	RGSA	Burgos	ES	Spain
+RHD	Rio Hondo	RHDA	Rio Hondo	AR	Argentina
+RHI	Rhinelander	RHIA	Rhinelander	US	United States
+RHO	Rhodes	RHOD	Rhodes	GR	Greece
+RIA	Santa Maria	RIAA	Santa Maria	BR	Brazil
+RIB	Riberalta	RIBA	Riberalta	BO	Bolivia
+RIC	Richmond	RICA	Richmond	US	United States
+RIG	Rio Grande	RIGB	Rio Grande	BR	Brazil
+RIS	Rishiri	JRIS	Rishiri	JP	Japan
+RIW	Riverton	RIWA	Riverton	US	United States
+RIX	Riga International	RIGA	Riga	LV	Latvia
+RIY	Riyan Mukalla	RIYA	Riyan Mukalla	YE	Yemen
+RJA	Rajahmundry	IRJA	Rajahmundry	IN	India
+RJH	Rajshahi	RJHA	Rajshahi	BD	Bangladesh
+RJK	Rijeka	RUJE	Rijeka	HR	Croatia
+RJL	Logrono	LOGR	Logrono	ES	Spain
+RJN	Rafsanjan	RJNA	Rafsanjan	IR	Iran
+RKA	Aratika	RKAA	Aratika	PF	French Polynesia
+RKD	Rockland	RKDA	Rockland	US	United States
+RKS	Rock Springs	RKSA	Rock Springs	US	United States
+RKT	Ras Al Khaimah	RKTA	Ras Al Khaimah	AE	United Arab Emirates
+RKV	Reykjavik Domestic	REYK	Reykjavik	IS	Iceland
+RKZ	Shigatse Peace Airport	SHIG	Shigatse	CN	China
+RLG	Rostock	ROST	Rostock	DE	Germany
+RMA	Roma	RMAA	Roma	AU	Australia
+RMF	Marsa Allam	MART	Marsa Allam	EG	Egypt
+RMI	Rimini	RIMI	Rimini	IT	Italy
+RML	Colombo Ratmalana	CMBA	Colombo	LK	Sri Lanka
+RMP	Rampart	RMPA	Rampart	US	United States
+RMQ	Taichung	RMQT	Taichung	TW	Taiwan
+RMT	Rimatara	RMTA	Rimatara	PF	French Polynesia
+RNA	Arona	RNAA	Arona	SB	Solomon Islands
+RNB	Ronneby	RONN	Ronneby	SE	Sweden
+RNL	Rennell	RNLA	Rennell	SB	Solomon Islands
+RNN	Ronne Bornholm	RONO	Ronne Bornholm	DK	Denmark
+RNO	Reno / Tahoe	RNOA	Reno	US	United States
+RNS	Rennes	RENN	Rennes	FR	France
+ROA	Roanoke	ROAA	Roanoke	US	United States
+ROB	Monrovia Roberts	MLWA	Monrovia	LR	Liberia
+ROC	Rochester	ROCA	Rochester	US	United States
+ROI	Roi Et	ROIT	Roi Et	TH	Thailand
+ROK	Rockhampton	ROKA	Rockhampton	AU	Australia
+ROO	Rondonopolis	ROOA	Rondonopolis	BR	Brazil
+ROP	Rota	ROPA	Rota	MP	Northern Mariana Islands
+ROR	Koror	RORA	Koror	PW	Palau
+ROS	Rosario	ROSA	Rosario	AR	Argentina
+ROT	Rotorua	ROTN	Rotorua	NZ	New Zealand
+ROV	Rostov-on-Don	ROSV	Rostov-on-Don	RU	Russia
+ROW	Roswell	ROWA	Roswell	US	United States
+RPR	Raipur	IRPR	Raipur	IN	India
+RRG	Rodrigues Is	RRGA	Rodrigues Is	MU	Mauritius
+RRR	Raroia	RRRA	Raroia	PF	French Polynesia
+RRS	Roros	RORO	Roros	NO	Norway
+RSA	Santa Rosa	RSAA	Santa Rosa	AR	Argentina
+RSD	Rock Sound	RSDA	Rock Sound	BS	Bahamas
+RSH	Russian Mission	RSHA	Russian Mission	US	United States
+RST	Rochester Municipal	RSTA	Rochester	US	United States
+RSU	Yeosu	RSUA	Yeosu	KR	South Korea
+RSW	Fort Myers Southwest Florida Reg	FMYA	Fort Myers	US	United States
+RTA	Rotuma Island	RTAF	Rotuma Island	FJ	Fiji
+RTB	Roatan	RTBA	Roatan	HN	Honduras
+RTG	Ruteng	RTGI	Ruteng	ID	Indonesia
+RTM	Rotterdam	ROTT	Rotterdam	NL	Netherlands
+RTW	Saratov	SARB	Saratov	RU	Russia
+RUA	Arua	RUAA	Arua	UG	Uganda
+RUD	Shahroud	SHAH	Shahroud	IR	Iran
+RUH	Riyadh	RUHA	Riyadh	SA	Saudi Arabia
+RUN	Saint-Denis	RUNA	Saint-Denis	RE	Reunion
+RUP	Rupsi	IRUP	Rupsi	IN	India
+RUR	Rurutu	RURP	Rurutu	PF	French Polynesia
+RUS	Marau Sound	RUSA	Marau Sound	SB	Solomon Islands
+RUT	Rutland	RUTA	Rutland	US	United States
+RVD	Rio Verde	RVDA	Rio Verde	BR	Brazil
+RVE	Saravena	RVEA	Saravena	CO	Colombia
+RVH	St Petersburg Rzhevka	PETE	St Petersburg	RU	Russia
+RVK	Roervik Ryumsjoen	ROER	Roervik Ryumsjoen	NO	Norway
+RVN	Rovaniemi	ROVA	Rovaniemi	FI	Finland
+RVT	Ravensthorpe	RVTA	Ravensthorpe	AU	Australia
+RVV	Rairua	RVVP	Rairua	PF	French Polynesia
+RVY	Rivera	RVYA	Rivera	UY	Uruguay
+RXS	Roxas City	RXSP	Roxas City	PH	Philippines
+RYG	Oslo Rygge	OSLO	Oslo	NO	Norway
+RYK	Rahim Yar Khan	RYKA	Rahim Yar Khan	PK	Pakistan
+RZE	Rzeszow	RZES	Rzeszow	PL	Poland
+RZR	Ramsar	RZRA	Ramsar	IR	Iran
+SAB	Saba Island	SABA	Saba Island	BQ	Caribbean Netherlands
+SAF	Santa Fe	ZSHA	Santa Fe	US	United States
+SAH	Sana'a	SAHA	Sana'a	YE	Yemen
+SAL	San Salvador	SALB	San Salvador	SV	El Salvador
+SAN	San Diego Lindberg Fld S.Diego	SANA	San Diego	US	United States
+SAP	San Pedro Sula	SAPA	San Pedro Sula	HN	Honduras
+SAQ	San Andros	SAQA	San Andros	BS	Bahamas
+SAT	San Antonio International	SATA	San Antonio	US	United States
+SAV	Savannah / Hilton Head	SAVA	Savannah	US	United States
+SAW	Istanbul Sabiha	ISTA	Istanbul	TR	Turkey
+SAX	Sambu	SAXA	Sambu	PA	Panama
+SBA	Santa Barbara Municipal	SBAA	Santa Barbara	US	United States
+SBG	Sabang	SBGI	Sabang	ID	Indonesia
+SBH	St Barthelemy	SBHA	St Barthelemy	BL	Saint Barthelemy
+SBN	South Bend	SBNA	South Bend	US	United States
+SBP	San Luis Obispo County	CSLA	San Luis Obispo	US	United States
+SBW	Sibu	SBWM	Sibu	MY	Malaysia
+SBY	Salisbury-Ocean City	SBYA	Salisbury-Ocean City	US	United States
+SBZ	Sibiu	SIBI	Sibiu	RO	Romania
+SCC	Deadhorse (Prudhoe Bay)	SCCA	Deadhorse	US	United States
+SCE	State College	SCEA	State College	US	United States
+SCI	San Cristobal	SCIA	San Cristobal	VE	Venezuela
+SCK	Sacramento Stockton	SACA	Sacramento	US	United States
+SCL	Santiago Arturo Merino Benitez	SCLA	Santiago	CL	Chile
+SCM	Scammon Bay	SCMA	Scammon Bay	US	United States
+SCN	Saarbruecken	SAAR	Saarbruecken	DE	Germany
+SCO	Aktau	SCOA	Aktau	KZ	Kazakhstan
+SCQ	Santiago de Compostela	SANC	Santiago de Compostela	ES	Spain
+SCT	Socotra	SCTA	Socotra	YE	Yemen
+SCU	Santiago	SCUA	Santiago	CU	Cuba
+SCV	Suceava Salcea	SUCE	Suceava Salcea	RO	Romania
+SCW	Syktyvkar	SYKT	Syktyvkar	RU	Russia
+SCY	San Cristobal	SCYA	San Cristobal	EC	Ecuador
+SCZ	Santa Cruz Is	SCZA	Santa Cruz Is	SB	Solomon Islands
+SDD	Lubango	SDDA	Lubango	AO	Angola
+SDE	Santiago Del Estero	SDEA	Santiago Del Estero	AR	Argentina
+SDF	Louisville Standiford Field	SDFA	Louisville	US	United States
+SDG	Sanandaj	SDGA	Sanandaj	IR	Iran
+SDJ	Sendai	JSDJ	Sendai	JP	Japan
+SDK	Sandakan	SDKM	Sandakan	MY	Malaysia
+SDL	Sundsvall Midlanda	SUND	Sundsvall	SE	Sweden
+SDN	Sandane	SAND	Sandane	NO	Norway
+SDP	Sand Point	SDPA	Sand Point	US	United States
+SDQ	Santo Domingo Las Americas	SDQA	Santo Domingo	DO	Dominican Republic
+SDR	Santander	SANT	Santander	ES	Spain
+SDU	Rio De Janeiro Santos Dumont	RIOA	Rio De Janeiro	BR	Brazil
+SDV	Tel Aviv-Yafo Sde Dov	TELA	Tel Aviv	IL	Israel
+SDY	Sidney	SDYA	Sidney	US	United States
+SEA	Seattle / Tacoma International	SEAA	Seattle	US	United States
+SEB	Sebha	SEBA	Sebha	LY	Libya
+SEN	London Southend	LOND	London	UK	United Kingdom
+SEO	Seguela	SEOA	Seguela	CI	Ivory Coast
+SEU	Seronera	SEUA	Seronera	TZ	Tanzania
+SEZ	Mahe Island	SEZA	Mahe Island	SC	Seychelles
+SFA	Sfax El Maou	SFAX	Sfax El Maou	TN	Tunisia
+SFB	Orlando Sanford	ORLB	Orlando	US	United States
+SFG	St Martin Esperance	SFGA	St Martin	GP	Guadeloupe
+SFJ	Kangerlussuaq	SFJA	Kangerlussuaq	GL	Greenland
+SFL	Sao Filipe	SFLA	Sao Filipe	CV	Cape Verde
+SFN	Santa Fe	SFNA	Santa Fe	AR	Argentina
+SFO	San Francisco International	SFOA	San Francisco	US	United States
+SFQ	Sanliurfa	SANL	Sanliurfa	TR	Turkey
+SFT	Skelleftea	SKEL	Skelleftea	SE	Sweden
+SGC	Surgut	SURG	Surgut	RU	Russia
+SGD	Sonderborg	SOND	Sonderborg	DK	Denmark
+SGF	Springfield-Branson Rg	SGFA	Springfield	US	United States
+SGN	Ho Chi Minh City	SGNV	Ho Chi Minh City	VN	Vietnam
+SGO	St George	SGOA	St George	AU	Australia
+SGS	Sanga Sanga	SGSP	Sanga Sanga	PH	Philippines
+SGU	Saint George	SGUA	Saint George	US	United States
+SGX	Songea	SGXA	Songea	TZ	Tanzania
+SGY	Skagway	SGYA	Skagway	US	United States
+SHA	Shanghai Hongqiao	CSHA	Shanghai	CN	China
+SHB	Nakashibetsu	JSHB	Nakashibetsu	JP	Japan
+SHC	Indaselassie	SHCA	Indaselassie	ET	Ethiopia
+SHD	Staunton	SHDA	Staunton	US	United States
+SHE	Shenyang	CSHE	Shenyang	CN	China
+SHG	Shungnak	SHGA	Shungnak	US	United States
+SHH	Shishmaref	SHHA	Shishmaref	US	United States
+SHJ	Sharjah	SHJA	Sharjah	AE	United Arab Emirates
+SHL	Shillong	ISHL	Shillong	IN	India
+SHM	Shirahama	JSHM	Shirahama	JP	Japan
+SHP	Qinhuangdao	CSHP	Qinhuangdao	CN	China
+SHR	Sheridan	SHRA	Sheridan	US	United States
+SHV	Shreveport Regional	SHVA	Shreveport	US	United States
+SHW	Sharurah	SHWA	Sharurah	SA	Saudi Arabia
+SHX	Shageluk	SHXA	Shageluk	US	United States
+SIA	Xi An Xiguan	XIAN	Xi An	CN	China
+SIC	San Jose Island	SICA	San Jose Island	PA	Panama
+SID	Sal	SIDA	Sal	CV	Cape Verde
+SIF	Simara	SIFA	Simara	NP	Nepal
+SIG	San Juan Isla Grande	SJUA	San Juan	PR	Puerto Rico
+SIN	Singapore Changi	SINS	Singapore	SG	Singapore
+SIP	Simferopol	SIMF	Simferopol	UA	Ukraine
+SIQ	Singkep	SIQI	Singkep	ID	Indonesia
+SIR	Sion	SION	Sion	CH	Switzerland
+SIT	Sitka	SITA	Sitka	US	United States
+SJC	San Jose Municipal	SJCA	San Jose	US	United States
+SJD	San Jose Cabo	SJDA	San Jose Cabo	MX	Mexico
+SJE	San Jose Del Gua	SJEA	San Jose Del Gua	CO	Colombia
+SJH	San Juan Del Cesar	SJHA	San Juan Del Cesar	CO	Colombia
+SJI	San Jose (Mindoro)	SJIP	San Jose	PH	Philippines
+SJJ	Sarajevo International	SARA	Sarajevo	BA	Bosnia and Herzegovina
+SJK	Sao Jose Dos Campos	SJKA	Sao Jose Dos Campos	BR	Brazil
+SJL	Sao Gabriel	SJLA	Sao Gabriel	BR	Brazil
+SJO	San Jose Juan Santamaria	SJOA	San Jose	CR	Costa Rica
+SJP	Sao Jose Do Rio Preto	SJPA	Sao Jose Do Rio Preto	BR	Brazil
+SJT	San Angelo Mathis Fld	SJTA	San Angelo	US	United States
+SJU	San Juan Luis Munoz Marin	SJUA	San Juan	PR	Puerto Rico
+SJW	Shijiazhuang	CSJW	Shijiazhuang	CN	China
+SJY	Seinajoki Ilmajoki	SEIN	Seinajoki Ilmajoki	FI	Finland
+SJZ	San Jorge Island	SANJ	San Jorge Island	PT	Portugal
+SKB	Basseterre	SKBA	Basseterre	KN	Saint Kitts and Nevis
+SKD	Samarkand	SKDA	Samarkand	UZ	Uzbekistan
+SKE	Skien Geiterygen	SKIE	Skien Geiterygen	NO	Norway
+SKG	Thessaloniki	THES	Thessaloniki	GR	Greece
+SKH	Surkhet	SKHA	Surkhet	NP	Nepal
+SKK	Shaktoolik	SKKA	Shaktoolik	US	United States
+SKN	Stokmarknes	STOK	Stokmarknes	NO	Norway
+SKO	Sokoto	SKOA	Sokoto	NG	Nigeria
+SKP	Skopje	SKOP	Skopje	MK	Republic of Macedonia
+SKT	Sialkot	SKTA	Sialkot	PK	Pakistan
+SKU	Skiros	SKIR	Skiros	GR	Greece
+SKV	Santa Katarina	SKVA	Santa Katarina	EG	Egypt
+SKX	Saransk	SARC	Saransk	RU	Russia
+SKZ	Sukkur	SKZA	Sukkur	PK	Pakistan
+SLA	Salta	SLAA	Salta	AR	Argentina
+SLC	Salt Lake City	SLCA	Salt Lake City	US	United States
+SLH	Sola	SLHV	Sola	VU	Vanuatu
+SLI	Solwezi	SLIB	Solwezi	ZM	Zambia
+SLK	Saranac Lake	SLKA	Saranac Lake	US	United States
+SLL	Salalah	SLLA	Salalah	OM	Oman
+SLM	Salamanca Matacan	SALA	Salamanca	ES	Spain
+SLN	Salina	SLNA	Salina	US	United States
+SLO	Salem	SLOA	Salem	US	United States
+SLP	San Luis Potosi	SLPA	San Luis Potosi	MX	Mexico
+SLQ	Sleetmute	SLQA	Sleetmute	US	United States
+SLU	St Lucia Vigie	SLUA	Castries	LC	Saint Lucia
+SLW	Saltillo	SLWA	Saltillo	MX	Mexico
+SLX	Salt Cay	SLXA	Salt Cay	TC	Turks and Caicos Islands
+SLY	Salehard	SALE	Salehard	RU	Russia
+SLZ	Sao Luiz	SLZA	Sao Luiz	BR	Brazil
+SMA	Santa Maria	SANV	Santa Maria	PT	Portugal
+SMF	Sacramento International	SACA	Sacramento	US	United States
+SMI	Samos	SAMO	Samos	GR	Greece
+SMK	St Michael	SMKA	St Michael	US	United States
+SML	Stella Maris	SMLA	Stella Maris	BS	Bahamas
+SMQ	Sampit	SMQI	Sampit	ID	Indonesia
+SMR	Santa Marta	SMRA	Santa Marta	CO	Colombia
+SMS	Sainte Marie	SMSA	Sainte Marie	MG	Madagascar
+SMX	Santa Maria	SMXA	Santa Maria	US	United States
+SNA	Santa Ana John Wayne	SNAA	Santa Ana	US	United States
+SNC	Salinas	SNCA	Salinas	EC	Ecuador
+SNE	Sao Nicolau	SNEA	Sao Nicolau	CV	Cape Verde
+SNN	Shannon	SHAN	Shannon	IE	Ireland
+SNO	Sakon Nakhon	SNOT	Sakon Nakhon	TH	Thailand
+SNP	Saint Paul Island	SNPA	Saint Paul Island	US	United States
+SNR	St. Nazaire Montoir	STNA	St. Nazaire Montoir	FR	France
+SNU	Santa Clara	SNUA	Santa Clara	CU	Cuba
+SNV	Santa Elena	SNVA	Santa Elena	VE	Venezuela
+SNW	Thandwe	SNWM	Thandwe	MM	Myanmar
+SNX	Sabana De Mar	SNXA	Sabana De Mar	DO	Dominican Republic
+SOB	Balaton	SAAS	Balaton	HU	Hungary
+SOC	Solo / Surakarta	SOCI	Solo / Surakarta	ID	Indonesia
+SOF	Sofia	SOFI	Sofia	BG	Bulgaria
+SOG	Sogndal Haukasen	SOGN	Sogndal Haukasen	NO	Norway
+SOJ	Sorkjosen	SORK	Sorkjosen	NO	Norway
+SOM	San Tome	SOMA	San Tome	VE	Venezuela
+SON	Espiritu Santo	SONV	Espiritu Santo	VU	Vanuatu
+SOQ	Sorong	SOQI	Sorong	ID	Indonesia
+SOU	Southampton	SOUT	Southampton	UK	United Kingdom
+SOV	Seldovia	SOVA	Seldovia	US	United States
+SOW	Show Low	SOWA	Show Low	US	United States
+SOY	Stronsay	SOYA	Stronsay	UK	United Kingdom
+SPC	La Palma	LAPA	La Palma	ES	Spain
+SPD	Saidpur	SPDA	Saidpur	BD	Bangladesh
+SPG	St Petersburg	PIEA	St Petersburg	US	United States
+SPI	Springfield	SPIA	Springfield	US	United States
+SPN	Saipan	SPNA	Saipan	MP	Northern Mariana Islands
+SPP	Menongue	SPPA	Menongue	AO	Angola
+SPR	San Pedro	SPRA	San Pedro	BZ	Belize
+SPS	Wichita Falls Sheppard AFB	SPSA	Wichita Falls	US	United States
+SPT	Sipitang	SPTM	Sipitang	MY	Malaysia
+SPU	Split	SPLI	Split	HR	Croatia
+SQG	Sintang	SQGI	Sintang	ID	Indonesia
+SQS	San Ignacio	SQSA	San Ignacio	BZ	Belize
+SQT	Samarai Island	SQTP	Samarai Island	PG	Papua New Guinea
+SRA	Santa Rosa	SRAA	Santa Rosa	BR	Brazil
+SRE	Sucre	SREA	Sucre	BO	Bolivia
+SRG	Semarang	SRGI	Semarang	ID	Indonesia
+SRI	Samarinda	SRII	Samarinda	ID	Indonesia
+SRP	Stord	STOS	Stord	NO	Norway
+SRQ	Sarasota	SRQA	Sarasota	US	United States
+SRV	Stony River	SRVA	Stony River	US	United States
+SRX	Sert	SRXA	Sert	LY	Libya
+SRY	Sary	SRYA	Sary	IR	Iran
+SRZ	Santa Cruz El Trompillo	SRZA	Santa Cruz	BO	Bolivia
+SSA	Salvador	SSAA	Salvador	BR	Brazil
+SSB	St Croix Island SPB	STXA	St Croix Island	VI	Virgin Islands
+SSG	Malabo	SSGA	Malabo	GQ	Equatorial Guinea
+SSH	Sharm El Sheikh	SHAR	Sharm El Sheikh	EG	Egypt
+SSJ	Sandnessjoen	SANE	Sandnessjoen	NO	Norway
+SSR	Sara	SSRV	Sara	VU	Vanuatu
+SSX	Samsun	SAMS	Samsun	TR	Turkey
+SSY	M'Banza Congo	SSYA	M'Banza Congo	AO	Angola
+STC	St Cloud	STCB	St Cloud	US	United States
+STD	Santo Domingo	STDA	Santo Domingo	VE	Venezuela
+STG	St George Island	STGA	St George Island	US	United States
+STI	Santiago	STIA	Santiago	DO	Dominican Republic
+STL	St Louis	STLA	St Louis	US	United States
+STM	Santarem	STMB	Santarem	BR	Brazil
+STN	London Stansted	LOND	London	UK	United Kingdom
+STR	Stuttgart	STUT	Stuttgart	DE	Germany
+STS	Santa Rosa	STSA	Santa Rosa	US	United States
+STT	Saint Thomas Cyril E King	STTA	Saint Thomas	VI	Virgin Islands
+STV	Surat	ISTV	Surat	IN	India
+STW	Stavropol	STAW	Stavropol	RU	Russia
+STX	Henry E. Rohlsen	STXA	St Croix Island	VI	Virgin Islands
+STY	Salto	STYA	Salto	UY	Uruguay
+SUB	Surabaya	SUBI	Surabaya	ID	Indonesia
+SUF	Lamezia Terme	MARA	Lamezia Terme	IT	Italy
+SUG	Surigao	SUGP	Surigao	PH	Philippines
+SUJ	Satu Mare	SATU	Satu Mare	RO	Romania
+SUN	Hailey	SUNA	Hailey	US	United States
+SUR	Summer Beaver	SURA	Summer Beaver	CA	Canada
+SUT	Sumbawanga	SUTA	Sumbawanga	TZ	Tanzania
+SUV	Suva	SUVF	Suva	FJ	Fiji
+SUX	Sioux City	SUXA	Sioux City	US	United States
+SVA	Savoonga	SVAA	Savoonga	US	United States
+SVB	Sambava	SVBA	Sambava	MG	Madagascar
+SVC	Silver City	SVCA	Silver City	US	United States
+SVD	Kingstown	SVDA	Kingstown	VC	Saint Vincent and the Grenadines
+SVG	Stavanger	STAV	Stavanger	NO	Norway
+SVI	San Vicente	SVIA	San Vicente	CO	Colombia
+SVJ	Svolvaer	SVOL	Svolvaer	NO	Norway
+SVK	Silver Creek	SVKA	Silver Creek	BZ	Belize
+SVL	Savonlinna	SAVO	Savonlinna	FI	Finland
+SVN	Savannah Hunter AAF	SAVA	Savannah	US	United States
+SVO	Moscow Sheremetyevo	MOSC	Moscow	RU	Russia
+SVP	Kuito	SVPA	Kuito	AO	Angola
+SVQ	Seville	SEVI	Seville	ES	Spain
+SVS	Stevens Village	SVSA	Stevens Village	US	United States
+SVU	Savusavu	SVUF	Savusavu	FJ	Fiji
+SVX	Ekaterinburg	EKAT	Ekaterinburg	RU	Russia
+SVZ	San Antonio	SVZA	San Antonio	VE	Venezuela
+SWA	Shantou	CSWA	Shantou	CN	China
+SWF	Newburgh	SWFA	Newburgh	US	United States
+SWJ	South West Bay	SWJV	South West Bay	VU	Vanuatu
+SWO	Stillwater	SWOA	Stillwater	US	United States
+SWQ	Sumbawa	SWQI	Sumbawa	ID	Indonesia
+SWT	Strzhewoi	SWTA	Strzhewoi	RU	Russia
+SXB	Strasbourg	STRA	Strasbourg	FR	France
+SXF	Berlin Schoenefeld	BERL	Berlin	DE	Germany
+SXK	Saumlaki	SXKI	Saumlaki	ID	Indonesia
+SXM	St Maarten	SXMA	St Maarten	SX	St Maarten
+SXO	Sao Felix Do Araguaia	SXOA	Sao Felix Do Araguaia	BR	Brazil
+SXP	Sheldon Point	SXPA	Sheldon Point	US	United States
+SXR	Srinagar	ISXR	Srinagar	IN	India
+SXZ	Siirt	SXZA	Siirt	TR	Turkey
+SYB	Seal Bay	SYBA	Seal Bay	US	United States
+SYD	Sydney Kingsford Smith	SYDA	Sydney	AU	Australia
+SYJ	Sirjan	SYJA	Sirjan	IR	Iran
+SYM	Simao	CSYM	Simao	CN	China
+SYO	Shonai	JSYO	Shonai	JP	Japan
+SYR	Syracuse	SYRA	Syracuse	US	United States
+SYX	Sanya	CSYX	Sanya	CN	China
+SYY	Stornoway	STOR	Stornoway	UK	United Kingdom
+SYZ	Shiraz	SYZA	Shiraz	IR	Iran
+SZA	Soyo	SZAA	Soyo	AO	Angola
+SZB	Kuala Lumpur Sultan Abdul Azziz Shah	KULM	Kuala Lumpur	MY	Malaysia
+SZE	Semera	SZEA	Semera	ET	Ethiopia
+SZF	Samsun Carsamba	SAMS	Samsun	TR	Turkey
+SZG	Salzburg	SALZ	Salzburg	AT	Austria
+SZI	Zaisan	SZIA	Zaisan	KZ	Kazakhstan
+SZK	Skukuza	SZKA	Skukuza	ZA	South Africa
+SZX	Shenzhen	CSZX	Shenzhen	CN	China
+SZZ	Szczecin Goleniow	SZCZ	Szczecin	PL	Poland
+TAB	Tobago	TOBB	Tobago	TT	Trinidad and Tobago
+TAC	Tacloban	TACP	Tacloban	PH	Philippines
+TAE	Daegu	TAEA	Daegu	KR	South Korea
+TAG	Tagbilaran	TAGP	Tagbilaran	PH	Philippines
+TAH	Tanna	TAHV	Tanna	VU	Vanuatu
+TAI	Taiz	TAIA	Taiz	YE	Yemen
+TAK	Takamatsu	JTAK	Takamatsu	JP	Japan
+TAL	Tanana	TALA	Tanana	US	United States
+TAM	Tampico	TAMA	Tampico	MX	Mexico
+TAO	Qingdao	CTAO	Qingdao	CN	China
+TAP	Tapachula	TAPA	Tapachula	MX	Mexico
+TAS	Tashkent	TASA	Tashkent	UZ	Uzbekistan
+TAT	Poprad-Tatry	POPR	Poprad	SK	Slovakia
+TAY	Tartu	TAYA	Tartu	EE	Estonia
+TBB	Tuy Hoa	TBBV	Tuy Hoa	VN	Vietnam
+TBG	Tabubil	TBGP	Tabubil	PG	Papua New Guinea
+TBH	Tablas	TBHP	Tablas	PH	Philippines
+TBI	The Bight	TBIA	The Bight	BS	Bahamas
+TBJ	Tabarka	TABA	Tabarka	TN	Tunisia
+TBN	Fort Leonard Wood	TBNA	Fort Leonard Wood	US	United States
+TBO	Tabora	TBOA	Tabora	TZ	Tanzania
+TBP	Tumbes	TBPA	Tumbes	PE	Peru
+TBS	Tbilisi	TBLI	Tbilisi	GE	Georgia
+TBT	Tabatinga	TBTA	Tabatinga	BR	Brazil
+TBU	Tongatapu	TONG	Tongatapu	TO	Tonga
+TBW	Tambov	TAMB	Tambov	RU	Russia
+TBZ	Tabriz	TBZA	Tabriz	IR	Iran
+TCB	Treasure Cay	TCBA	Treasure Cay	BS	Bahamas
+TCD	Tarapaca	TCDA	Tarapaca	CO	Colombia
+TCG	Tacheng	CTCG	Tacheng	CN	China
+TCL	Tuscaloosa	TCLA	Tuscaloosa	US	United States
+TCO	Tumaco	TCOA	Tumaco	CO	Colombia
+TCP	Taba	TABB	Taba	EG	Egypt
+TCQ	Tacna	TCQA	Tacna	PE	Peru
+TCR	Tuticorin	ITCR	Tuticorin	IN	India
+TCT	Takotna	TCTA	Takotna	US	United States
+TCX	Tabas	TCXA	Tabas	IR	Iran
+TCZ	Tengchong	TCZA	Tengchong	CN	China
+TDD	Trinidad	TDDA	Trinidad	BO	Bolivia
+TDX	Trat	TDXT	Trat	TH	Thailand
+TEB	Teterboro	TEBA	Teterboro	US	United States
+TEE	Tbessa	TEEA	Tbessa	DZ	Algeria
+TEN	Tongren	CTEN	Tongren	CN	China
+TEQ	Tekirdag	TEQA	Tekirdag	TR	Turkey
+TER	Terceira Lajes	TERC	Terceira Lajes	PT	Portugal
+TET	Tete Matunda	TETA	Tete	MZ	Mozambique
+TEX	Telluride	TEXA	Telluride	US	United States
+TFF	Tefe	TFFA	Tefe	BR	Brazil
+TFI	Tufi	TFIP	Tufi	PG	Papua New Guinea
+TFN	Tenerife North	TENE	Tenerife	ES	Spain
+TFS	Tenerife South	TENE	Tenerife	ES	Spain
+TGC	Tanjung Manis	TGCA	Tanjung Manis	MY	Malaysia
+TGD	Podgorica	PODG	Podgorica	ME	Montenegro
+TGG	Kuala Terengganu	TGGM	Kuala Terengganu	MY	Malaysia
+TGH	Tongoa	TGHV	Tongoa	VU	Vanuatu
+TGI	Tingo Maria	TGIA	Tingo Maria	PE	Peru
+TGJ	Tiga	TGJN	Tiga	NC	New Caledonia
+TGM	Tirgu Mures	TIRG	Tirgu Mures	RO	Romania
+TGO	Tongliao	CTGO	Tongliao	CN	China
+TGP	Podkamennaya Tunguska	TGPA	Podkamennaya Tunguska	RU	Russia
+TGR	Touggourt	TGRA	Touggourt	DZ	Algeria
+TGT	Tanga	TGTA	Tanga	TZ	Tanzania
+TGU	Tegucigalpa	TGUA	Tegucigalpa	HN	Honduras
+TGV	Targovishte	TARG	Targovishte	BG	Bulgaria
+TGZ	Tuxtla Gutierrez	TGZA	Tuxtla Gutierrez	MX	Mexico
+THE	Teresina	THEA	Teresina	BR	Brazil
+THL	Tachilek	THLM	Tachilek	MM	Myanmar
+THN	Trollhattan	TROL	Trollhattan	SE	Sweden
+THR	Tehran	THRA	Tehran	IR	Iran
+THS	Sukhothai	THST	Sukhothai	TH	Thailand
+THU	Pituffik	THUA	Pituffik	GL	Greenland
+THX	Turukhansk	THXA	Turukhansk	RU	Russia
+TIA	Tirana	TIRA	Tirana	AL	Albania
+TID	Tiaret	TIDA	Tiaret	DZ	Algeria
+TIF	Taif	TIFA	Taif	SA	Saudi Arabia
+TIH	Tikehau Atoll	TIHP	Tikehau Atoll	PF	French Polynesia
+TII	Tirinkot	TIIA	Tirinkot	AF	Afghanistan
+TIJ	Tijuana	TIJA	Tijuana	MX	Mexico
+TIM	Tembagapura	TIII	Tembagapura	ID	Indonesia
+TIN	Tindouf	TINA	Tindouf	DZ	Algeria
+TIP	Tripoli	TIPA	Tripoli	LY	Libya
+TIR	Tirupati	ITIR	Tirupati	IN	India
+TIU	Timaru	TIUN	Timaru	NZ	New Zealand
+TIV	Tivat	TIVA	Tivat	ME	Montenegro
+TIZ	Tari	TIZP	Tari	PG	Papua New Guinea
+TJA	Tarija	TJAA	Tarija	BO	Bolivia
+TJK	Tokat	TJKA	Tokat	TR	Turkey
+TJM	Tyumen	TYUM	Tyumen	RU	Russia
+TJN	Takume	TJNP	Takume	PF	French Polynesia
+TJQ	Belitung (Tanjung Pandan)	TJQI	Belitung (Tanjung Pandan)	ID	Indonesia
+TJR	Ceiba	CEIB	Ceiba	PR	Puerto Rico
+TJS	Tanjung Selor	TJSI	Tanjung Selor	ID	Indonesia
+TJU	Kulyab	TJUA	Kulyab	TJ	Tajikistan
+TKD	Takoradi	TKDA	Takoradi	GH	Ghana
+TKE	Tenakee Springs	TKEA	Tenakee Springs	US	United States
+TKG	Bandar Lampung	TKGI	Bandar Lampung	ID	Indonesia
+TKJ	Tok	TKJA	Tok	US	United States
+TKK	Truk	TKKA	Truk	FM	Micronesia
+TKP	Takapoto	TKPP	Takapoto	PF	French Polynesia
+TKQ	Kigoma	TKQA	Kigoma	TZ	Tanzania
+TKS	Tokushima	JTKS	Tokushima	JP	Japan
+TKU	Turku	TURK	Turku	FI	Finland
+TKV	Tatakoto	TKVP	Tatakoto	PF	French Polynesia
+TKX	Takaroa	TKXP	Takaroa	PF	French Polynesia
+TLA	Teller	TLAA	Teller	US	United States
+TLC	Toluca	TLCA	Toluca	MX	Mexico
+TLE	Tulear	TLEA	Tulear	MG	Madagascar
+TLH	Tallahassee	TLHA	Tallahassee	US	United States
+TLI	Tolitoli	TLII	Tolitoli	ID	Indonesia
+TLJ	Tatalina	TLJA	Tatalina	US	United States
+TLL	Tallinn	TALL	Tallinn	EE	Estonia
+TLM	Tlemcen	TLMA	Tlemcen	DZ	Algeria
+TLN	Toulon-Hyères	TOUL	Toulon	FR	France
+TLS	Toulouse	TOUS	Toulouse	FR	France
+TLT	Tuluksak	TLTA	Tuluksak	US	United States
+TLU	Tolu	TLUA	Tolu	CO	Colombia
+TLV	Tel Aviv	TELA	Tel Aviv	IL	Israel
+TMC	Tambolaka	TMCI	Tambolaka	ID	Indonesia
+TME	Tame	TMEA	Tame	CO	Colombia
+TMI	Tumling Tar	TMIA	Tumling Tar	NP	Nepal
+TMJ	Termez	TMJA	Termez	UZ	Uzbekistan
+TML	Tamale	TMLA	Tamale	GH	Ghana
+TMM	Tamatave	TMMA	Tamatave	MG	Madagascar
+TMP	Tampere	TAMP	Tampere	FI	Finland
+TMR	Tamanrasset	TMRA	Tamanrasset	DZ	Algeria
+TMS	Sao Tome Is	TMSA	Sao Tome Is	ST	Sao Tome and Principe
+TMT	Trombetas	TMTA	Trombetas	BR	Brazil
+TMU	Tambor	TMUA	Tambor	CR	Costa Rica
+TMW	Tamworth	TMWA	Tamworth	AU	Australia
+TMX	Timimoun	TMXA	Timimoun	DZ	Algeria
+TNA	Jinan Yaoqiang	JINA	Jinan	CN	China
+TNC	Tin City	TNCA	Tin City	US	United States
+TNG	Tangier Boukhalef	TANG	Tangier	MA	Morocco
+TNJ	Tanjung Pinang	TNJI	Tanjung Pinang	ID	Indonesia
+TNK	Tununak	TNKA	Tununak	US	United States
+TNN	Tainan	TNNT	Tainan	TW	Taiwan
+TNO	Tamarindo	TNOA	Tamarindo	CR	Costa Rica
+TNR	Antananarivo	TNRA	Antananarivo	MG	Madagascar
+TOB	Tobruk	TOBA	Tobruk	LY	Libya
+TOD	Tioman	TODM	Tioman	MY	Malaysia
+TOE	Tozeur	TOZE	Tozeur	TN	Tunisia
+TOF	Tomsk	TOMS	Tomsk	RU	Russia
+TOG	Togiak Village	TOGA	Togiak Village	US	United States
+TOH	Torres	TOHV	Torres	VU	Vanuatu
+TOL	Toledo Express	TOLA	Toledo	US	United States
+TOS	Tromso	TROM	Tromso	NO	Norway
+TOU	Touho	TOUN	Touho	NC	New Caledonia
+TOY	Toyama	JTOY	Toyama	JP	Japan
+TPA	Tampa International	TPAA	Tampa	US	United States
+TPE	Taipei Taiwan Taoyuan	TPET	Taipei	TW	Taiwan
+TPP	Tarapoto	TPPA	Tarapoto	PE	Peru
+TPQ	Tepic	TPQA	Tepic	MX	Mexico
+TPS	Trapani Birgi	TRAP	Trapani Birgi	IT	Italy
+TQL	Tarko-Sale	TRKO	Tarko-Sale	RU	Russia
+TQR	San Domino Island	TQRA	San Domino Island	IT	Italy
+TRC	Torreon	TRCA	Torreon	MX	Mexico
+TRD	Trondheim	TRON	Trondheim	NO	Norway
+TRE	Tiree	TIRE	Tiree	UK	United Kingdom
+TRF	Oslo Torp	OSLO	Oslo	NO	Norway
+TRG	Tauranga	TRGN	Tauranga	NZ	New Zealand
+TRI	Tri-Cities	TRIA	Kingsport	US	United States
+TRK	Tarakan	TRKI	Tarakan	ID	Indonesia
+TRN	Turin	TURI	Turin	IT	Italy
+TRO	Taree	TROA	Taree	AU	Australia
+TRR	Trincomalee	TRRA	Trincomalee	LK	Sri Lanka
+TRS	Trieste	TRIE	Trieste	IT	Italy
+TRU	Trujillo	TRUA	Trujillo	PE	Peru
+TRV	Thiruvananthapuram	ITRV	Thiruvananthapuram	IN	India
+TRW	Tarawa	TRWA	Tarawa	KI	Kiribati
+TRZ	Tiruchirapalli	ITRZ	Tiruchirapalli	IN	India
+TSA	Taipei Sung Shan	TPET	Taipei	TW	Taiwan
+TSE	Astana	TSEA	Astana	KZ	Kazakhstan
+TSF	Venice Treviso	VENI	Venice	IT	Italy
+TSH	Tshikapa	TSHA	Tshikapa	CD	DR Congo
+TSJ	Tsushima	JTSJ	Tsushima	JP	Japan
+TSN	Tianjin	CTSN	Tianjin	CN	China
+TSR	Timisoara	TIMI	Timisoara	RO	Romania
+TST	Trang	TSTT	Trang	TH	Thailand
+TSV	Townsville	TSVA	Townsville	AU	Australia
+TTA	Tan Tan	TANT	Tan Tan	MA	Morocco
+TTE	Ternate	TTEI	Ternate	ID	Indonesia
+TTJ	Tottori	JTTJ	Tottori	JP	Japan
+TTN	Philadelphia Trenton-Mercer	PHLA	Philadelphia	US	United States
+TTQ	Tortuquero	TTQA	Tortuquero	CR	Costa Rica
+TTR	Tana Toraja	TTRI	Tana Toraja	ID	Indonesia
+TTT	Taitung	TTTT	Taitung	TW	Taiwan
+TTU	Tetuan S. Ramel	TETU	Tetuan S. Ramel	MA	Morocco
+TUA	Tulcan	TUAA	Tulcan	EC	Ecuador
+TUB	Tubuai	TUBP	Tubuai	PF	French Polynesia
+TUC	Tucuman	TUCA	Tucuman	AR	Argentina
+TUF	Tours	TOUR	Tours	FR	France
+TUG	Tuguegarao	TUGP	Tuguegarao	PH	Philippines
+TUI	Turaif	TUIA	Turaif	SA	Saudi Arabia
+TUK	Turbat	TUKA	Turbat	PK	Pakistan
+TUL	Tulsa International	TULB	Tulsa	US	United States
+TUN	Tunis Carthage	TUNI	Tunis Carthage	TN	Tunisia
+TUO	Taupo	TUON	Taupo	NZ	New Zealand
+TUP	Tupelo	TUPA	Tupelo	US	United States
+TUR	Tucurui	TURA	Tucurui	BR	Brazil
+TUS	Tucson International	TUSA	Tucson	US	United States
+TUU	Tabuk	TUUA	Tabuk	SA	Saudi Arabia
+TVC	Traverse City	TVCA	Traverse City	US	United States
+TVF	Thief River Falls	TVFA	Thief River Falls	US	United States
+TVS	Tangshan	TNGS	Tangshan	CN	China
+TVU	Taveuni	TVUF	Taveuni	FJ	Fiji
+TVY	Dawe	TVYM	Dawe	MM	Myanmar
+TWA	Twin Hills	TWAA	Twin Hills	US	United States
+TWB	Toowoomba	TWBA	Toowoomba	AU	Australia
+TWF	Twin Falls	TWFA	Twin Falls	US	United States
+TWT	Tawitawi	TWTP	Tawitawi	PH	Philippines
+TWU	Tawau	TWUM	Tawau	MY	Malaysia
+TXK	Texarkana	TXKA	Texarkana	US	United States
+TXL	Berlin Tegel	BERL	Berlin	DE	Germany
+TXN	Tunxi	CTXN	Tunxi	CN	China
+TYF	Torsby Fryklanda	TORS	Torsby Fryklanda	SE	Sweden
+TYN	Taiyuan	CTYN	Taiyuan	CN	China
+TYR	Tyler	TYRA	Tyler	US	United States
+TYS	Knoxville	TYSA	Knoxville	US	United States
+TZA	Belize City Municipal	BZEA	Belize City	BZ	Belize
+TZL	Tuzla	TZLA	Tuzla	BA	Bosnia and Herzegovina
+TZN	South Andros	TZNA	South Andros	BS	Bahamas
+TZX	Trabzon	TRAB	Trabzon	TR	Turkey
+UAH	Ua Huka	UAHP	Ua Huka	PF	French Polynesia
+UAK	Narsarsuaq	NARS	Narsarsuaq	GL	Greenland
+UAP	Ua Pou	UAPP	Ua Pou	PF	French Polynesia
+UAQ	San Juan	UAQA	San Juan	AR	Argentina
+UAS	Samburu	UASA	Samburu	KE	Kenya
+UBA	Uberaba	UBAA	Uberaba	BR	Brazil
+UBJ	Yamaguchi Ube	JUBJ	Ube	JP	Japan
+UBP	Ubon Ratchathani	UBPT	Ubon Ratchathani	TH	Thailand
+UCT	Ukhta	UKHT	Ukhta	RU	Russia
+UDI	Uberlandia	UDIA	Uberlandia	BR	Brazil
+UDJ	Uzhgorod	UZHG	Uzhgorod	UA	Ukraine
+UDR	Udaipur	IUDR	Udaipur	IN	India
+UEL	Quelimane	UELA	Quelimane	MZ	Mozambique
+UEO	Kumejima	JUEO	Kumejima	JP	Japan
+UET	Quetta	UETA	Quetta	PK	Pakistan
+UFA	Ufa	UFAI	Ufa	RU	Russia
+UGB	Pilot Point Ugashik Bay	PIPA	Pilot Point	US	United States
+UGC	Urgench	UGCA	Urgench	UZ	Uzbekistan
+UGI	Uganik	UGIA	Uganik	US	United States
+UGT	Umnugobitour	UGTA	Umnugobitour	MN	Mongolia
+UIB	Quibdo	UIBA	Quibdo	CO	Colombia
+UIH	Qui Nhon	UIHV	Qui Nhon	VN	Vietnam
+UII	Utila	UIIA	Utila	HN	Honduras
+UIN	Quincy	UINA	Quincy	US	United States
+UIO	Quito	UIOA	Quito	EC	Ecuador
+UIP	Quimper	QUIM	Quimper	FR	France
+UKA	Ukunda	UKAA	Ukunda	KE	Kenya
+UKB	Kobe	JUKB	Kobe	JP	Japan
+UKK	Ust-Kamenogorsk	UKKA	Ust-Kamenogorsk	KZ	Kazakhstan
+UKS	Sevastopol	UKSA	Sevastopol	UA	Ukraine
+UKX	Ust-Kut	USTK	Ust-Kut	RU	Russia
+ULB	Ulei	ULBV	Ulei	VU	Vanuatu
+ULD	Ulundi	ULDA	Ulundi	ZA	South Africa
+ULG	Ulgit	ULGA	Ulgit	MN	Mongolia
+ULH	Al `Ula	ALUL	Al `Ula	SA	Saudi Arabia
+ULK	Lensk Airport	ULKC	Lensk	RU	Russia
+ULN	Ulaanbaatar	ULNA	Ulaanbaatar	MN	Mongolia
+ULO	Ulaangom	ULOA	Ulaangom	MN	Mongolia
+ULP	Quilpie	ULPA	Quilpie	AU	Australia
+ULV	Ulyanovsk Baratayevka	ULYA	Ulyanovsk	RU	Russia
+ULY	Ulyanovsk	ULYA	Ulyanovsk	RU	Russia
+ULZ	Uliastai	ULZA	Uliastai	MN	Mongolia
+UMD	Uummannaq	UMDA	Uummannaq	GL	Greenland
+UME	Umea	UMEA	Umea	SE	Sweden
+UND	Kunduz	UNDA	Kunduz	AF	Afghanistan
+UNG	Kiunga	UNGP	Kiunga	PG	Papua New Guinea
+UNK	Unalakleet	UNKA	Unalakleet	US	United States
+UNN	Ranong	UNNT	Ranong	TH	Thailand
+UOL	Buol	UOLI	Buol	ID	Indonesia
+UOX	University-Oxford	UOXA	Oxford	US	United States
+UPB	Havana	UPBA	Havana	CU	Cuba
+UPG	Makassar	UPGI	Makassar	ID	Indonesia
+UPN	Uruapan	UPNA	Uruapan	MX	Mexico
+URA	Uralsk	URAA	Uralsk	KZ	Kazakhstan
+URC	Urumqi	CURC	Urumqi	CN	China
+URE	Kuressaare	KURE	Kuressaare	EE	Estonia
+URG	Uruguaiana	URGA	Uruguaiana	BR	Brazil
+URJ	Uraj	URAJ	Uraj	RU	Russia
+URS	Kursk	KURS	Kursk	RU	Russia
+URT	Surat Thani	URTT	Surat Thani	TH	Thailand
+URY	Gurayat	URYA	Gurayat	SA	Saudi Arabia
+USH	Ushuaia	USHA	Ushuaia	AR	Argentina
+USK	Usinsk	USIN	Usinsk	RU	Russia
+USM	Koh Samui / Samui Island	USMT	Koh Samui / Samui Island	TH	Thailand
+USN	Ulsan	USNA	Ulsan	KR	South Korea
+USR	Ust-Nera Airport	USRC	Ust-Nera	RU	Russia
+UST	St Augustine	USTB	St Augustine	US	United States
+USU	Busuanga	USUP	Busuanga	PH	Philippines
+UTH	Udon Thani	UTHT	Udon Thani	TH	Thailand
+UTN	Upington	UTNA	Upington	ZA	South Africa
+UTP	Pattaya (Chonburi)	UTPT	Pattaya (Chonburi)	TH	Thailand
+UTT	Umtata	UTTA	Umtata	ZA	South Africa
+UUA	Bugulma	BUGU	Bugulma	RU	Russia
+UUD	Ulan-Ude	ULAN	Ulan-Ude	RU	Russia
+UUS	Yuzhno-Sakhalinsk	YUZH	Yuzhno-Sakhalinsk	RU	Russia
+UVE	Ouvea	UVEN	Ouvea	NC	New Caledonia
+UVF	St Lucia Hewanorra	SLUA	Castries	LC	Saint Lucia
+UYL	Nyala	UYLA	Nyala	SD	Sudan
+UYN	Yulin	CUYN	Yulin	CN	China
+UYU	Uyuni	UYUA	Uyuni	BO	Bolivia
+VAA	Vaasa	VAAS	Vaasa	FI	Finland
+VAG	Varginha	VAGA	Varginha	BR	Brazil
+VAI	Vanimo	VAIP	Vanimo	PG	Papua New Guinea
+VAK	Chevak	VAKA	Chevak	US	United States
+VAN	Van	VANI	Van	TR	Turkey
+VAO	Suavanao	VAOA	Suavanao	SB	Solomon Islands
+VAR	Varna	VARN	Varna	BG	Bulgaria
+VAS	Sivas	SIVA	Sivas	TR	Turkey
+VAW	Vardoe Lufthaun	VARD	Vardoe Lufthaun	NO	Norway
+VBV	Vanuabalavu	VBVF	Vanuabalavu	FJ	Fiji
+VBY	Visby	VISB	Visby	SE	Sweden
+VCA	Can Tho	VCAV	Can Tho	VN	Vietnam
+VCE	Venice Marco Polo	VENI	Venice	IT	Italy
+VCL	Tamky	VCLV	Tamky	VN	Vietnam
+VCP	Sao Paulo Viracopos	CPQA	Campinas	BR	Brazil
+VCS	Con Dao	VCSV	Con Dao	VN	Vietnam
+VCT	Victoria	VCTA	Victoria	US	United States
+VCV	Victorville	VCVA	Victorville	US	United States
+VDA	Ovda	OVDA	Ovda	IL	Israel
+VDB	Fagernes Valdres	FAGE	Fagernes Valdres	NO	Norway
+VDC	Vitoria Da Conquista	VDCA	Vitoria Da Conquista	BR	Brazil
+VDE	Valverde Hierro	VALV	Valverde Hierro	ES	Spain
+VDH	Dong Hoi	DONG	Dong Hoi	VN	Vietnam
+VDM	Viedma	VDMA	Viedma	AR	Argentina
+VDS	Vadso	VADS	Vadso	NO	Norway
+VDZ	Valdez	VDZA	Valdez	US	United States
+VEE	Venetie	VEEA	Venetie	US	United States
+VEL	Vernal	VELA	Vernal	US	United States
+VER	Veracruz	VERA	Veracruz	MX	Mexico
+VEY	Vestmannaeyjar	VEST	Vestmannaeyjar	IS	Iceland
+VFA	Victoria Falls	VFAA	Victoria Falls	ZW	Zimbabwe
+VGA	Vijayawada	IVGA	Vijayawada	IN	India
+VGN	Vigan	VGNP	Vigan	PH	Philippines
+VGO	Vigo	VIGO	Vigo	ES	Spain
+VGZ	Villagarzon	VGZA	Villagarzon	CO	Colombia
+VHC	Saurimo	VHCA	Saurimo	AO	Angola
+VHM	Vilhelmina Sagadal	VILH	Vilhelmina Sagadal	SE	Sweden
+VHZ	Vahitahi	VHZP	Vahitahi	PF	French Polynesia
+VIE	Vienna	VIEN	Vienna	AT	Austria
+VIF	Vieste	VIFA	Vieste	IT	Italy
+VIG	El Vigia	VIGA	El Vigia	VE	Venezuela
+VII	Vinh City	VIIV	Vinh City	VN	Vietnam
+VIJ	Virgin Gorda	VIJA	Virgin Gorda	VG	British Virgin Islands
+VIL	Dakhla	DAKH	Dakhla	MA	Morocco
+VIN	Vinnitsa	VINN	Vinnitsa	UA	Ukraine
+VIR	Durban Virginia	DURA	Durban	ZA	South Africa
+VIS	Visalia	VISA	Visalia	US	United States
+VIT	Vitoria	VITO	Vitoria	ES	Spain
+VIX	Vitoria	VIXA	Vitoria	BR	Brazil
+VKG	Rach Gia	VKGV	Rach Gia	VN	Vietnam
+VKO	Moscow Vnukovo	MOSC	Moscow	RU	Russia
+VKT	Vorkuta	VORK	Vorkuta	RU	Russia
+VLC	Valencia	VALE	Valencia	ES	Spain
+VLD	Valdosta Regional	VLDA	Valdosta	US	United States
+VLG	Villa Gesell	VLGA	Villa Gesell	AR	Argentina
+VLI	Port Vila	VLIV	Port Vila	VU	Vanuatu
+VLL	Valladolid	VALL	Valladolid	ES	Spain
+VLN	Valencia	VLNA	Valencia	VE	Venezuela
+VLS	Valesdir	VLSV	Valesdir	VU	Vanuatu
+VLV	Valera	VLVA	Valera	VE	Venezuela
+VLY	Anglesey	ANGA	Anglesey	UK	United Kingdom
+VME	Villa Mercedes	VMEA	Villa Mercedes	AR	Argentina
+VNO	Vilnius	VILN	Vilnius	LT	Lithuania
+VNS	Varanasi	IVNS	Varanasi	IN	India
+VNX	Vilanculos	VNXA	Vilanculos	MZ	Mozambique
+VNY	Los Angeles Van Nuys	LAXA	Los Angeles	US	United States
+VOG	Volgograd	VOLH	Volgograd	RU	Russia
+VOL	Volos	VOLP	Volos	GR	Greece
+VOZ	Voronezh	VORO	Voronezh	RU	Russia
+VPE	Ongiva	VPEA	Ongiva	AO	Angola
+VPS	Valparaiso Ft. Walton Beach	VPSA	Valparaiso	US	United States
+VPY	Chimoio	VPYA	Chimoio	MZ	Mozambique
+VQS	Vieques	VQSA	Vieques	PR	Puerto Rico
+VRA	Varadero	VRAA	Varadero	CU	Cuba
+VRC	Virac	VRCP	Virac	PH	Philippines
+VRN	Verona International	VERO	Verona	IT	Italy
+VSA	Villahermosa	VSAA	Villahermosa	MX	Mexico
+VSG	Lugansk	LUGB	Lugansk	UA	Ukraine
+VST	Stockholm Vasteras	STOC	Stockholm	SE	Sweden
+VTE	Vientiane	VTEL	Vientiane	LA	Laos
+VTZ	Visakhapatnam	IVTZ	Visakhapatnam	IN	India
+VUP	Valledupar	VUPA	Valledupar	CO	Colombia
+VUS	Velikij Ustyug	USTY	Velikij Ustyug	RU	Russia
+VVC	Villavicencio	VVCA	Villavicencio	CO	Colombia
+VVI	Santa Cruz Viru Viru	SRZA	Santa Cruz	BO	Bolivia
+VVO	Vladivostok	VLAD	Vladivostok	RU	Russia
+VVZ	Illizi	VVZA	Illizi	DZ	Algeria
+VXC	Lichinga	VXCA	Lichinga	MZ	Mozambique
+VXE	Sao Vicente	VXEA	Sao Vicente	CV	Cape Verde
+VXO	Vaxjo	VAXJ	Vaxjo	SE	Sweden
+WAA	Wales	WAAA	Wales	US	United States
+WAE	Wadi Ad Dawasir	WAEA	Wadi Ad Dawasir	SA	Saudi Arabia
+WAG	Wanganui	WAGN	Wanganui	NZ	New Zealand
+WAN	Waverney	WANA	Waverney	AU	Australia
+WAT	Waterford	WATE	Waterford	IE	Ireland
+WAW	Warsaw	WARS	Warsaw	PL	Poland
+WBB	Stebbins	WBBA	Stebbins	US	United States
+WBM	Wapenamanda	WBMP	Wapenamanda	PG	Papua New Guinea
+WBQ	Beaver	WBQA	Beaver	US	United States
+WDH	Windhoek Hosea Kutako	WDHA	Windhoek	NA	Namibia
+WEF	Weifang	CWEF	Weifang	CN	China
+WEH	Weihai	CWEH	Weihai	CN	China
+WEI	Weipa	WEIA	Weipa	AU	Australia
+WFB	Ketchikan Waterfront SPB	KTNA	Ketchikan	US	United States
+WGA	Wagga Wagga	WGAA	Wagga Wagga	AU	Australia
+WGI	Wangi Wangi (Wakatobi)	WNGI	Wangi Wangi (Wakatobi)	ID	Indonesia
+WGP	Waingapu	WGPI	Waingapu	ID	Indonesia
+WHK	Whakatane	WHKN	Whakatane	NZ	New Zealand
+WIC	Wick	WICK	Wick	UK	United Kingdom
+WIL	Nairobi Wilson	NBOA	Nairobi	KE	Kenya
+WIN	Winton	WINA	Winton	AU	Australia
+WJR	Wajir	WJRA	Wajir	KE	Kenya
+WJU	WonJu	WJUA	WonJu	KR	South Korea
+WKA	Wanaka	WKAN	Wanaka	NZ	New Zealand
+WKJ	Wakkanai	JWKJ	Wakkanai	JP	Japan
+WKK	Aleknagik	WKKA	Aleknagik	US	United States
+WLG	Wellington	WLGN	Wellington	NZ	New Zealand
+WLH	Walaha	WLHV	Walaha	VU	Vanuatu
+WLK	Selawik	WLKA	Selawik	US	United States
+WLS	Wallis Island	WLSA	Wallis Island	WF	Wallis and Futuna Islands
+WMI	Warsaw Modlin	WARS	Warsaw	PL	Poland
+WMK	Meyers Chuck	WMKA	Meyers Chuck	US	United States
+WMN	Maroantsetra	WMNA	Maroantsetra	MG	Madagascar
+WMO	White Mountain	WMOA	White Mountain	US	United States
+WMR	Mananara	WMRA	Mananara	MG	Madagascar
+WMX	Wamena	WMXI	Wamena	ID	Indonesia
+WNA	Napakiak	WNAA	Napakiak	US	United States
+WNH	Wenshan Puzhehei	WNHA	Wenshan	CN	China
+WNN	Wunnummin Lake	WNNA	Wunnummin Lake	CA	Canada
+WNP	Naga	WNPP	Naga	PH	Philippines
+WNR	Windorah	WNRA	Windorah	AU	Australia
+WNZ	Wenzhou	CWNZ	Wenzhou	CN	China
+WOT	Wonan	WOTT	Wonan	TW	Taiwan
+WRE	Whangarei	WREN	Whangarei	NZ	New Zealand
+WRG	Wrangell	WRGA	Wrangell	US	United States
+WRL	Worland	WRLA	Worland	US	United States
+WRO	Wroclaw	WROC	Wroclaw	PL	Poland
+WRY	Westray	WRYA	Westray	UK	United Kingdom
+WSN	South Naknek	WSNA	South Naknek	US	United States
+WSX	Westsound	WSXA	Westsound	US	United States
+WSZ	Westport	WSZN	Westport	NZ	New Zealand
+WTK	Noatak	WTKA	Noatak	US	United States
+WTL	Tuntutuliak	WTLA	Tuntutuliak	US	United States
+WTZ	Whitianga	WTZN	Whitianga	NZ	New Zealand
+WUA	Wu Hai	CWUA	Wu Hai	CN	China
+WUH	Wuhan	CWUH	Wuhan	CN	China
+WUS	Wuyishan	CWUS	Wuyishan	CN	China
+WUX	Wuxi	CWUX	Wuxi	CN	China
+WUZ	Wuzhou	CWUZ	Wuzhou	CN	China
+WVB	Walvis Bay	WVBA	Walvis Bay	NA	Namibia
+WWK	Wewak	WWKP	Wewak	PG	Papua New Guinea
+WWO	Siborong Borong	SIBO	Siborong Borong	ID	Indonesia
+WWP	Whale Pass	WWPA	Whale Pass	US	United States
+WWT	Newtok	WWTA	Newtok	US	United States
+WXN	Wanxian	CWXN	Wanxian	CN	China
+WYA	Whyalla	WYAA	Whyalla	AU	Australia
+WYS	West Yellowstone	WYSA	West Yellowstone	US	United States
+XAP	Chapeco	XAPA	Chapeco	BR	Brazil
+XBE	Bearskin Lake	XBEA	Bearskin Lake	CA	Canada
+XBJ	Birjand	XBJA	Birjand	IR	Iran
+XBO	Boulsa	XBOA	Boulsa	BF	Burkina Faso
+XCH	Christmas Island	XCHA	Christmas Island	CX	Christmas Island
+XCR	Châlons-en-Champagne	XCRA	Châlons-en-Champagne	FR	France
+XEQ	Tasiuasaq	XEQA	Tasiuasaq	GL	Greenland
+XFN	Xiangfan	CXFN	Xiangfan	CN	China
+XFW	Finkenwerder	FINK	Finkenwerder	DE	Germany
+XGR	Kangiqsualujjuaq	XGRA	Kangiqsualujjuaq	CA	Canada
+XIC	Xichang	CXIC	Xichang	CN	China
+XIL	Xilinhot	CXIL	Xilinhot	CN	China
+XIQ	Ilimanaq	XIQA	Ilimanaq	GL	Greenland
+XIY	Xi An Xianyang	XIAN	Xi An	CN	China
+XKH	Xieng Khouang	XKHA	Xieng Khouang	LA	Laos
+XKS	Kasabonika	XKSA	Kasabonika	CA	Canada
+XLS	St Louis	XLSA	St Louis	SN	Senegal
+XMB	M'Bahiakro	DXBA	Dubai	AE	United Arab Emirates
+XMH	Manihi	XMHA	Manihi	PF	French Polynesia
+XMN	Xiamen	CXMN	Xiamen	CN	China
+XMS	Macas	XMSA	Macas	EC	Ecuador
+XNA	Fayetteville Northwest Arkansas Rgn	FYVA	Fayetteville	US	United States
+XNB	Dubai Bus Station	DXBA	Dubai	AE	United Arab Emirates
+XNN	Xining	CXNN	Xining	CN	China
+XQP	Quepos	XQPA	Quepos	CR	Costa Rica
+XRY	Jerez	JERE	Jerez	ES	Spain
+XSC	South Caicos	XSCA	South Caicos	TC	Turks and Caicos Islands
+XTG	Thargomindah	XTGA	Thargomindah	AU	Australia
+XUZ	Xuzhou	CXUZ	Xuzhou	CN	China
+YAA	Anahim Lake	YAAA	Anahim Lake	CA	Canada
+YAB	Arctic Bay	YABA	Arctic Bay	CA	Canada
+YAC	Cat Lake	YACA	Cat Lake	CA	Canada
+YAG	Fort Frances	YAGA	Fort Frances	CA	Canada
+YAK	Yakutat	YAKA	Yakutat	US	United States
+YAM	Sault Ste Marie	YAMA	Sault Ste Marie	CA	Canada
+YAP	Yap	YAPA	Yap	FM	Micronesia
+YAQ	Maple Bay	YAQA	Maple Bay	CA	Canada
+YAT	Attawapiskat	YATA	Attawapiskat	CA	Canada
+YAX	Angling Lake	YAXA	Angling Lake	CA	Canada
+YAY	St Anthony	YAYA	St Anthony	CA	Canada
+YBB	Kugaaruk	YBBA	Kugaaruk	CA	Canada
+YBC	Baie Comeau	YBCA	Baie Comeau	CA	Canada
+YBG	Bagotville	YBGA	Bagotville	CA	Canada
+YBH	Bull Harbour	YBHA	Bull Harbour	CA	Canada
+YBK	Baker Lake	YBKA	Baker Lake	CA	Canada
+YBL	Campbell River	YBLA	Campbell River	CA	Canada
+YBP	Yibin	CYBP	Yibin	CN	China
+YBR	Brandon	YBRA	Brandon	CA	Canada
+YBW	Bedwell Harbor	YBWA	Bedwell Harbor	CA	Canada
+YBX	Blanc Sablon	YBXA	Blanc Sablon	CA	Canada
+YCB	Cambridge Bay	YCBA	Cambridge Bay	CA	Canada
+YCD	Nanaimo	YCDA	Nanaimo	CA	Canada
+YCG	Castlegar	YCGA	Castlegar	CA	Canada
+YCK	Colville Lake	COLV	Colville Lake	CA	Canada
+YCL	Charlo	YCLA	Charlo	CA	Canada
+YCO	Kugluktuk	YCOA	Kugluktuk	CA	Canada
+YCS	Chesterfield Inlet	YCSA	Chesterfield Inlet	CA	Canada
+YCU	Yun Cheng	YCUA	Yun Cheng	CN	China
+YCY	Clyde River	YCYA	Clyde River	CA	Canada
+YDA	Dawson City	YDAA	Dawson City	CA	Canada
+YDF	Deer Lake	YDFA	Deer Lake	CA	Canada
+YDP	Nain	YDPA	Nain	CA	Canada
+YDQ	Dawson Creek	YDQA	Dawson Creek	CA	Canada
+YEG	Edmonton International	YEAA	Edmonton	CA	Canada
+YEI	Bursa	YEIA	Bursa	TR	Turkey
+YEK	Arviat	YEKA	Arviat	CA	Canada
+YER	Fort Severn	YERA	Fort Severn	CA	Canada
+YES	Yasouj	YESA	Yasouj	IR	Iran
+YEV	Inuvik / Mike Zubko	YEVA	Inuvik	CA	Canada
+YFA	Fort Albany	YFAA	Fort Albany	CA	Canada
+YFB	Iqaluit	YFBA	Iqaluit	CA	Canada
+YFC	Fredericton	YFCA	Fredericton	CA	Canada
+YFH	Fort Hope	YFHA	Fort Hope	CA	Canada
+YFJ	Snare Lake	YFJA	Snare Lake	CA	Canada
+YFO	Flin Flon	YFOA	Flin Flon	CA	Canada
+YFS	Fort Simpson	YFSA	Fort Simpson	CA	Canada
+YGG	Ganges Harbor	YGGA	Ganges Harbor	CA	Canada
+YGH	Fort Good Hope	YGHA	Fort Good Hope	CA	Canada
+YGJ	Yonago	JYGJ	Yonago	JP	Japan
+YGK	Kingston	YGKA	Kingston	CA	Canada
+YGL	La Grande	YGLA	La Grande	CA	Canada
+YGP	Gaspe	YGPA	Gaspe	CA	Canada
+YGQ	Geraldton	YGQA	Geraldton	CA	Canada
+YGR	Iles De La Madeleine	YGRA	Iles De La Madeleine	CA	Canada
+YGT	Igloolik	YGTA	Igloolik	CA	Canada
+YGV	Havre St Pierre	YGVA	Havre St Pierre	CA	Canada
+YGW	Kuujjuarapik	YGWA	Kuujjuarapik	CA	Canada
+YGX	Gillam	YGXA	Gillam	CA	Canada
+YGZ	Grise Fiord	YGZA	Grise Fiord	CA	Canada
+YHD	Dryden	YHDA	Dryden	CA	Canada
+YHI	Ulukhaktok / Holman	YHIA	Ulukhaktok	CA	Canada
+YHK	Gjoa Haven	YHKA	Gjoa Haven	CA	Canada
+YHM	Hamilton	YHMA	Hamilton	CA	Canada
+YHO	Hopedale	YHOA	Hopedale	CA	Canada
+YHP	Poplar Hill	YHPA	Poplar Hill	CA	Canada
+YHR	Chevery	YHRA	Chevery	CA	Canada
+YHS	Sechelt	YHSA	Sechelt	CA	Canada
+YHU	Montreal St Hubert	YMQA	Montreal	CA	Canada
+YHY	Hay River	CYHY	Hay River	CA	Canada
+YHZ	Halifax International	YHZA	Halifax	CA	Canada
+YIE	Arxan Airport	ARXN	Arxan	CN	China
+YIF	Pakuashipi	YIFA	Pakuashipi	CA	Canada
+YIH	Yichang	CYIH	Yichang	CN	China
+YIK	Ivujivik	YIKA	Ivujivik	CA	Canada
+YIN	Yining	CYIN	Yining	CN	China
+YIO	Pond Inlet	YIOA	Pond Inlet	CA	Canada
+YIP	Detroit Willow Run	DTTA	Detroit	US	United States
+YIW	Yiwu	CYIW	Yiwu	CN	China
+YJT	Stephenville	YJTA	Stephenville	CA	Canada
+YKA	Kamloops	YKAA	Kamloops	CA	Canada
+YKF	Kitchener / Waterloo	YKFA	Kitchener / Waterloo	CA	Canada
+YKG	Kangirsuk	YKGA	Kangirsuk	CA	Canada
+YKL	Schefferville	YKLA	Schefferville	CA	Canada
+YKM	Yakima Air Terminal	YKMA	Yakima	US	United States
+YKQ	Waskaganish	YKQA	Waskaganish	CA	Canada
+YKS	Yakutsk	YAKU	Yakutsk	RU	Russia
+YKT	Klemtu	YKTA	Klemtu	CA	Canada
+YKU	Chisasibi	YKUA	Chisasibi	CA	Canada
+YLC	Kimmirut / Lake Harbour	YLCA	Kimmirut / Lake Harbour	CA	Canada
+YLE	Wha Ti / Lac La Martre	YLEA	Wha Ti / Lac La Martre	CA	Canada
+YLH	Lansdowne House	YLHA	Lansdowne House	CA	Canada
+YLL	Lloydminster	YLLA	Lloydminster	CA	Canada
+YLW	Kelowna	YLWA	Kelowna	CA	Canada
+YMK	Mys Kamennyy	MYSK	Mys Kamennyy	RU	Russia
+YMM	Fort Mcmurray	YMMA	Fort Mcmurray	CA	Canada
+YMN	Makkovik	YMNA	Makkovik	CA	Canada
+YMO	Moosonee	YMOA	Moosonee	CA	Canada
+YMT	Chibougamau	YMTA	Chibougamau	CA	Canada
+YNA	Natashquan	YNAA	Natashquan	CA	Canada
+YNB	Yanbu	YNBA	Yanbu	SA	Saudi Arabia
+YNC	Wemindji	YNCA	Wemindji	CA	Canada
+YNG	Youngstown	YNGA	Youngstown	US	United States
+YNJ	Yanji	CYNJ	Yanji	CN	China
+YNO	North Spirit Lake	YNOA	North Spirit Lake	CA	Canada
+YNP	Natuashish	YNPA	Natuashish	CA	Canada
+YNS	Nemiscau	YNSA	Nemiscau	CA	Canada
+YNT	Yantai	CYNT	Yantai	CN	China
+YNY	Yangyang	YNYA	Yangyang	KR	South Korea
+YNZ	Yancheng	CYNZ	Yancheng	CN	China
+YOC	Old Crow	YOCA	Old Crow	CA	Canada
+YOG	Ogoki	YOGA	Ogoki	CA	Canada
+YOJ	High Level	YOJA	High Level	CA	Canada
+YOL	Yola	YOLA	Yola	NG	Nigeria
+YON	Trashigang	YONA	Trashigang	BT	Bhutan
+YOP	Rainbow Lake	YOPA	Rainbow Lake	CA	Canada
+YOW	Ottawa International	YOWA	Ottawa	CA	Canada
+YPA	Prince Albert	YPAA	Prince Albert	CA	Canada
+YPC	Paulatuk	YPCA	Paulatuk	CA	Canada
+YPH	Inukjuak	YPHA	Inukjuak	CA	Canada
+YPJ	Aupaluk	YPJA	Aupaluk	CA	Canada
+YPL	Pickle Lake	YPLA	Pickle Lake	CA	Canada
+YPM	Pikangikum	YPMA	Pikangikum	CA	Canada
+YPN	Port Menier	YPNA	Port Menier	CA	Canada
+YPO	Peawanuck	YPOA	Peawanuck	CA	Canada
+YPR	Prince Rupert Digby Island	YPRA	Prince Rupert	CA	Canada
+YPW	Powell River	YPWA	Powell River	CA	Canada
+YPX	Povungnituk	YPXA	Povungnituk	CA	Canada
+YPY	Fort Chipewyan	YPYA	Fort Chipewyan	CA	Canada
+YQB	Quebec	YQBA	Quebec	CA	Canada
+YQC	Quaqtaq	YQCA	Quaqtaq	CA	Canada
+YQD	The Pas	YQDA	The Pas	CA	Canada
+YQF	Red Deer	YQFA	Red Deer	CA	Canada
+YQG	Windsor	YQGA	Windsor	CA	Canada
+YQK	Kenora	YQKA	Kenora	CA	Canada
+YQL	Lethbridge	YQLA	Lethbridge	CA	Canada
+YQM	Moncton	MONB	Moncton	CA	Canada
+YQQ	Comox	YQQA	Comox	CA	Canada
+YQR	Regina	YQRA	Regina	CA	Canada
+YQT	Thunder Bay	YQTA	Thunder Bay	CA	Canada
+YQU	Grande Prairie	YQUA	Grande Prairie	CA	Canada
+YQX	Gander	YQXA	Gander	CA	Canada
+YQY	Sydney	YQYA	Sydney	CA	Canada
+YQZ	Quesnel	YQZA	Quesnel	CA	Canada
+YRA	Gameti (Rae Lakes)	YRAA	Gameti	CA	Canada
+YRB	Resolute	YRBA	Resolute	CA	Canada
+YRG	Rigolet	YRGA	Rigolet	CA	Canada
+YRJ	Roberval	YRJA	Roberval	CA	Canada
+YRL	Red Lake	YRLA	Red Lake	CA	Canada
+YRT	Rankin Inlet	YRTA	Rankin Inlet	CA	Canada
+YSB	Sudbury	YSBA	Sudbury	CA	Canada
+YSG	Lutselke / Snowdrift	YSGA	Lutselke / Snowdrift	CA	Canada
+YSJ	Saint John	YSJA	Saint John	CA	Canada
+YSK	Sanikiluaq	YSKA	Sanikiluaq	CA	Canada
+YSM	Fort Smith	YSMA	Fort Smith	CA	Canada
+YSO	Postville	YSOA	Postville	CA	Canada
+YSY	Sachs Harbour	YSYA	Sachs Harbour	CA	Canada
+YTE	Cape Dorset	YTEA	Cape Dorset	CA	Canada
+YTF	Alma	YTFA	Alma	CA	Canada
+YTH	Thompson	YTHA	Thompson	CA	Canada
+YTL	Big Trout	YTLA	Big Trout	CA	Canada
+YTM	Mont Tremblant	YTMA	Mont Tremblant	CA	Canada
+YTO	Guildwood	XLQA	Guildwood	CA	Canada
+YTQ	Tasiujuaq	YTQA	Tasiujuaq	CA	Canada
+YTS	Timmins	YTSA	Timmins	CA	Canada
+YTY	Yangzhou Taizhou Airport	YANG	Yangzhou	CN	China
+YTZ	Toronto Island	YTOA	Toronto	CA	Canada
+YUB	Tuktoyaktuk	YUBA	Tuktoyaktuk	CA	Canada
+YUD	Umiujaq	YUDA	Umiujaq	CA	Canada
+YUL	Montreal Pierre Elliott Trudeau	YMQA	Montreal	CA	Canada
+YUM	Yuma International	YUMA	Yuma	US	United States
+YUS	Ba Tong	BTON	Ba Tong	CN	China
+YUT	Repulse Bay	YUTA	Repulse Bay	CA	Canada
+YUX	Hall Beach	YUXA	Hall Beach	CA	Canada
+YUY	Rouyn	YUYA	Rouyn	CA	Canada
+YVA	Moroni Iconi	YVAA	Moroni	KM	Comoros
+YVB	Bonaventure	YVBA	Bonaventure	CA	Canada
+YVM	Qikiqtarjuaq	YVMA	Qikiqtarjuaq	CA	Canada
+YVO	Val D'Or	YVOA	Val D'Or	CA	Canada
+YVP	Kuujjuaq	YVPA	Kuujjuaq	CA	Canada
+YVQ	Norman Wells	YVQA	Norman Wells	CA	Canada
+YVR	Vancouver International	YVRA	Vancouver	CA	Canada
+YVZ	Deer Lake	YVZA	Deer Lake	CA	Canada
+YWB	Kangiqsujuaq	YWBA	Kangiqsujuaq	CA	Canada
+YWG	Winnipeg	WINB	Winnipeg	CA	Canada
+YWH	Victoria Inner Harbor	YYJA	Victoria	CA	Canada
+YWJ	Deline	YWJA	Deline	CA	Canada
+YWK	Wabush	YWKA	Wabush	CA	Canada
+YWL	Williams Lake	YWLA	Williams Lake	CA	Canada
+YWP	Webequie	YWPA	Webequie	CA	Canada
+YWS	Whistler	YWSA	Whistler	CA	Canada
+YXC	Cranbrook	YXCA	Cranbrook	CA	Canada
+YXE	Saskatoon	YXEA	Saskatoon	CA	Canada
+YXH	Medicine Hat	YXHA	Medicine Hat	CA	Canada
+YXJ	Fort St John	YXJA	Fort St John	CA	Canada
+YXL	Sioux Lookout	YXLA	Sioux Lookout	CA	Canada
+YXN	Whale Cove	YXNA	Whale Cove	CA	Canada
+YXP	Pangnirtung	YXPA	Pangnirtung	CA	Canada
+YXS	Prince George	YXSA	Prince George	CA	Canada
+YXT	Terrace	YXTA	Terrace	CA	Canada
+YXU	London	YXUS	London	CA	Canada
+YXX	Abbotsford	YXXA	Abbotsford	CA	Canada
+YXY	Whitehorse	YXYA	Whitehorse	CA	Canada
+YYB	North Bay	YYBA	North Bay	CA	Canada
+YYC	Calgary	YYCA	Calgary	CA	Canada
+YYD	Smithers	YYDA	Smithers	CA	Canada
+YYE	Fort Nelson	YYEA	Fort Nelson	CA	Canada
+YYF	Penticton	YYFA	Penticton	CA	Canada
+YYG	Charlottetown	YYGA	Charlottetown	CA	Canada
+YYH	Taloyoak	YYHA	Taloyoak	CA	Canada
+YYJ	Victoria International	YYJA	Victoria	CA	Canada
+YYQ	Churchill	YYQA	Churchill	CA	Canada
+YYR	Goose Bay	YYRA	Goose Bay	CA	Canada
+YYT	St John's	YYTA	St John's	CA	Canada
+YYU	Kapuskasing	YYUA	Kapuskasing	CA	Canada
+YYV	Milanau	MILU	Milanau	ID	Indonesia
+YYY	Mont Joli	YYYA	Mont Joli	CA	Canada
+YYZ	Toronto Pearson International	YTOA	Toronto	CA	Canada
+YZF	Yellowknife	YELB	Yellowknife	CA	Canada
+YZG	Salluit	YSWA	Salluit	CA	Canada
+YZP	Sandspit	YZPA	Sandspit	CA	Canada
+YZR	Sarnia	SARN	Sarnia	CA	Canada
+YZS	Coral Harbour	YZSA	Coral Harbour	CA	Canada
+YZT	Port Hardy	YZTA	Port Hardy	CA	Canada
+YZV	Sept-Iles	YZVA	Sept-Iles	CA	Canada
+YZZ	Trail	YZZA	Trail	CA	Canada
+ZAD	Zadar	ZADA	Zadar	HR	Croatia
+ZAG	Zagreb	ZAGR	Zagreb	HR	Croatia
+ZAH	Zahedan	ZAHA	Zahedan	IR	Iran
+ZAJ	Zaranj	ZAJA	Zaranj	AF	Afghanistan
+ZAL	Valdivia	ZALA	Valdivia	CL	Chile
+ZAM	Zamboanga International	PZAM	Zamboanga	PH	Philippines
+ZAT	Zhaotong	CZAT	Zhaotong	CN	China
+ZAZ	Zaragoza	ZARA	Zaragoza	ES	Spain
+ZBF	Bathurst	ZBFA	Bathurst	CA	Canada
+ZBL	Biloela	ZBLA	Biloela	AU	Australia
+ZBR	Chah-Bahar	ZBRA	Chah-Bahar	IR	Iran
+ZCL	Zacatecas	ZCLA	Zacatecas	MX	Mexico
+ZCO	Temuco	ZCOA	Temuco	CL	Chile
+ZEL	Bella Bella	ZELA	Bella Bella	CA	Canada
+ZEM	Eastmain River	ZEMA	Eastmain	CA	Canada
+ZFM	Fort McPherson	ZFMA	Fort McPherson	CA	Canada
+ZFN	Tulita / Fort Norman	ZFNA	Tulita / Fort Norman	CA	Canada
+ZGS	Gethsemani	ZGSA	Gethsemani	CA	Canada
+ZGU	Gaua	ZGUA	Gaua	VU	Vanuatu
+ZHA	Zhanjiang	CZHA	Zhanjiang	CN	China
+ZHY	Zhongwei	ZHON	Zhongwei	CN	China
+ZIG	Ziguinchor	ZIGA	Ziguinchor	SN	Senegal
+ZIH	Ixtapa / Zihuatanejo	ZIHA	Ixtapa / Zihuatanejo	MX	Mexico
+ZIX	Zhigansk	ZIXC	Zhigansk	RU	Russia
+ZKE	Kashechewan	ZKEA	Kashechewan	CA	Canada
+ZKG	Kegashka	ZKGA	Kegashka	CA	Canada
+ZKP	Zyryanka Airport	ZKPC	Zyryanka	RU	Russia
+ZLO	Manzanillo	ZLOA	Manzanillo	MX	Mexico
+ZLT	La Tabatiere	ZLTA	La Tabatiere	CA	Canada
+ZMT	Masset	ZMTA	Masset	CA	Canada
+ZNA	Nanaimo Harbour	YCDA	Nanaimo	CA	Canada
+ZNE	Newman	ZNEA	Newman	AU	Australia
+ZNZ	Zanzibar	ZNZA	Zanzibar	TZ	Tanzania
+ZOS	Osorno	ZOSA	Osorno	CL	Chile
+ZPB	Sachigo Lake	ZPBA	Sachigo Lake	CA	Canada
+ZQN	Queenstown	ZQNN	Queenstown	NZ	New Zealand
+ZQW	Zweibrücken	SAAR	Saarbruecken	DE	Germany
+ZQZ	Zhangjiakou	ZHAN	Zhangjiakou	CN	China
+ZRH	Zurich	ZURI	Zurich	CH	Switzerland
+ZRI	Sudjarwo Tjondronegoro	ZRII	Serui	ID	Indonesia
+ZRJ	Round Lake	ZRJA	Round Lake	CA	Canada
+ZSA	San Salvador	ZSAA	San Salvador	BS	Bahamas
+ZSE	Saint-Pierre	ZSEB	Saint-Pierre	RE	Reunion
+ZSJ	Sandy Lake	ZSJA	Sandy Lake	CA	Canada
+ZTA	Tureia	ZTAA	Tureia	PF	French Polynesia
+ZTB	Tete-a-La-Baleine	ZTBA	Tete-a-La-Baleine	CA	Canada
+ZTH	Zante (Zakynthos)	ZAKI	Zante (Zakynthos)	GR	Greece
+ZUH	Zhuhai	CZUH	Zhuhai	CN	China
+ZUM	Churchill Falls	ZUMA	Churchill Falls	CA	Canada
+ZVK	Savannakhet	ZVKA	Savannakhet	LA	Laos
+ZYI	Zunyi	CZYI	Zunyi	CN	China
+ZYL	Sylhet	ZYLA	Sylhet	BD	Bangladesh
