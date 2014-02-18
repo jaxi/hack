@@ -5,8 +5,8 @@
   .form_group
       br
       .btn-group
-        = link_to "/pages/add_airport_form", class: "btn btn-primary", remote: true, method: :post do
+        = link_to add_airport_form_pages_path, class: "btn btn-primary", remote: true, method: :post do
           i.fa.fa-plus-square.fa-1
       .btn-group
-        = link_to "/pages/remove_airport_form", class: "btn btn-warning",remote: true, method: :post do
+        = link_to remove_airport_form_pages_path, class: "btn btn-warning",remote: true, method: :post do
                 i.fa.fa-minus-square.fa-1

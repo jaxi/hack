@@ -1,5 +1,11 @@
 class PagesController < ApplicationController
+
+  before_action :can_visit?, except: :welcome
+
   def index
+  end
+
+  def welcome
   end
 
   def add_airport_form

@@ -3,6 +3,7 @@ Hack::Application.routes.draw do
 
   resources :pages, only: [:index] do
     collection do
+      get :welcome, as: 'welcome'
       post :add_airport_form
       post :remove_airport_form
     end
