@@ -66,5 +66,8 @@ gem 'unicorn'
 # Use Capistrano for deployment
 gem 'capistrano', '2.15.5', group: :development
 
+# Geocode!
+gem 'geocoder'
+
 # Use debugger
 # gem 'debugger', group: [:development, :test]

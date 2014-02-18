@@ -25,4 +25,7 @@ class Airport < ActiveRecord::Base
   def prettify
     "#{airport_name} Airport, #{city_name}, #{country_name}"
   end
+
+  geocoded_by :prettify
+  after_validation :geocode
 end
