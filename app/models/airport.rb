@@ -19,6 +19,10 @@ class Airport < ActiveRecord::Base
 
 
   def self.autocomplete(query, limit: 10)
-    self.search(query, autocomplete: true, limit: limit)
+    self.search(query, autocomplete: true, limit: limit).map(&:prettify)
+  end
+
+  def prettify
+    "#{airport_name} Airport, #{city_name}, #{country_name}"
   end
 end
