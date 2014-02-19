@@ -25,7 +25,12 @@ class Airport < ActiveRecord::Base
   end
 
   def prettify
-    "#{airport_name} Airport, #{city_name}, #{country_name}"
+    "#{airport_name}, #{city_name}, #{country_name}"
+  end
+
+  def self.find_by_full(query)
+    airport = query.split(", ").first
+    self.where(airport_name: airport).first
   end
 
   geocoded_by :prettify

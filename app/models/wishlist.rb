@@ -18,6 +18,13 @@ class Wishlist < ActiveRecord::Base
     end
   end
 
+  def self.save_with_cities(cities)
+    city_ids = cities.map do |city|
+      Airport.find_by_full(city).id
+    end
+    self.create cities: city_ids
+  end
+
   before_save do |list|
     unless list.cities
       list.cities = []
