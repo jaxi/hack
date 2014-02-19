@@ -33,6 +33,15 @@ class Airport < ActiveRecord::Base
     self.where(airport_name: airport).first
   end
 
+  def self.find_city_id(city)
+    where(city_name: city).first.city_id
+  end
+
+  def self.find_city_id_by_query(query)
+    city_name = query.split(", ").second
+    self.find_city_id city_name
+  end
+
   geocoded_by :prettify
   after_validation :geocode
 end
