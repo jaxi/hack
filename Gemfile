@@ -20,6 +20,10 @@ gem 'therubyracer', platforms: :ruby
 
 gem "slim-rails"
 
+# Brace yourself
+gem "rest-client"
+gem "sidekiq"
+
 # twitter bootstrap css & javascript toolkit
 gem 'twitter-bootswatch-rails', '~> 3.1.0'
 
