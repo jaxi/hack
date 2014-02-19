@@ -20,11 +20,11 @@ html(lang="en")
           | Sky Omakase
         #navbar-main.navbar-collapse.collapse
           ul.nav.navbar-nav
-            li
-              = link_to "Our Story", "http://jaxihjk.me"
             - if current_user
               li
                 = link_to "My Wishlist", wishlists_path
+            li
+              = link_to "Our Story", "http://jaxihjk.me"
           = render 'layouts/sign_bar'
     .container
       #banner.page-header
