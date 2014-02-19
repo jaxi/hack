@@ -24,6 +24,6 @@ Hack::Application.routes.draw do
     end
   end
 
-  resources :wishlists, only: :create do
+  resources :wishlists, only: [:create, :index] do
   end
 end
