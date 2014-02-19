@@ -22,6 +22,7 @@ class Wishlist < ActiveRecord::Base
     city_ids = cities.map do |city|
       Airport.find_by_full(city).id
     end
+
     self.create cities: city_ids
   end
 

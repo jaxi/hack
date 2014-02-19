@@ -5,6 +5,8 @@ $(function(){
     var form = $(this).closest('form');
     var queries = $.map( form.find('.search-query'), function( query, index ) {
       return $(query).val();
+    }).filter(function(q){
+      return q != ""
     });
     $.post("/wishlists", { cities: queries }, function(data, event, error){
       console.log(data.wishlist);
