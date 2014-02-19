@@ -9,8 +9,16 @@
 
     .input-group.input-group-lg.date
       span.input-group-addon
-        i.glyphicon.glyphicon-th
+        a.fa.fa-calendar
       = text_field_tag :start_at, params[:start_at], class: "form-control", placeholder: "When do you start your trip?"
+      .input-group-btn
+        = link_to "Clear", "#", class: "clear-text btn btn-warning"
+    br
+
+    .input-group.input-group-lg
+      span.input-group-addon
+        a.fa.fa-gbp
+      = text_field_tag :budget, params[:budget], class: "form-control", placeholder: "That's fine if your budget is tight."
       .input-group-btn
         = link_to "Clear", "#", class: "clear-text btn btn-warning"
     br

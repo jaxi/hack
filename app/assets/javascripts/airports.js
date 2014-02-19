@@ -19,11 +19,13 @@ $(function(){
 
     var name = form.find('#name').val();
     var start_at = form.find('#start_at').val();
+    var budget = form.find('#budget').val();
 
     $.post("/wishlists", {
       cities: queries,
       name: name,
-      start_at: start_at
+      start_at: start_at,
+      budget: budget
     });
   });
 
