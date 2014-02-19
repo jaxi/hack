@@ -40,8 +40,8 @@ class Wishlist < ActiveRecord::Base
     list.state = false
 
     # save the date
-    list.start_at ||= Date.today
-    list.end_at ||= Date.today
+    list.start_at ||= Date.today + 5.day
+    list.end_at ||= Date.today + 5.day
 
     # city list init, so dirty
     unless list.cities
