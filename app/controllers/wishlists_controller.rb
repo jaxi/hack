@@ -16,7 +16,8 @@ class WishlistsController < ApplicationController
       w.update_attributes user: current_user, name: (params[:name] || "Awesome wish!")
     }
 
-    #@TODO add the backend job slave here
+    # Here you are
+    BestRoutesWorker.perform_async @wishlist.id if @wishlist
 
     respond_to do |format|
       format.js

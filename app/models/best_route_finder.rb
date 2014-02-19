@@ -2,9 +2,9 @@ class BestRouteFinder
   attr_reader :wishlist
   attr_accessor :given_routes, :given_plans, :budget, :start_at, :cities
 
-  def initialize(wishlist, budget)
+  def initialize(wishlist)
     @wishlist = wishlist
-    @budget = budget
+    @budget = wishlist.budget
 
     first, *@cities = wishlist.cities.map do |city|
       Airport.find_by(id: city)
@@ -19,7 +19,7 @@ class BestRouteFinder
   def work
     while cheapest_route; next; end
     {
-      given_routes: given_routes,
+      given_routes: given_routes.map(&:id),
       given_plans: given_plans
     }
   end
@@ -43,8 +43,16 @@ class BestRouteFinder
         next
       end
       next if response.length == 0
-      plan = response[0]
-      price = plan["MinPrice"].to_i
+
+      # Tricky part. Kinda bad designed API
+      if response.is_a? Array
+        plan = response[0]
+        price = plan["MinPrice"].to_f
+      else
+        plan = response
+        price = response["MinPrice"].to_f
+      end
+
       if budget - price >= 0 && price < min_price
         min_price = price
         chosen_city = city

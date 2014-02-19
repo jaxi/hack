@@ -14,6 +14,7 @@
 class Wishlist < ActiveRecord::Base
 
   store :settings, accessors: [:cities, :stays]
+  store :result, accessors: [:given_routes, :given_plans]
 
   belongs_to :user
 
@@ -31,8 +32,8 @@ class Wishlist < ActiveRecord::Base
     self.create cities: city_ids
   end
 
-  def state
-    @state ? "Got it!" : "Wait, wait! We are still working hard on this :)"
+  def prettify_state
+    state ? "Got it!" : "Wait, wait! We are still working hard on this :)"
   end
 
   before_save do |list|
@@ -56,5 +57,11 @@ class Wishlist < ActiveRecord::Base
     else
       list.stays = [0] * list.cities.length
     end
+
+    # init the budget, given_plan and given_routes. Well, I know it's too nasty though.
+    list.budget ||= 1000
+    list.given_routes ||= []
+    list.given_plans ||= []
+    list.state = true if list.given_routes.length > 0
   end
 end

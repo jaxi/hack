@@ -21,7 +21,6 @@ class Sky
     #@TODO need mining
     def cheapest_quotes(origin: "anywhere", destination: "anywhere", start_at: "anytime", end_at: "anytime")
       request_uri = "#{API_URL}browsequotes/v1.0/#{api_prefix}#{origin}/#{destination}/#{start_at}/#{end_at}?apiKey=#{SKY_API_KEY}"
-      puts request_uri
       response = RestClient.get request_uri
       Hash.from_xml(response)["BrowseQuotesResponseAPIDto"]["Quotes"]["QuoteDto"]
     end
