@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140218194927) do
+ActiveRecord::Schema.define(version: 20140219135828) do
 
   create_table "airports", force: true do |t|
     t.string   "airport_id"
@@ -41,6 +41,11 @@ ActiveRecord::Schema.define(version: 20140218194927) do
     t.text     "settings"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.integer  "user_id"
+    t.date     "start_at"
+    t.date     "end_at"
   end
+
+  add_index "wishlists", ["user_id"], name: "index_wishlists_on_user_id", using: :btree
 
 end

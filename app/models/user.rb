@@ -30,4 +30,6 @@ class User < ActiveRecord::Base
   def to_s
     name
   end
+
+  has_many :wishlists, dependent: :destroy
 end

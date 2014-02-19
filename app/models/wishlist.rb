@@ -6,11 +6,16 @@
 #  settings   :text
 #  created_at :datetime
 #  updated_at :datetime
+#  user_id    :integer
+#  start_at   :date
+#  end_at     :date
 #
 
 class Wishlist < ActiveRecord::Base
 
   store :settings, accessors: [:cities, :stays]
+
+  belongs_to :user
 
   def city_names
     cities.map do |city|
@@ -27,6 +32,11 @@ class Wishlist < ActiveRecord::Base
   end
 
   before_save do |list|
+    # save the date
+    list.start_at ||= Date.today
+    list.end_at ||= Date.today
+
+    # city list init, so dirty
     unless list.cities
       list.cities = []
       list.stays = []

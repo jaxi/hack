@@ -22,7 +22,7 @@ class Sky
     def cheapest_quotes(origin, destination, start_at: "anytime", end_at: "anytime")
       request_uri = "#{API_URL}browsequotes/v1.0/#{api_prefix}#{origin}/#{destination}/#{start_at}/#{end_at}?apiKey=#{SKY_API_KEY}"
       response = RestClient.get request_uri
-      Hash.from_xml(response)["BrowseQuotesResponseAPIDto"]["Quotes"]
+      Hash.from_xml(response)["BrowseQuotesResponseAPIDto"]["Quotes"]["QuoteDto"]
     end
 
     #@FIXME NSFW
