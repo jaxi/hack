@@ -11,8 +11,6 @@ html(lang="en")
       = javascript_include_tag "http://html5shim.googlecode.com/svn/trunk/html5.js"
     = stylesheet_link_tag "application", :media => "all"
     = yield(:page_stylesheet) if content_for?(:page_stylesheet)
-    = javascript_include_tag "application"
-    = yield(:page_javascript) if content_for?(:page_javascript)
 
   body
     .navbar.navbar-default.navbar-fixed-top
@@ -28,3 +26,7 @@ html(lang="en")
     .container
       #banner.page-header
         == yield
+
+    = javascript_include_tag "application"
+    = yield(:page_javascript) if content_for?(:page_javascript)
+    = yield :javascript

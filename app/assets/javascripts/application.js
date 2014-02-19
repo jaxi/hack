@@ -13,12 +13,15 @@
 //= require jquery
 //= require jquery-ui
 //= require jquery_ujs
+//= require underscore-min
 //= require lumen/loader
 //= require lumen/bootswatch
 //= require bootstrap3-typeahead
+//= require bootstrap-datepicker
 //= require pages
 //= require airports
 //= require base
+// =require current_location
 //= require mapper
 //= require map_bounds
 //= require map
