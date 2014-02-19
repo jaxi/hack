@@ -1,0 +1,29 @@
+<p>Wow</p>
+<div id="map" style="height: 400px;"></div>
+
+<script type="text/javascript"
+  src="//maps.googleapis.com/maps/api/js?sensor=false"></script>
+
+<script>
+  $(function() {
+    var mapper = new MapApp.Mapper('#map');
+
+    $('[data-latitude]').each(function(index, element) {
+      mapper.addCoordinates(
+        $(element).attr('data-latitude'),
+        $(element).attr('data-longitude')
+      );
+    });
+
+    mapper.render();
+  });
+
+  $(function() {
+    if (_.isEmpty($('#search_value').attr('placeholder'))) {
+      var currentLocation = new MapApp.CurrentLocation();
+      currentLocation.getLocation(function(location) {
+        $('#search_value').attr('placeholder', location);
+      })
+    }
+  });
+</script>

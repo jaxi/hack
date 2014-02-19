@@ -18,3 +18,7 @@
 //= require bootstrap3-typeahead
 //= require pages
 //= require airports
+//= require base
+//= require mapper
+//= require map_bounds
+//= require map
