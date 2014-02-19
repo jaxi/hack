@@ -22,7 +22,11 @@ gem "slim-rails"
 
 # Brace yourself
 gem "rest-client"
+gem 'sinatra', '>= 1.3.0', :require => nil
 gem "sidekiq"
+
+# Backend job automation
+gem "foreman"
 
 # twitter bootstrap css & javascript toolkit
 gem 'twitter-bootswatch-rails', '~> 3.1.0'

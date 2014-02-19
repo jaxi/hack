@@ -1,6 +1,14 @@
 Hack::Application.routes.draw do
   mount RailsAdmin::Engine => '/admin', :as => 'rails_admin'
 
+  # queue background web monitor
+  require 'sidekiq/web'
+  Sidekiq::Web.use Rack::Auth::Basic do |username, password|
+    username == ENV["ADMIN"] && password == ENV["ADMIN_PASSWORD"]
+  end
+
+  mount Sidekiq::Web => '/sidekiq'
+
   resources :pages, only: [:index] do
     collection do
       get :welcome, as: 'welcome'
