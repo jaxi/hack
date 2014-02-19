@@ -2,13 +2,18 @@ $(function(){
 
   $(".container").on('click', '.wishlist', function(e){
     e.preventDefault();
+    console.log("yes");
+
     var form = $(this).closest('form');
     var queries = $.map( form.find('.search-query'), function( query, index ) {
       return $(query).val();
     }).filter(function(q){
       return q != ""
     });
-    $.post("/wishlists", { cities: queries }, function(data, event, error){
+
+    var name = form.find('.wishlist-name').val();
+
+    $.post("/wishlists", { cities: queries, name: name}, function(data, event, error){
       console.log(data.wishlist);
     })
   });

@@ -31,7 +31,14 @@ class Wishlist < ActiveRecord::Base
     self.create cities: city_ids
   end
 
+  def state
+    @state ? "Got it!" : "Wait, wait! We are still working hard on this :)"
+  end
+
   before_save do |list|
+    # default is false
+    list.state = false
+
     # save the date
     list.start_at ||= Date.today
     list.end_at ||= Date.today

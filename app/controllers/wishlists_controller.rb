@@ -3,7 +3,7 @@ class WishlistsController < ApplicationController
   before_action :can_visit?
 
   def index
-    @wishlists = Wishlist.all
+    @wishlists = current_user.wishlists.all
   end
 
   def create
@@ -12,6 +12,12 @@ class WishlistsController < ApplicationController
     else
       nil
     end
+    @wishlist.try{ |w|
+      w.update_attributes user: current_user, name: (params[:name] || "Awesome wish!")
+    }
+
+    #@TODO add the backend job slave here
+
     render json: {success: true, wishlist: @wishlist}
   end
 end

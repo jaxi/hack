@@ -22,6 +22,9 @@ html(lang="en")
           ul.nav.navbar-nav
             li
               = link_to "Our Story", "http://jaxihjk.me"
+            - if current_user
+              li
+                = link_to "My Wishlist", wishlists_path
           = render 'layouts/sign_bar'
     .container
       #banner.page-header

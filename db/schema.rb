@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140219135828) do
+ActiveRecord::Schema.define(version: 20140219142644) do
 
   create_table "airports", force: true do |t|
     t.string   "airport_id"
@@ -44,6 +44,8 @@ ActiveRecord::Schema.define(version: 20140219135828) do
     t.integer  "user_id"
     t.date     "start_at"
     t.date     "end_at"
+    t.boolean  "state"
+    t.string   "name"
   end
 
   add_index "wishlists", ["user_id"], name: "index_wishlists_on_user_id", using: :btree

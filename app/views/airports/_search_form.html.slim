@@ -1,4 +1,12 @@
 = form_tag url_for, class: "form-inline form-horizontal", method: :get do
+
+  .form-group
+    .input-group.input-group-lg
+      = text_field_tag :query, params[:name], class: "form-control wishlist-name", autocomplete: "off", placeholder: "Give your trip an awesome name!"
+      .input-group-btn
+        = link_to "Hmmm", "#", class: "clear-text btn btn-warning"
+    br
+
   .search-form-group
     = render 'airports/location_input'
 
