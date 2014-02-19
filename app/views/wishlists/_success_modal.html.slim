@@ -1,0 +1,11 @@
+#successModal.modal.fade aria-hidden="true" aria-labelledby="successModalLabel" role="dialog" tabindex="-1"
+  .modal-dialog
+    .modal-content
+      .modal-header
+        button.close aria-hidden="true" data-dismiss="modal" type="button"
+        h4#successModalLabel.modal-title Thank you for being awesome!
+      .modal-body
+        p.lead
+          = "Currently we are working hard on your trip, #{@wishlist.name}. We are very willing to tell you how wonderful it is as fast as we can ;)"
+      .modal-footer
+        = link_to "What's other people's choice?", wishlists_path, class: "btn btn-primary"

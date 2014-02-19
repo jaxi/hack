@@ -18,6 +18,8 @@ class WishlistsController < ApplicationController
 
     #@TODO add the backend job slave here
 
-    render json: {success: true, wishlist: @wishlist}
+    respond_to do |format|
+      format.js
+    end
   end
 end

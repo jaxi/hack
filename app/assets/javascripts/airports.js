@@ -13,9 +13,7 @@ $(function(){
 
     var name = form.find('.wishlist-name').val();
 
-    $.post("/wishlists", { cities: queries, name: name}, function(data, event, error){
-      console.log(data.wishlist);
-    })
+    $.post("/wishlists", { cities: queries, name: name});
   });
 
   $(".search-form-group").sortable({
