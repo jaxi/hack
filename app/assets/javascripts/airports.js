@@ -1,8 +1,14 @@
 $(function(){
 
+  $('.container .input-group.date').datepicker({
+    startDate: $.datepicker.formatDate('yyyy-mm-dd', new Date()),
+    format: "yyyy-mm-dd",
+    autoclose: true,
+    todayHighlight: true
+  });
+
   $(".container").on('click', '.wishlist', function(e){
     e.preventDefault();
-    console.log("yes");
 
     var form = $(this).closest('form');
     var queries = $.map( form.find('.search-query'), function( query, index ) {
@@ -11,9 +17,14 @@ $(function(){
       return q != ""
     });
 
-    var name = form.find('.wishlist-name').val();
+    var name = form.find('#name').val();
+    var start_at = form.find('#start_at').val();
 
-    $.post("/wishlists", { cities: queries, name: name});
+    $.post("/wishlists", {
+      cities: queries,
+      name: name,
+      start_at: start_at
+    });
   });
 
   $(".search-form-group").sortable({
@@ -24,7 +35,7 @@ $(function(){
 
   $("a.clear-text").on('click', function(e){
     e.preventDefault();
-    $(this).closest('.input-group').find('#query').val('');
+    $(this).closest('.input-group').find('input').val('');
   });
 
   $(".search-query").typeahead({

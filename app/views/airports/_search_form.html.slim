@@ -2,9 +2,17 @@
 
   .form-group
     .input-group.input-group-lg
-      = text_field_tag :query, params[:name], class: "form-control wishlist-name", autocomplete: "off", placeholder: "Give your trip an awesome name!"
+      = text_field_tag :name, params[:name], class: "form-control", autocomplete: "off", placeholder: "Give your trip an awesome name!"
       .input-group-btn
         = link_to "Hmmm", "#", class: "clear-text btn btn-warning"
+    br
+
+    .input-group.input-group-lg.date
+      span.input-group-addon
+        i.glyphicon.glyphicon-th
+      = text_field_tag :start_at, params[:start_at], class: "form-control", placeholder: "When do you start your trip?"
+      .input-group-btn
+        = link_to "Clear", "#", class: "clear-text btn btn-warning"
     br
 
   .search-form-group

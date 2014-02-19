@@ -7,14 +7,14 @@ class WishlistsController < ApplicationController
   end
 
   def create
-    @wishlist = if params[:cities]
-      Wishlist.save_with_cities params[:cities]
-    else
-      nil
-    end
-    @wishlist.try{ |w|
-      w.update_attributes user: current_user, name: (params[:name] || "Awesome wish!")
-    }
+    return render json: {success: false} unless params[:cities]
+
+    @wishlist = Wishlist.save_with_cities params[:cities]
+    @wishlist.update_attributes(
+      user: current_user,
+      name: (params[:name] || "Awesome wish!"),
+      start_at: params[:start_at]
+      )
 
     # Here you are
     BestRoutesWorker.perform_async @wishlist.id if @wishlist

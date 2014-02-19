@@ -1,4 +1,8 @@
-$("<%= escape_javascript(render 'airports/location_input') %>").appendTo(".search-form-group");
+$("<%= escape_javascript(render 'airports/location_input') %>")
+  .hide()
+  .appendTo(".search-form-group")
+  .fadeIn(800);
+
 $(".search-query").typeahead({
   source: function(query, process){
     return $.get('/airports/autocomplete',
