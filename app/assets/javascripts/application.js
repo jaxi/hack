@@ -21,6 +21,7 @@
 //= require pages
 //= require airports
 //= require base
+//= require reverse_geocoder
 // =require current_location
 //= require mapper
 //= require map_bounds
