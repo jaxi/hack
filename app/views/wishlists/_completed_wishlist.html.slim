@@ -1,0 +1,36 @@
+.panel.panel-default
+  .panel-heading
+    h4.panel-title
+      = link_to "#wishlist#{wishlist.id}", "data-parent" => "#accordion", "data-toggle" => "collapse" do
+        = "#{wishlist.name} is ready for you!!!"
+        i.fa.fa-check-circle-o.pull-right
+  = content_tag :div, id: "wishlist#{wishlist.id}", class: "panel-collapse collapse" do
+    .panel-body
+      / - wishlist.given_plans.each do |plan|
+      /   ul
+      /     li.lead
+      /       = "From #{plan["Origin"]} to #{plan["Destination"]} via #{plan["Carrier"]} at #{plan["DepartureDate"]}, which takes you #{gbp(plan["MinPrice"])}!"
+      table.table.table-striped
+        thead
+          tr
+            th #
+            th Origin
+            th Destination
+            th Carrier
+            th Departure Date
+            th Price
+        tbody
+          - wishlist.given_plans.each_with_index do |plan, index|
+            tr
+              td
+                = index
+              td
+                = plan["Origin"]
+              td
+                = plan["Destination"]
+              td
+                = plan["Carrier"]
+              td
+                = plan["DepartureDate"]
+              td
+                = gbp(plan["MinPrice"])

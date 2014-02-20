@@ -42,6 +42,8 @@ class Wishlist < ActiveRecord::Base
   end
 
   before_save do |list|
+    list.name ||= "An Unamed Wish List"
+
     # default is false
     list.state = false
     list.sms_state ||= false

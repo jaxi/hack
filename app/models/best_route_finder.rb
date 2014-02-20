@@ -22,13 +22,13 @@ class BestRouteFinder
     @place_map = {}
   end
 
-  def work
+  def work!
     while cheapest_route; next; end
 
     # FUCK OFF! Skyscanner!!
     given_plans.each do |plan|
       if plan["OutboundLeg"].is_a? Hash
-        plan["carrier"] = airline_map[plan["OutboundLeg"]["CarrierIds"]["int"]]
+        plan["Carrier"] = airline_map[plan["OutboundLeg"]["CarrierIds"]["int"]]
         plan["OutboundLeg"].except! "CarrierIds"
         outbound = plan["OutboundLeg"].clone
         plan.except! "OutboundLeg"
@@ -38,7 +38,7 @@ class BestRouteFinder
         plan["Destination"] = place_map[plan["DestinationId"]]
         plan.except! "OriginId", "DestinationId"
       else
-        plan["carrier"] = airline_map[plan["InboundLeg"]["CarrierIds"]["int"]]
+        plan["Carrier"] = airline_map[plan["InboundLeg"]["CarrierIds"]["int"]]
         plan["InboundLeg"].except! "CarrierIds"
         inbound = plan["InboundLeg"].clone
         plan.merge! inbound
@@ -50,11 +50,10 @@ class BestRouteFinder
       end
     end
 
-    puts @budget
-    {
+    wishlist.update_attributes(
       given_routes: given_routes.map(&:id),
       given_plans: given_plans
-    }
+      )
   end
 
   private

@@ -7,7 +7,6 @@ class BestRoutesWorker
 
     return if wishlist.state # Stop meaningless work
 
-    result = BestRouteFinder.new(wishlist).work
-    wishlist.update_attributes result
+    result = BestRouteFinder.new(wishlist).work!
   end
 end

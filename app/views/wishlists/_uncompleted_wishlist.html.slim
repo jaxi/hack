@@ -1,0 +1,9 @@
+.panel.panel-default
+  .panel-heading
+    h4.panel-title
+      = link_to "#wishlist#{wishlist.id}", "data-parent" => "#accordion", "data-toggle" => "collapse" do
+        = "We are still working hard on #{wishlist.name} ;)"
+        i.fa.fa-cog.fa-spin.pull-right
+  = content_tag :div, id: "wishlist#{wishlist.id}", class: "panel-collapse collapse" do
+    .panel-body
+      | Wait wait wait...

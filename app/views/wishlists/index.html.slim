@@ -1,10 +1,6 @@
-- @wishlists.each do |wish|
-  ul
-    p.lead
-      = wish.name
-    p.lead
-      = wish.prettify_state
-    - wish.city_names.each do |city|
-      li.lead
-        = city
-  hr
+#accordion.panel-group.wishlists
+  - @wishlists.each do |wish|
+    - if wish.state
+      = render :partial => "wishlists/completed_wishlist", :locals => { :wishlist => wish }
+    - else
+      = render :partial => "wishlists/uncompleted_wishlist", :locals => { :wishlist => wish }
