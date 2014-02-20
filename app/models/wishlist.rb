@@ -42,7 +42,7 @@ class Wishlist < ActiveRecord::Base
   end
 
   before_save do |list|
-    list.name ||= "An Unamed Wish List"
+    list.name = "An Unamed Wish List" unless list.name.nil?
 
     # default is false
     list.state = false
