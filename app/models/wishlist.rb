@@ -42,7 +42,9 @@ class Wishlist < ActiveRecord::Base
   end
 
   before_save do |list|
-    list.name = "An Unamed Wish List" if list.name == ""
+
+    list.token = SecureRandom.uuid.delete('-') unless list.token
+    list.name = "An Unamed Wish List" if list.name == "" || list.name == nil
 
     # default is false
     list.state = false

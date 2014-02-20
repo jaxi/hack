@@ -42,4 +42,6 @@ Hack::Application.routes.draw do
       post :polling_charge
     end
   end
+
+  get "/ical/:token", to: "wishlists#ical"
 end

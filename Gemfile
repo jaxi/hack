@@ -77,5 +77,7 @@ gem 'capistrano', '2.15.5', group: :development
 # Geocode!
 gem 'geocoder'
 
+gem 'icalendar'
+
 # Use debugger
 # gem 'debugger', group: [:development, :test]

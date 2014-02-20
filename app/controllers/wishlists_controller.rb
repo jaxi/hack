@@ -1,6 +1,6 @@
 class WishlistsController < ApplicationController
 
-  before_action :can_visit?
+  before_action :can_visit?, except: [:ical]
 
   def index
     @wishlists = current_user.wishlists.all
@@ -45,5 +45,12 @@ class WishlistsController < ApplicationController
     end
 
     render json: result
+  end
+
+  def ical
+    wishlist = Wishlist.find_by(token: params[:token])
+    return render json: "No such calendar" unless wishlist
+    ical = Ical.new wishlist
+    render text: ical.generate!, content_type: 'text/calendar'
   end
 end
