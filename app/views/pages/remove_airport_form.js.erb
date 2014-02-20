@@ -1,3 +1,15 @@
 $('.location-input').last().fadeOut(400, function(){
   $(this).remove();
-})
+
+  var mapper = new MapApp.Mapper('#map');
+
+  $('.search-query').each(function(index, element) {
+    mapper.addCoordinates(
+      $(element).data('latitude'),
+      $(element).data('longitude')
+    );
+  });
+
+  mapper.render();
+});
+

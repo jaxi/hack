@@ -65,7 +65,7 @@ $(function(){
           $(element).data('longitude')
         );
       });
-      // console.log("yes");
+
       mapper.render();
     });
   });
