@@ -1,1 +1,1 @@
-best_routes: bundle exec sidekiq -q best_routes
+best_routes: bundle exec sidekiq -q best_routes -e production
