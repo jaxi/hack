@@ -23,4 +23,13 @@ class WishlistsController < ApplicationController
       format.js
     end
   end
+
+  def update_sms_state
+    @wishlist = Wishlist.find_by_id params[:id]
+    @wishlist.update_attributes sms_state: true
+
+    respond_to do |format|
+      format.js
+    end
+  end
 end

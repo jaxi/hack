@@ -8,4 +8,5 @@
         p.lead
           = "Currently we are working hard on your trip, #{@wishlist.name}. We are very willing to tell you how wonderful it is as fast as we can ;)"
       .modal-footer
+        = link_to "Text me about that!", update_sms_state_wishlist_path(@wishlist), remote: true, method: :put, class: "btn btn-success", id: "text-me"
         = link_to "What's other people's choice?", wishlists_path, class: "btn btn-primary"
