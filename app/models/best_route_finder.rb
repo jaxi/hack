@@ -1,10 +1,13 @@
 class BestRouteFinder
-  attr_reader :wishlist
-  attr_accessor :given_routes, :given_plans, :budget, :start_at, :cities
+  attr_reader :wishlist, :city_indexes
+
+  attr_accessor :given_routes, :given_plans,
+    :budget, :start_at, :cities
 
   def initialize(wishlist)
     @wishlist = wishlist
     @budget = wishlist.budget
+    @city_indexes = wishlist.cities
 
     first, *@cities = wishlist.cities.map do |city|
       Airport.find_by(id: city)
@@ -29,7 +32,8 @@ class BestRouteFinder
     start_point = given_routes.last
     chosen_city = nil
     chosen_plan = nil
-    min_price = 1000000
+    best_price = nil
+    best_value = -1
 
     cities.each do |city|
       begin
@@ -53,21 +57,26 @@ class BestRouteFinder
         price = response["MinPrice"].to_f
       end
 
-      if budget - price >= 0 && price < min_price
-        min_price = price
+      if budget - price >= 0 &&
+        (best_price == nil ||
+          price * city_indexes.index(city.id) > best_value)
+
+        best_value = price * city_indexes.index(city.id)
+        best_price = price
         chosen_city = city
         chosen_plan = plan
       end
     end
 
-    if chosen_city && chosen_plan && min_price
-      # ```budget -= min_price``` doesn't work. I don't know why.
-      @budget = budget - min_price
+    if chosen_city && chosen_plan && best_price
+      # ```budget -= best_price``` doesn't work. I don't know why.
+      @budget = budget - best_price
       given_routes << chosen_city
       given_plans << chosen_plan
       cities.delete chosen_city
-      # same with this, as described above
-      @start_at += wishlist.stays[(wishlist.cities.index chosen_city.id)]
+
+      # same issue, as described above
+      @start_at += wishlist.stays[(city_indexes.index chosen_city.id)]
       return true
     else
       return false
