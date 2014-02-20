@@ -43,5 +43,5 @@ Hack::Application.routes.draw do
     end
   end
 
-  get "/ical/:token", to: "wishlists#ical"
+  get "/ical/:token", to: "wishlists#ical", as: :ical
 end

@@ -34,3 +34,5 @@
                 = plan["DepartureDate"]
               td
                 = gbp(plan["MinPrice"])
+      .pull-right
+        = link_to "Can I add it to my calendar?", "#", class: "btn btn-primary tell-me-ical", "data-secret" => "#{ENV["SITE"]}ical/#{wishlist.token}"
