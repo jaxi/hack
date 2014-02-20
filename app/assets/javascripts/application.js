@@ -20,6 +20,7 @@
 //= require bootstrap-datepicker
 //= require pages
 //= require airports
+//= require wishlists
 //= require base
 //= require reverse_geocoder
 // =require current_location

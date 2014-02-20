@@ -37,5 +37,9 @@ Hack::Application.routes.draw do
     member do
       put :update_sms_state
     end
+
+    collection do
+      post :polling_charge
+    end
   end
 end

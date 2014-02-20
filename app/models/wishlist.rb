@@ -72,4 +72,8 @@ class Wishlist < ActiveRecord::Base
     list.given_plans ||= []
     list.state = true if list.given_routes.length > 0
   end
+
+  def self.newly_completed(*indexes)
+    where("id IN (?) and state = ?", indexes, true).to_a
+  end
 end

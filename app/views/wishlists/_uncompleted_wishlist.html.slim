@@ -1,4 +1,4 @@
-.panel.panel-default
+= content_tag :div, class: "panel panel-default uncompleted", id: "uncompleted-#{wishlist.id}", "data-id" => "#{wishlist.id}" do
   .panel-heading
     h4.panel-title
       = link_to "#wishlist#{wishlist.id}", "data-parent" => "#accordion", "data-toggle" => "collapse" do

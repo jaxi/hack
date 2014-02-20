@@ -53,7 +53,6 @@ $(function(){
     var airport = $(this).val();
     var that = $(this);
     $.get('/airports/geocode', {airport: airport}, function(result){
-      console.log(result);
       that.data("latitude", result.latitude);
       that.data("longitude", result.longitude);
 

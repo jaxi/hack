@@ -32,4 +32,18 @@ class WishlistsController < ApplicationController
       format.js
     end
   end
+
+  def polling_charge
+    @wishlists = Wishlist.newly_completed *params[:uncompleted].map(&:to_i)
+
+    result = @wishlists.map do |wishlist|
+      {
+        id: wishlist.id,
+        html: render_to_string(partial: "wishlists/completed_wishlist", layout: false,
+          locals: {wishlist: wishlist})
+      }
+    end
+
+    render json: result
+  end
 end
