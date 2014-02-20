@@ -2,7 +2,7 @@ class BestRouteFinder
   attr_reader :wishlist, :city_indexes
 
   attr_accessor :given_routes, :given_plans,
-    :budget, :start_at, :cities
+    :budget, :start_at, :cities, :airline_map, :place_map
 
   def initialize(wishlist)
     @wishlist = wishlist
@@ -17,10 +17,40 @@ class BestRouteFinder
     @stays = wishlist.stays
     @given_routes = [first]
     @given_plans = []
+
+    @airline_map = {}
+    @place_map = {}
   end
 
   def work
     while cheapest_route; next; end
+
+    # FUCK OFF! Skyscanner!!
+    given_plans.each do |plan|
+      if plan["OutboundLeg"].is_a? Hash
+        plan["carrier"] = airline_map[plan["OutboundLeg"]["CarrierIds"]["int"]]
+        plan["OutboundLeg"].except! "CarrierIds"
+        outbound = plan["OutboundLeg"].clone
+        plan.except! "OutboundLeg"
+        plan.merge! outbound
+        plan["DepartureDate"] = plan["DepartureDate"].split("T").first
+        plan["Origin"] = place_map[plan["OriginId"]]
+        plan["Destination"] = place_map[plan["DestinationId"]]
+        plan.except! "OriginId", "DestinationId"
+      else
+        plan["carrier"] = airline_map[plan["InboundLeg"]["CarrierIds"]["int"]]
+        plan["InboundLeg"].except! "CarrierIds"
+        inbound = plan["InboundLeg"].clone
+        plan.merge! inbound
+        plan["DepartureDate"] = plan["DepartureDate"].split("T").first
+        plan["Origin"] = place_map[plan["OriginId"]]
+        plan["Destination"] = place_map[plan["DestinationId"]]
+        plan.except! "OriginId", "DestinationId"
+        plan.except! "InboundLeg"
+      end
+    end
+
+    puts @budget
     {
       given_routes: given_routes.map(&:id),
       given_plans: given_plans
@@ -46,22 +76,27 @@ class BestRouteFinder
       rescue
         next
       end
-      next if response.length == 0
 
       # Tricky part. Kinda bad designed API
-      if response.is_a? Array
-        plan = response[0]
-        price = plan["MinPrice"].to_f
-      else
-        plan = response
-        price = response["MinPrice"].to_f
+      next if response[:quotes].length == 0
+      plan = nil
+      response[:quotes].each do |q|
+        # puts q["MinPrice"]
+        if plan == nil || plan["MinPrice"] > q["MinPrice"]
+          plan = q
+        end
       end
 
-      if budget - price >= 0 &&
-        (best_price == nil ||
-          price * city_indexes.index(city.id) > best_value)
+      airline_map.merge! response[:carriers]
+      place_map.merge! response[:places]
 
-        best_value = price * city_indexes.index(city.id)
+      price = plan["MinPrice"].to_f
+
+      if @budget - price >= 0 &&
+        (best_price == nil ||
+          (city_indexes.length - city_indexes.index(city.id) + 1) / Math.sqrt(price) > best_value)
+
+        best_value = (city_indexes.length - city_indexes.index(city.id) + 1) / Math.sqrt(price)
         best_price = price
         chosen_city = city
         chosen_plan = plan
@@ -70,13 +105,13 @@ class BestRouteFinder
 
     if chosen_city && chosen_plan && best_price
       # ```budget -= best_price``` doesn't work. I don't know why.
-      @budget = budget - best_price
+      @budget = @budget - best_price
       given_routes << chosen_city
       given_plans << chosen_plan
       cities.delete chosen_city
 
       # same issue, as described above
-      @start_at += wishlist.stays[(city_indexes.index chosen_city.id)]
+      @start_at += wishlist.stays[(city_indexes.index chosen_city.id)] + 1
       return true
     else
       return false
