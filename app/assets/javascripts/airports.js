@@ -44,8 +44,29 @@ $(function(){
     source: function(query, process){
       return $.get('/airports/autocomplete',
         {query: query}, function(data){
-          return process(data.result);
+          return process(data);
         });
     }
+  });
+
+  $('.search-query').on('focusout', function () {
+    var airport = $(this).val();
+    var that = $(this);
+    $.get('/airports/geocode', {airport: airport}, function(result){
+      console.log(result);
+      that.data("latitude", result.latitude);
+      that.data("longitude", result.longitude);
+
+      var mapper = new MapApp.Mapper('#map');
+
+      $('.search-query').each(function(index, element) {
+        mapper.addCoordinates(
+          $(element).data('latitude'),
+          $(element).data('longitude')
+        );
+      });
+      // console.log("yes");
+      mapper.render();
+    });
   });
 });

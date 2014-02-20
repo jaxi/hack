@@ -29,6 +29,7 @@ Hack::Application.routes.draw do
   resources :airports, only: [] do
     collection do
       get :autocomplete
+      get :geocode
     end
   end
 

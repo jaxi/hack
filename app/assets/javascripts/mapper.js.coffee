@@ -5,8 +5,7 @@ class @MapApp.Mapper
     @bounds = new MapApp.MapBounds
 
   addCoordinates: (latitude, longitude) ->
-    if !_.isEmpty(latitude) and !_.isEmpty(longitude)
-      @bounds.add(latitude, longitude)
+    @bounds.add(latitude, longitude)
 
   render: =>
     @map = new MapApp.Map(@cssSelector, @bounds)

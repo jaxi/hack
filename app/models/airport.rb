@@ -29,8 +29,11 @@ class Airport < ActiveRecord::Base
   end
 
   def self.find_by_full(query)
-    airport = query.split(", ").first
-    self.where(airport_name: airport).first
+    airport_name = query.split(", ").first
+    airport = self.where(airport_name: airport_name).first
+
+    airport.fetch_again
+    airport
   end
 
   def self.find_city_id(city)
@@ -44,4 +47,13 @@ class Airport < ActiveRecord::Base
 
   geocoded_by :prettify
   after_validation :geocode
+
+  # SO SHIT
+  def fetch_again
+    puts "yes"
+    unless self.latitude
+      self.latitude, self.longitude = Geocoder.coordinates(self.prettify)
+      self.save
+    end
+  end
 end

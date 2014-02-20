@@ -1,5 +1,9 @@
 class AirportsController < ApplicationController
   def autocomplete
-    render json: {result: Airport.autocomplete(params[:query])}
+    render json: Airport.autocomplete(params[:query])
+  end
+
+  def geocode
+    render json: Airport.find_by_full(params[:airport])
   end
 end
