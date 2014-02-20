@@ -9,6 +9,11 @@
 #  user_id    :integer
 #  start_at   :date
 #  end_at     :date
+#  state      :boolean
+#  name       :string(255)
+#  budget     :decimal(8, 2)
+#  result     :text
+#  sms_state  :boolean
 #
 
 require 'spec_helper'

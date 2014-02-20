@@ -9,6 +9,11 @@
 #  user_id    :integer
 #  start_at   :date
 #  end_at     :date
+#  state      :boolean
+#  name       :string(255)
+#  budget     :decimal(8, 2)
+#  result     :text
+#  sms_state  :boolean
 #
 
 class Wishlist < ActiveRecord::Base
@@ -39,6 +44,7 @@ class Wishlist < ActiveRecord::Base
   before_save do |list|
     # default is false
     list.state = false
+    list.sms_state ||= false
 
     # save the date
     list.start_at ||= Date.today + 5.day
