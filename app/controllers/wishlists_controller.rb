@@ -12,8 +12,9 @@ class WishlistsController < ApplicationController
     @wishlist = Wishlist.save_with_cities params[:cities]
     @wishlist.update_attributes(
       user: current_user,
-      name: (params[:name] || "Awesome wish!"),
-      start_at: params[:start_at]
+      name: params[:name],
+      start_at: params[:start_at],
+      budget: params[:budget]
       )
 
     # Here you are

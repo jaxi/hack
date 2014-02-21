@@ -69,7 +69,8 @@ class Wishlist < ActiveRecord::Base
     end
 
     # init the budget, given_plan and given_routes. Well, I know it's too nasty though.
-    list.budget ||= 1000
+    list.budget = 1000 if list.budget.nil? || list.budget == ""
+
     list.given_routes ||= []
     list.given_plans ||= []
     list.state = true if list.given_routes.length > 0
