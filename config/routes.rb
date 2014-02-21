@@ -36,6 +36,7 @@ Hack::Application.routes.draw do
   resources :wishlists, only: [:create, :index] do
     member do
       put :update_sms_state
+      post :sms
     end
 
     collection do

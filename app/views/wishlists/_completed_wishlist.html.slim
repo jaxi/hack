@@ -35,4 +35,7 @@
               td
                 = gbp(plan["MinPrice"])
       .pull-right
+        - if wishlist.sms_state
+          = link_to "Have not received?", sms_wishlist_path(wishlist), remote: true, method: :post, class: "btn btn-success", id: "text-me-again-#{wishlist.id}"
+
         = link_to "Can I add it to my calendar?", "#", class: "btn btn-primary tell-me-ical", "data-secret" => "#{ENV["SITE"]}ical/#{wishlist.token}"

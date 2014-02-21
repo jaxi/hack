@@ -34,6 +34,14 @@ class WishlistsController < ApplicationController
     end
   end
 
+  def sms
+    SMSWorker.perform_async params[:id]
+    @wishlist = Wishlist.find_by id: params[:id]
+    respond_to do |format|
+      format.js
+    end
+  end
+
   def polling_charge
     @wishlists = Wishlist.newly_completed *params[:uncompleted].map(&:to_i)
 
