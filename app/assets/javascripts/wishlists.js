@@ -16,6 +16,8 @@ $(function(){
 
   setInterval(pollingCharge, 5000);
 
+  $('#accordion').sortable();
+
   $('.container').on('click', '.tell-me-ical', function(e){
     console.log("yes");
     e.preventDefault();
