@@ -23,6 +23,8 @@ class Wishlist < ActiveRecord::Base
 
   belongs_to :user
 
+  default_scope order('updated_at DESC')
+
   def city_names
     cities.map do |city|
       Airport.find_by(id: city).prettify
