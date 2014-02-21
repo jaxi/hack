@@ -95,11 +95,11 @@ class BestRouteFinder
         origin_plan = plan
       end
 
-      if @budget - price >= 0 &&
+      if @budget - price >= 10 &&
         (best_price == nil ||
-          (city_indexes.length - city_indexes.index(city.id) + 1) / Math.sqrt(price) > best_value)
+          ((city_indexes.length - city_indexes.index(city.id) + 1) ** 0.5) / (price ** 1.5) > best_value)
 
-        best_value = (city_indexes.length - city_indexes.index(city.id) + 1) / Math.sqrt(price)
+        best_value = ((city_indexes.length - city_indexes.index(city.id) + 1) ** 0.5) / (price ** 1.5)
         best_price = price
         chosen_city = city
         chosen_plan = plan
@@ -113,7 +113,7 @@ class BestRouteFinder
 
     if chosen_city && chosen_plan && best_price
 
-      if best_price != origin_price && origin_price && @budget - best_price - origin_price < 10
+      if best_price != origin_price && origin_price && @budget - best_price - origin_price <= 10
         @budget = @budget - origin_price
         given_routes << origin_city
         given_plans << origin_plan
