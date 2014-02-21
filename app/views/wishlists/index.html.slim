@@ -1,6 +1,11 @@
-#accordion.panel-group.wishlists
-  - @wishlists.each do |wish|
-    - if wish.state
-      = render :partial => "wishlists/completed_wishlist", :locals => { :wishlist => wish }
-    - else
-      = render :partial => "wishlists/uncompleted_wishlist", :locals => { :wishlist => wish }
+.row
+  .col-lg-12
+    h1.lead Your Awesome Wish Lists
+    hr
+
+    #accordion.panel-group.wishlists
+      - @wishlists.each do |wish|
+        - if wish.state
+          = render :partial => "wishlists/completed_wishlist", :locals => { :wishlist => wish }
+        - else
+          = render :partial => "wishlists/uncompleted_wishlist", :locals => { :wishlist => wish }
