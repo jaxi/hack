@@ -76,8 +76,10 @@ gem 'capistrano', '2.15.5', group: :development
 
 # Geocode!
 gem 'geocoder'
-
 gem 'icalendar'
+
+# That's my boy
+gem 'twilio-ruby'
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]

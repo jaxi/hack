@@ -7,6 +7,7 @@ class BestRoutesWorker
 
     return if wishlist.state # Stop meaningless work
 
-    result = BestRouteFinder.new(wishlist).work!
+    BestRouteFinder.new(wishlist).work!
+    TwilioMessage.new(wishlist).send!
   end
 end

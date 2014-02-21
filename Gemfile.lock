@@ -254,6 +254,10 @@ GEM
     treetop (1.4.15)
       polyglot
       polyglot (>= 0.3.1)
+    twilio-ruby (3.11.5)
+      builder (>= 2.1.2)
+      jwt (>= 0.1.2)
+      multi_json (>= 1.3.0)
     twitter-bootswatch-rails (3.1.0.4)
       execjs (>= 1.4.0)
       less-rails (>= 2.3)
@@ -295,6 +299,7 @@ DEPENDENCIES
   sinatra (>= 1.3.0)
   slim-rails
   therubyracer
+  twilio-ruby
   twitter-bootswatch-rails (~> 3.1.0)
   twitter-bootswatch-rails-helpers
   uglifier (>= 1.3.0)
