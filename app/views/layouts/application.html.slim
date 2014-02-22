@@ -33,5 +33,5 @@ html(lang="en")
         == yield
 
     = javascript_include_tag "application"
-    = yield(:page_javascript) if content_for?(:page_javascript)
-    = yield :javascript
+    = render "application/google_analytics"
+    = yield :google_map
