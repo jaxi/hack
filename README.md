@@ -18,7 +18,7 @@ Install mysql, memcached, redis & elastic search on your local machine. Also mak
 
 The rest things might be tricky. Here we go.
 
-- Fill the API keys correctly in your ```.env``` file in the root directory of the app. You can use ```.env.sample``` as the example.
+- Fill the API keys correctly in your ```.env``` file in the root directory of the app. You can use ```.sample.env``` as the example.
 
 - Make sure ```config/database.yml``` is in place.
 
@@ -41,7 +41,7 @@ The rest things might be tricky. Here we go.
 
 If it doesn't work, you probably fill the API keys wrong.
 
-It should be safe for work on windows. 
+It should be safe for work on windows.
 
 Contact me if you have any problems.
 
