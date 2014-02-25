@@ -17,7 +17,7 @@
 
 class Airport < ActiveRecord::Base
   searchkick autocomplete:
-    [:airport_id, :airport_name, :city_id, :city_name, :country_id, :country_name]
+    [:airport_name, :city_name, :country_name]
 
 
   def self.autocomplete(query, limit: 10)
