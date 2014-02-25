@@ -19,9 +19,15 @@ class Airport < ActiveRecord::Base
   searchkick autocomplete:
     [:airport_name, :city_name, :country_name]
 
+  # For ELASTIC SEARCH
+  # def self.autocomplete(query, limit: 10)
+  #   self.search(query, autocomplete: true, limit: limit).map(&:prettify)
+  # end
 
   def self.autocomplete(query, limit: 10)
-    self.search(query, autocomplete: true, limit: limit).map(&:prettify)
+    start_query = "#{query.downcase}%"
+    where("airport_name LIKE ? OR city_name LIKE ? OR country_name LIKE ?",
+      start_query, start_query, start_query).limit(limit).map(&:prettify)
   end
 
   def prettify
