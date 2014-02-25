@@ -1,0 +1,6 @@
+---
+:concurrency: 2
+:pidfile: tmp/pids/sidekiq.pid
+:queues:
+  - [best_routes, 2]
+  - [sms, 1]

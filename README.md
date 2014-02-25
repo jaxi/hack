@@ -39,6 +39,8 @@ The rest things might be tricky. Here we go.
 
 - Short message service: ```$ bundle exec sidekiq -q sms```
 
+- or just ```foreman start``` to start both of them above.
+
 If it doesn't work, you probably fill the API keys wrong.
 
 It should be safe for work on windows.
