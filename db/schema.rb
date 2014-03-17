@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140220211733) do
+ActiveRecord::Schema.define(version: 20140317121418) do
 
   create_table "airports", force: true do |t|
     t.string   "airport_id"
@@ -25,6 +25,10 @@ ActiveRecord::Schema.define(version: 20140220211733) do
     t.float    "latitude"
     t.float    "longitude"
   end
+
+  add_index "airports", ["airport_name"], name: "index_airports_on_airport_name", using: :btree
+  add_index "airports", ["city_name"], name: "index_airports_on_city_name", using: :btree
+  add_index "airports", ["country_name"], name: "index_airports_on_country_name", using: :btree
 
   create_table "users", force: true do |t|
     t.string   "provider"
@@ -50,6 +54,7 @@ ActiveRecord::Schema.define(version: 20140220211733) do
     t.text     "result"
     t.boolean  "sms_state"
     t.string   "token"
+    t.integer  "position"
   end
 
   add_index "wishlists", ["user_id"], name: "index_wishlists_on_user_id", using: :btree

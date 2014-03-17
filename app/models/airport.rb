@@ -56,7 +56,6 @@ class Airport < ActiveRecord::Base
 
   # SO SHIT
   def fetch_again
-    puts "yes"
     unless self.latitude
       self.latitude, self.longitude = Geocoder.coordinates(self.prettify)
       self.save
